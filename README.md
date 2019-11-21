@@ -1,8 +1,9 @@
 # Welcome to the organisation structure for the yes fam germany
+[Dora Bobanović](https://www.linkedin.com/in/dora-bobanovi%C4%87/) is the Facebook Community Manager for Yes Theory. Please give her access to the group if she sends a request. [FB Account](https://www.facebook.com/dora.bobanovic)
 ## Groups
-* [Germany](https://www.facebook.com/groups/YesTheoryFamGermany/)
-* [Cologne](https://www.facebook.com/groups/447757289016396/)
-* [Berlin](https://www.facebook.com/groups/818003705296981/)
+* [Germany](https://www.facebook.com/groups/YesTheoryFamGermany/) (representative: [Artjom Gasarov](https://www.facebook.com/Artjomgasarov), [Laurenz Bennet](https://www.facebook.com/laurenz.bennet), [Sally Ibeling](https://www.facebook.com/SallyMarleneIbeling))
+* [Cologne](https://www.facebook.com/groups/447757289016396/) (representative: [Oliver Butom](https://www.facebook.com/oliver.butom))
+* [Berlin](https://www.facebook.com/groups/818003705296981/) (representative: [Masin Shadfan](https://www.facebook.com/masin.shadfan))
 ## Groupchats
 Groups will get full at 250 members.  
 💚 = group reacheble and has space | 💛 = group reachable but has no space  
