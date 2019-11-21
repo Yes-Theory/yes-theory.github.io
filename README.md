@@ -5,6 +5,7 @@
 * [Cologne](https://www.facebook.com/groups/447757289016396/) (representative: [Oliver Butom](https://www.facebook.com/oliver.butom))
 * [Berlin](https://www.facebook.com/groups/818003705296981/) (representative: [Masin Shadfan](https://www.facebook.com/masin.shadfan))
 * [Munich](https://www.facebook.com/groups/383077572375468/) (representative: [Janosch Landvogt](https://www.facebook.com/Skuxxnosch))
+* [Yes Theory Frankfurt](https://www.facebook.com/groups/205710210227743/) (representative: [Artjom Gasarov](https://www.facebook.com/Artjomgasarov))
 ## Groupchats
 Groups will get full at 250 members.  
 💚 = group reacheble and has space | 💛 = group reachable but has no space  
