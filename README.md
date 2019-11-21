@@ -4,18 +4,25 @@
 * [Cologne](https://www.facebook.com/groups/447757289016396/)
 * [Berlin](https://www.facebook.com/groups/818003705296981/)
 ## Groupchats
-* [Bavaria](https://m.me/join/AbYKenjoOoL_w-Qh)
-* [Berlin](https://m.me/join/AbY9rwHh-9qMfyCg)
-* [Cologne](https://m.me/join/AbaE0x_QSQ8jl7v-)
-* [Dusseldof/Duisburg](https://m.me/join/Abbv1Cc6jfW41z41?fbclid=IwAR30vQ8a1488qTs9qYfLQAI3W0ScLACPr7LE7sObOi3CNF7bV4lPUmub5og)
-* [Frankfurt/ Hassen](https://www.messenger.com/mme_redirect/join/?group_hash=AbYaGGrQmGkWHDsj)
-* [Hannover](https://m.me/join/AbZEedsqHQWRzS3Z)
-* [North Rhine-Westphalia](https://www.messenger.com/mme_redirect/join/?group_hash=AbYuHzRU8BNzZhrx)
-* [Stuttgart](https://m.me/join/AbYpZd14XdqPFVb4)
-* [Thüringen](https://m.me/join/AbYhZarwRwOI8ecS)
-* [Koblenz](https://chat.whatsapp.com/E47FkfH5CC05nS0U90fvWI)
+Groups will get full at 250 members.  
+💚 = group reacheble and has space | 💛 = group reachable but has no space  
+WA = WhatsApp | ME = Messenger (Facebook group)
+* ME 💛 [Germany](https://m.me/join/AbaRRQh27naWDWhR)
+* ME 💚 [Bavaria](https://m.me/join/AbYKenjoOoL_w-Qh)
+* ME 💛 [Berlin](https://m.me/join/AbY9rwHh-9qMfyCg)
+* ME 💚 [Cologne](https://m.me/join/AbaE0x_QSQ8jl7v-)
+* ME 💚 [Dusseldof/Duisburg](https://www.messenger.com/mme_redirect/join/?group_hash=Abbv1Cc6jfW41z41)
+* ME 💚 [Frankfurt/ Hassen](https://www.messenger.com/mme_redirect/join/?group_hash=AbYaGGrQmGkWHDsj)
+* ME 💚 [Hannover](https://m.me/join/AbZEedsqHQWRzS3Z)
+* ME 💚 [North Rhine-Westphalia](https://www.messenger.com/mme_redirect/join/?group_hash=AbYuHzRU8BNzZhrx)
+* ME 💚 [Stuttgart](https://m.me/join/AbYpZd14XdqPFVb4)
+* ME 💚 [Thüringen](https://m.me/join/AbYhZarwRwOI8ecS)
+* WA 💚 [Koblenz](https://chat.whatsapp.com/E47FkfH5CC05nS0U90fvWI)
 ## Eventchats
-* [Yesfam Nürnberg Meetup](https://chat.whatsapp.com/EgeQaBqHR4DAOLy24G9Pw6)
+Groups will get full at 250 members.  
+💚 = group reacheble and has space | 💛 = group reachable but has no space  
+WA = WhatsApp | ME = Messenger (Facebook group)
+* WA 💚 [Yesfam Nürnberg Meetup](https://chat.whatsapp.com/EgeQaBqHR4DAOLy24G9Pw6)
 
 # Welcome to the backend of the Yes Theory Fam Germany organisation tool
 ## How to contribute?
