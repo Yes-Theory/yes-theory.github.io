@@ -44,6 +44,12 @@ Groups will get full at 250 members.
 WA = WhatsApp | ME = Messenger (Facebook group)  
 * WA 💚 [Yesfam Nürnberg Meetup](https://chat.whatsapp.com/EgeQaBqHR4DAOLy24G9Pw6)  
 
+## Working groups
+Groups will get full at 250 members.  
+💚 = group reacheble and has space | 💛 = group reachable but has no space  
+WA = WhatsApp | ME = Messenger (Facebook group) 
+* WA 💚 [Website development](https://chat.whatsapp.com/HFyjgbB4UguHRksUtLFEBL)  
+
 ## Announcements  
 * [Yes Theory Fam Germany](https://www.facebook.com/groups/YesTheoryFamGermany/announcements/)  
 
