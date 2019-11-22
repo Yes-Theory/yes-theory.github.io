@@ -3,10 +3,10 @@
 
 @import "{{ site.theme }}";
 .page-header{
-    background: url('https://yes-theory.github.io/images/Yes-Theory-Fam-Frankfurt-Meetup.jpg');
+    background: none;
     &:before{
         content: '';
         display: block;
-        background: #0065FC;
+        background: url('https://yes-theory.github.io/images/Yes-Theory-Fam-Frankfurt-Meetup.jpg');
     }
 }
