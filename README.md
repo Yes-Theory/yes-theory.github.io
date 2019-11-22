@@ -94,8 +94,11 @@ It might be some work but it's definetly worth it. Take a look at the [Groups](#
 Under [Eventchats](#eventchats) please add your event. It helps organizing future events and keeps track of past events. Also if you ever get stuck at some point. Take a look at this section maybe someone who already did an event might be able to help you.  
 ## Equipment
 Currently there is no equipment from this side. But if you have a loudspeaker, a seek discomfort flag or anything else you would like to share, you can add it to this list by editing this page or sending me a DM at [Noel Schenk](https://www.facebook.com/noel.elias.schenk).
-* ex. seek discomfort flag in [Berlin](#) provided by [AwesomePerson](#)
-
+* ex. seek discomfort flag in [Berlin](#) provided by [AwesomePerson](#)  
+## Legal
+If you want to sell tickets you should take a look at this page: (Rechtliche Rahmenbedingungen für Ihre Betriebsfeier)[https://www.business-wissen.de/artikel/veranstaltungen-planen-rechtliche-rahmenbedingungen-fuer-ihre-betriebsfeier/]
+Please stay within the law. The trouble is IMHO not worth it.
+This document is not complete and we are also not responsible for your event. If you need more information you might want to take a look at this page: [eventfaq](https://eventfaq.de/checklisten/).
 # Backend  
 ## How to contribute?  
 If you would like to change a file send a Pull request with the changes to this repository. After that it can be discussed and merged with the main version.  
