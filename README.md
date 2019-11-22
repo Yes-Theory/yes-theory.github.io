@@ -6,6 +6,7 @@
 * [Munich](https://www.facebook.com/groups/383077572375468/) (representative: [Janosch Landvogt](https://www.facebook.com/Skuxxnosch))
 * [Frankfurt](https://www.facebook.com/groups/205710210227743/) (representative: [Artjom Gasarov](https://www.facebook.com/Artjomgasarov))
 ## Groupchats
+**Lookin for group chat representatives please send me a DM: [Noel Schenk](https://www.facebook.com/noel.elias.schenk)**
 Groups will get full at 250 members.  
 💚 = group reacheble and has space | 💛 = group reachable but has no space  
 WA = WhatsApp | ME = Messenger (Facebook group)
@@ -57,3 +58,6 @@ If you would like to change a file send a Pull request with the changes to this 
 * Scroll down and give the changes a title and a description. For example: added new whatsapp chat
 * Click on propose file change.
 * Now other community member can review it and add it to the project.
+# There is something wrong
+If I made a mistake or for everything else please message me on facebook.
+Account: [Noel Schenk](https://www.facebook.com/noel.elias.schenk)
