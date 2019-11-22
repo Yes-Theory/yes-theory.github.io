@@ -86,7 +86,7 @@ You almost made it. Now it would be awesome to see other people joining your eve
 To reach the most amount of people you should put your event on the Yes Theory Fam Germany Facebook Page.
 * Click on events/Veranstaltungen
 * Click on "Create Event" or "Veranstaltung erstellen"
-* Add the event details and don't forget to add the link to your groupchat  
+* Add the event details and don't forget to add the link to your eventchat  
 
 ### Groups and Groupchats
 It might be some work but it's definetly worth it. Take a look at the [Groups](#groups) and [Groupchats](#groupchats) and find the ones that are close to your event location. Send to the groupchats a nice explanation of your event with the key information also stay around for questions that might pop up and add them as a FAQ to your Eventchat description. For other Groups you can do the same as you did for the "Yes Theory Fam Germany" group.  
