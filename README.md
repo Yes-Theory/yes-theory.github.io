@@ -47,7 +47,7 @@ You will need Chrome or Firefox Focus
 * Click on "Request desktop site" or "Desktop site"
 * Sometimes it helps to close the site and to try again
 Also try to join on another device it will sync across devices.  
-# Welcome to the backend of the Yes Theory Fam Germany organisation tool  
+# Backend  
 ## How to contribute?  
 If you would like to change a file send a Pull request with the changes to this repository. After that it can be discussed and merged with the main version.  
 ## Tutorial  
