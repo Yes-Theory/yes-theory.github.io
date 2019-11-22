@@ -31,7 +31,8 @@ WA = WhatsApp | ME = Messenger (Facebook group)
 * ME 💚 [Stuttgart](https://m.me/join/AbYpZd14XdqPFVb4)
 * ME 💚 [Thüringen](https://m.me/join/AbYhZarwRwOI8ecS)
 * ME 💚 [Munich](https://www.messenger.com/mme_redirect/join/?group_hash=Aba5KvWx0zHCG1B5) (representative: [Hugo Roget](https://www.facebook.com/hugo.roget))
-* WA 💚 [Koblenz](https://chat.whatsapp.com/E47FkfH5CC05nS0U90fvWI)  
+* WA 💚 [Koblenz](https://chat.whatsapp.com/E47FkfH5CC05nS0U90fvWI)
+* WA 💚 [Saxony](https://chat.whatsapp.com/GUckJn1Vrh58TuMXbL0oEo) (representative: [Cuong VM](https://www.facebook.com/cuong.vumanh2))
 
 ## Eventchats  
 Groups will get full at 250 members.  
