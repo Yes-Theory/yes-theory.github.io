@@ -3,6 +3,7 @@ What are you looking for?
 * [Groups](#groups)
 * [Groupchats](#groupchats)
 * [Eventchats](#Eventchats)
+* [Working groups](#working-groups)
 * [Announcements](#announcements)
 * [Information](#nformation)
 * [Technical support](#technical-support)
