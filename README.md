@@ -1,4 +1,4 @@
-# Welcome to the organisation structure for the yes fam germany
+# Yes Theory Fam Germany
 ## Groups
 * [Germany](https://www.facebook.com/groups/YesTheoryFamGermany/) (representative: [Artjom Gasarov](https://www.facebook.com/Artjomgasarov), [Laurenz Bennet](https://www.facebook.com/laurenz.bennet), [Sally Ibeling](https://www.facebook.com/SallyMarleneIbeling))
 * [Cologne](https://www.facebook.com/groups/447757289016396/) (representative: [Oliver Butom](https://www.facebook.com/oliver.butom))
