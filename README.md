@@ -93,8 +93,8 @@ It might be some work but it's definetly worth it. Take a look at the [Groups](#
 ### This page
 Under [Eventchats](#eventchats) please add your event. It helps organizing future events and keeps track of past events. Also if you ever get stuck at some point. Take a look at this section maybe someone who already did an event might be able to help you.  
 ## Equipment
-Currently there is no equipment from this side. But if you have a speaker, a seek discomfort flag or anything else you would like to share, you can add it to this list by editing this page or sending me a DM at [Noel Schenk](https://www.facebook.com/noel.elias.schenk).
-*  
+Currently there is no equipment from this side. But if you have a loudspeaker, a seek discomfort flag or anything else you would like to share, you can add it to this list by editing this page or sending me a DM at [Noel Schenk](https://www.facebook.com/noel.elias.schenk).
+* ex. seek discomfort flag in [Berlin](#) provided by [AwesomePerson](#)
 
 # Backend  
 ## How to contribute?  
