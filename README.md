@@ -6,7 +6,8 @@ What are you looking for?
 * [Announcements](#announcements)
 * [Information](#nformation)
 * [Technical support](#technical-support)
-* [Backend](#backend)  
+* [Backend](#backend)
+* [Event planing](#event-planing)
 
 ## Groups  
 * [Germany](https://www.facebook.com/groups/YesTheoryFamGermany/) (representative: [Artjom Gasarov](https://www.facebook.com/Artjomgasarov), [Laurenz Bennet](https://www.facebook.com/laurenz.bennet), [Sally Ibeling](https://www.facebook.com/SallyMarleneIbeling))
