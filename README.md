@@ -64,8 +64,8 @@ Also try to join on another device it will sync across devices.
 ## Event planing
 Awesome! Hosting a Yes Theory event is one of the best experiences you will ever make. To simplify your life we would like to support you with your planing.  
 ## Where should I start?
-Maybe you already know the people then you could start with finding a date. You can use the [tool Doodle](https://doodle.com/de/) (use the free version) to find a date which suits most of the people.  
-If you don't know many people you might want to join a [group](#group) or a [groupchat](#groupchat) and use this as a base.
+Maybe you already know the people. If so you could start with finding a date. You can use the [tool Doodle](https://doodle.com/de/) (use the free version) to find a date which suits most of the people. Also don't forget the exact time. Waiting more than 2 hours in the cold may not be the seek discomfort you are looking for.  
+If you don't know many people you might want to join a [group](#groups) or a [groupchat](#groupchats) and use this as a base.
 ## Find a meeting location
 Now that you have found a date and the Yes Fams you have to decide a location where you will meet. I recommend a HBF (main trainstation) or a big square. In cologne the big square between the Dom and the HBF is perfect for the first meet.
 ## Activities
@@ -80,8 +80,17 @@ There is so much stuff you can do. Here are some examples:
 * Party  
 
 ## Spread the message
+You almost made it. Now it would be awesome to see other people joining your event. Start it by creating a Messenger or WhatsApp group. Once the group is created copy the join link and add it to the group description. By doing that you allow other people to share the event.
+### Yes Theory Fam Germany
+To reach the most amount of people you should put your event on the Yes Theory Fam Germany Facebook Page.
+* Click on events/Veranstaltungen
+* Click on "Create Event" or "Veranstaltung erstellen"
+* Add the event details and don't forget to add the link to your groupchat  
 
-
+### Groups and Groupchats
+It might be some work but it's definetly worth it. Take a look at the [Groups](#groups) and [Groupchats](#groupchats) and find the ones that are close to your event location. Send to the groupchats a nice explanation of your event with the key information also stay around for questions that might pop up and add them as a FAQ to your Eventchat description. For other Groups you can do the same as you did for the "Yes Theory Fam Germany" group.  
+### This page
+Under [Eventchats](#eventchats) you please add your event. It helps organizing future events and keeps track of past events. Also if you ever get stuck at some point. Take a look at this section maybe someone who already did an event might be able to help you.
 # Backend  
 ## How to contribute?  
 If you would like to change a file send a Pull request with the changes to this repository. After that it can be discussed and merged with the main version.  
