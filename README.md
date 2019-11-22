@@ -60,6 +60,28 @@ You will need Chrome or Firefox Focus
 * Sometimes it helps to close the site and to try again  
 
 Also try to join on another device it will sync across devices.  
+
+## Event planing
+Awesome! Hosting a Yes Theory event is one of the best experiences you will ever make. To simplify your life we would like to support you with your planing.  
+## Where should I start?
+Maybe you already know the people then you could start with finding a date. You can use the [tool Doodle](https://doodle.com/de/) (use the free version) to find a date which suits most of the people.  
+If you don't know many people you might want to join a [group](#group) or a [groupchat](#groupchat) and use this as a base.
+## Find a meeting location
+Now that you have found a date and the Yes Fams you have to decide a location where you will meet. I recommend a HBF (main trainstation) or a big square. In cologne the big square between the Dom and the HBF is perfect for the first meet.
+## Activities
+There is so much stuff you can do. Here are some examples:  
+* Christmas market
+* Ice skating
+* Indoor rock climbing
+* Dancing
+* Free hugs
+* Helping homeless people
+* Secret Santa (Wichteln)
+* Party  
+
+## Spread the message
+
+
 # Backend  
 ## How to contribute?  
 If you would like to change a file send a Pull request with the changes to this repository. After that it can be discussed and merged with the main version.  
