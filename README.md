@@ -2,7 +2,7 @@
 What are you looking for?
 * [Groups](#groups)
 * [Groupchats](#groupchats)
-* [Eventchats](#Eventchats)
+* [Eventchats](#eventchats)
 * [Working groups](#working-groups)
 * [Announcements](#announcements)
 * [Information](#nformation)
