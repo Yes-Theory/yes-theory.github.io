@@ -91,7 +91,7 @@ To reach the most amount of people you should put your event on the Yes Theory F
 ### Groups and Groupchats
 It might be some work but it's definetly worth it. Take a look at the [Groups](#groups) and [Groupchats](#groupchats) and find the ones that are close to your event location. Send to the groupchats a nice explanation of your event with the key information also stay around for questions that might pop up and add them as a FAQ to your Eventchat description. For other Groups you can do the same as you did for the "Yes Theory Fam Germany" group.  
 ### This page
-Under [Eventchats](#eventchats) you please add your event. It helps organizing future events and keeps track of past events. Also if you ever get stuck at some point. Take a look at this section maybe someone who already did an event might be able to help you.
+Under [Eventchats](#eventchats) please add your event. It helps organizing future events and keeps track of past events. Also if you ever get stuck at some point. Take a look at this section maybe someone who already did an event might be able to help you.
 # Backend  
 ## How to contribute?  
 If you would like to change a file send a Pull request with the changes to this repository. After that it can be discussed and merged with the main version.  
