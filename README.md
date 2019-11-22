@@ -25,7 +25,7 @@ WA = WhatsApp | ME = Messenger (Facebook group)
 * ME 💚 [Bavaria](https://m.me/join/AbYKenjoOoL_w-Qh)
 * ME 💛 [Berlin](https://m.me/join/AbY9rwHh-9qMfyCg) 📝 create another group chat
 * ME 💚 [Cologne](https://m.me/join/AbaE0x_QSQ8jl7v-)
-* ME 💚 [Dusseldof/Duisburg](https://www.messenger.com/mme_redirect/join/?group_hash=Abbv1Cc6jfW41z41)
+* ME 💚 [Dusseldof/Duisburg](https://www.messenger.com/mme_redirect/join/?group_hash=Abbv1Cc6jfW41z41) (representative: [Sameh Fares](https://www.facebook.com/MegaDeath.Sameh))
 * ME 💚 [Frankfurt/ Hassen](https://www.messenger.com/mme_redirect/join/?group_hash=AbYaGGrQmGkWHDsj)
 * ME 💚 [Hannover](https://m.me/join/AbZEedsqHQWRzS3Z)
 * ME 💚 [North Rhine-Westphalia](https://www.messenger.com/mme_redirect/join/?group_hash=AbYuHzRU8BNzZhrx)
