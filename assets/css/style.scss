@@ -6,6 +6,7 @@
 .page-header{
     background: none;
     position: relative;
+    background-size: cover;
     &:before{
         content: '';
         display: block;
