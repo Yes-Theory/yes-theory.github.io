@@ -1,4 +1,13 @@
 # Yes Theory Fam Germany  
+What are you looking for?
+* [Groups](#groups)
+* [Groupchats](#groupchats)
+* [Eventchats](#Eventchats)
+* [Announcements](#announcements)
+* [Information](#nformation)
+* [Technical support](#technical-support)
+* [Backend](#backend)
+
 ## Groups  
 * [Germany](https://www.facebook.com/groups/YesTheoryFamGermany/) (representative: [Artjom Gasarov](https://www.facebook.com/Artjomgasarov), [Laurenz Bennet](https://www.facebook.com/laurenz.bennet), [Sally Ibeling](https://www.facebook.com/SallyMarleneIbeling))
 * [Cologne](https://www.facebook.com/groups/447757289016396/) (representative: [Oliver Butom](https://www.facebook.com/oliver.butom))
@@ -31,9 +40,9 @@ WA = WhatsApp | ME = Messenger (Facebook group)
 * WA 💚 [Yesfam Nürnberg Meetup](https://chat.whatsapp.com/EgeQaBqHR4DAOLy24G9Pw6)
 
 ## Announcements  
-* [Yes Theory Fam Germany](https://www.facebook.com/groups/YesTheoryFamGermany/announcements/)
+* [Yes Theory Fam Germany](https://www.facebook.com/groups/YesTheoryFamGermany/announcements/)  
 ## Information  
-* [Dora Bobanović](https://www.linkedin.com/in/dora-bobanovi%C4%87/) is the Facebook Community Manager for Yes Theory. Please give her access to the group if she sends a request. [FB Account](https://www.facebook.com/dora.bobanovic)
+* [Dora Bobanović](https://www.linkedin.com/in/dora-bobanovi%C4%87/) is the Facebook Community Manager for Yes Theory. Please give her access to the group if she sends a request. [FB Account](https://www.facebook.com/dora.bobanovic)  
 ## Technical support  
 ### I get an error when I try to join the group.  
 Facebook seems to have a problem and on some devices it's not possible to join.  
