@@ -89,7 +89,14 @@ There is so much stuff you can do. Here are some examples:
 * Free hugs
 * Helping homeless people
 * Secret Santa (Wichteln)
-* Party  
+* Party
+* Hiking
+* Cooking
+* Visit a Museum
+* Concert
+* Bicycle tour
+* Theater
+* Games night
 
 ## Spread the message
 You almost made it. Now it would be awesome to see other people joining your event. Start it by creating a Messenger or WhatsApp group. Once the group is created copy the join link and add it to the group description. By doing that you allow other people to share the event.
