@@ -38,6 +38,7 @@ WA = WhatsApp | ME = Messenger (Facebook group)
 * WA 💚 [Saxony](https://chat.whatsapp.com/GUckJn1Vrh58TuMXbL0oEo) (representative: [Cuong VM](https://www.facebook.com/cuong.vumanh2))
 * WA 💚 [Mannheim](https://chat.whatsapp.com/If95u6ZZqZ26RStxvRyGyg) (representative: [Johanna Faust](https://www.facebook.com/johanna.faust.35))
 * WA 💚 [Saarland](https://chat.whatsapp.com/BvMwlVpSfuVLVlt3kdoesv) (representative: [Shubham Jain](https://www.facebook.com/shubhij123))
+* WA 💚 [Bangalore, India](https://chat.whatsapp.com/EzxYBrGSVVD1CTcNRpgEjl) (representative: [Rajiv Priyadarshi](https://www.facebook.com/rajivpriyadarshi))
 
 ## Eventchats  
 Groups will get full at 250 members.  
