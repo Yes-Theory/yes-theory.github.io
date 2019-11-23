@@ -44,6 +44,7 @@ Groups will get full at 250 members.
 💚 = group reacheble and has space | 💛 = group reachable but has no space  
 WA = WhatsApp | ME = Messenger (Facebook group)  
 * WA 💚 [Yesfam Nürnberg Meetup](https://chat.whatsapp.com/EgeQaBqHR4DAOLy24G9Pw6)  
+* WA 💚 [YES FAM Bonn Meet-up](https://chat.whatsapp.com/JvqPMQT8spK5RJlLvThCha)
 
 ## Working groups
 Groups will get full at 250 members.  
