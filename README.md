@@ -24,7 +24,7 @@ Groups will get full at 250 members.
 WA = WhatsApp | ME = Messenger (Facebook group)  
 * ME 💛 [Germany](https://m.me/join/AbaRRQh27naWDWhR) 📝 create another group chat
 * ME 💚 [Bavaria](https://m.me/join/AbYKenjoOoL_w-Qh)
-* ME 💛 [Berlin](https://m.me/join/AbY9rwHh-9qMfyCg) 📝 create another group chat
+* ME 💛 [Berlin](https://m.me/join/AbY9rwHh-9qMfyCg) (representative: [Masin Shadfan](https://www.facebook.com/masin.shadfan)) 📝 create another group chat
 * ME 💚 [Cologne](https://m.me/join/AbaE0x_QSQ8jl7v-)
 * WA 💚 [Cologne](https://chat.whatsapp.com/KEQsvCMMNWjBojXurteIsE)
 * ME 💚 [Dusseldof/Duisburg](https://www.messenger.com/mme_redirect/join/?group_hash=Abbv1Cc6jfW41z41) (representative: [Sameh Fares](https://www.facebook.com/MegaDeath.Sameh))
@@ -38,6 +38,7 @@ WA = WhatsApp | ME = Messenger (Facebook group)
 * WA 💚 [Saxony](https://chat.whatsapp.com/GUckJn1Vrh58TuMXbL0oEo) (representative: [Cuong VM](https://www.facebook.com/cuong.vumanh2))
 * WA 💚 [Mannheim](https://chat.whatsapp.com/If95u6ZZqZ26RStxvRyGyg) (representative: [Johanna Faust](https://www.facebook.com/johanna.faust.35))
 * WA 💚 [Saarland](https://chat.whatsapp.com/BvMwlVpSfuVLVlt3kdoesv) (representative: [Shubham Jain](https://www.facebook.com/shubhij123))
+* WA 💚 [Thuringia](https://chat.whatsapp.com/BSjp6i1OHs3LNMudbjbfUH)
 
 ## Eventchats  
 Groups will get full at 250 members.  
