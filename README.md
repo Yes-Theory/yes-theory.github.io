@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Yes Theory Fam Germany  
 What are you looking for?
 * [Groups](#groups)
