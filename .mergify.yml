@@ -9,7 +9,7 @@ pull_request_rules:
   - name: automatic merge for technology representative of country - india
     conditions:
       - base=master
-      - author=noelelias
+      - author=test-noelelias
       - files=india.md
     actions:
       merge:
