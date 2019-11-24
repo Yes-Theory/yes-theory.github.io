@@ -1,5 +1,6 @@
 # General Information
-Goal: We are ambassadors for our group/country. We serve other Yes Fam members by connecting groups and countries.  
+## Goal
+We are ambassadors for our group/country. We serve other Yes Fam members by connecting groups and countries.  
 ## Structure
 Currently we start at a group level (group representatives) who share a chat for a country. This group decides who should represent the country for them.  
 How those representatives are elected will be decided within those groups. I recommend a simple majority vote.
