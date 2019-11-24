@@ -21,3 +21,5 @@ It would be awesome if you could host local Yes Theory meetups and events.
 ## country representative
 The country representative is responsible for keeping in touch with the other group representatives and checking in with the global OC - Yes Theory chat.  
 It would be awesome if you could host national Yes Theory meetups and events.  
+
+This document is not complete. Please feel free to contribute. [How do I contribute?](https://github.com/Yes-Theory/yes-theory.github.io)
