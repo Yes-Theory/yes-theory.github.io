@@ -10,7 +10,7 @@ The country representatives share another chat group.
 Name of the group: OC - Yes Theory **Countryname**  
 Description of the group:  
 Organizing Committee Yes Theory India  
-Invitation Link: 📲 invitation link  
+Invitation Link: 📲 **invitation link**  
 The goal ist to better connect Yes Fam Groups within **Countryname**.  
 It would be awesome if each representative from every **Countryname** group and groupchat is present in this chat.  
 https://yes-theory.github.io/  
