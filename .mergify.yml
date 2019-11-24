@@ -1,9 +1,8 @@
 pull_request_rules:
   - name: automatic merge when 2 reviews and we know the person
     conditions:
-      - "#approved-reviews-by>=1"
       - base=master
-      - author=noelelias
+      - approved-reviews-by>=1
     actions:
       merge:
         method: merge
