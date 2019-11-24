@@ -11,12 +11,17 @@
 
 ### ✨ [Demo](https://yes-theory.github.io)
 
-## Author
+## Authors
 
+### Overall
 👤 **Noel Schenk**
 
-* Website: https://noelelias.github.io
 * Github: [@noelelias](https://github.com/noelelias)
+
+### India
+👤 **Bikash Dash**
+
+* Github: [@beeeku](https://github.com/beeeku)
 
 ## 🤝 Contributing
 
