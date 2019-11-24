@@ -5,6 +5,8 @@ We are ambassadors for our group/country. We serve other Yes Fam members by conn
 Currently we start at a group level (group representatives) who share a chat for a country. This group decides who should represent the country for them.  
 How those representatives are elected will be decided within those groups. I recommend a simple majority vote.
   
+The country representatives share another chat group.  
+  
 ### Chat Recommendation
 Name of the group: OC - Yes Theory **Countryname**  
 Description of the group:  
@@ -13,8 +15,6 @@ Invitation Link: 📲 invitation link
 The goal ist to better connect Yes Fam Groups within **Countryname**.  
 It would be awesome if each representative from every **Countryname** group and groupchat is present in this chat.  
 https://yes-theory.github.io/  
-  
-The country representatives share another chat group.  
 
 ## group representative
 The group representative is responsible for keeping in touch with his group and checking in with the country representative from time to time.  
