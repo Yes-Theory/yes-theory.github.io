@@ -35,4 +35,5 @@ You will need Chrome or Firefox Focus
 * Sometimes it helps to close the site and to try again  
 
 Also try to join on another device it will sync across devices.  
+
 {% include backend.md %}
