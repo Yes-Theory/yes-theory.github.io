@@ -5,15 +5,18 @@ layout: default
 What are you looking for?
 * [Groupchats](#groupchats)
 
+India is represented by [Ajay Tantry](https://www.facebook.com/ajay.tantry)
+
 ## Groupchats  
 **Lookin for group chat representatives please send me a DM: [Noel Schenk](https://www.facebook.com/noel.elias.schenk)**  
 Groups will get full at 250 members.  
 💚 = group reacheble and has space | 💛 = group reachable but has no space  
 WA = WhatsApp | ME = Messenger (Facebook group)  
 * WA 💚 [Bangalore](https://chat.whatsapp.com/EzxYBrGSVVD1CTcNRpgEjl) (representative: [Rajiv Priyadarshi](https://www.facebook.com/rajivpriyadarshi))
-* ME 💚 [India](https://m.me/join/AbYQ3LU2_niAZPpC)
-* ME 💚 [Bangalore](https://m.me/join/AbYadmRTvjsqlHId)
-* ME 💚 [Mumbai](https://m.me/join/AbYRahr78yleYBdR)
+* ME 💚 [India](https://m.me/join/AbYQ3LU2_niAZPpC) (representative: [Ajay Tantry](https://www.facebook.com/ajay.tantry))
+* ME 💚 [Bangalore](https://m.me/join/AbYadmRTvjsqlHId) (representative: [Adithya S Rao](https://www.facebook.com/profile.php?id=100004124409756))
+* ME 💚 [Mumbai](https://m.me/join/AbYRahr78yleYBdR) (representative: [Uday G Desai](https://www.facebook.com/uday.desai.585))
+* ME 💚 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu)
 
 ## Information  
 * [Dora Bobanović](https://www.linkedin.com/in/dora-bobanovi%C4%87/) is the Facebook Community Manager for Yes Theory. Please give her access to the group if she sends a request. [FB Account](https://www.facebook.com/dora.bobanovic)  
