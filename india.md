@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Yes Theory Fam Germany  
+# Yes Theory Fam India  
 What are you looking for?
 * [Groupchats](#groupchats)
 
