@@ -6,7 +6,6 @@ pull_request_rules:
     actions:
       merge:
         method: merge
-
   - name: automatic merge for technology representative of country - india
     conditions:
       - base=master
