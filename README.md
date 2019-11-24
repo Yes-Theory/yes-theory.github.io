@@ -9,8 +9,6 @@
 
 ### 🏠 [Homepage](https://yes-theory.github.io)
 
-### ✨ [Demo](https://yes-theory.github.io)
-
 ## Authors
 
 ### Overall
