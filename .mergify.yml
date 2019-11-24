@@ -1,0 +1,19 @@
+pull_request_rules:
+  - name: automatic merge when 2 reviews and we know the person
+    conditions:
+      - "#approved-reviews-by>=2"
+      - base=master
+      - author=noelelias
+    actions:
+      merge:
+        method: merge
+
+pull_request_rules:
+  - name: automatic merge for technology representative of country - india
+    conditions:
+      - base=master
+      - author=noelelias
+      - files=india.md
+    actions:
+      merge:
+        method: merge
