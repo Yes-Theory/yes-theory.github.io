@@ -1,0 +1,62 @@
+.yf-overview-card {
+  width: 200px;
+}
+
+.yf-title {
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+  font-weight: 300;
+  font-size: 2rem;
+}
+
+@media (min-width: 768px) {
+  .yf-title {
+    font-size: 3rem;
+  }
+}
+
+.yf-lead {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+twitter-widget {
+  margin: 0 auto;
+}
+
+.introduction {
+  position: relative;
+  color: white;
+  text-align: center;
+  background: #0065fc;
+  z-index: 200;
+}
+
+#overviewHeaderCarousel {
+  z-index: 100;
+}
+
+@media (min-width: 768px) {
+  #overviewHeaderCarousel {
+    top: -60px;
+  }
+}
+
+#overviewHeaderCarousel img {
+  min-height: 200px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#overviewHeaderCarousel .carousel-caption {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+#overviewHeaderCarousel .carousel-caption i {
+  color: white;
+}
+
+#overviewHeaderCarousel .carousel-caption a {
+  color: #1e6bb8;
+}
+/*# sourceMappingURL=main.css.map */

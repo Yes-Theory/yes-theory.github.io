@@ -1,0 +1,45 @@
+.yf-overview-card{
+    width: 200px;
+}
+.yf-title {
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+    font-weight: 300;
+    @media (min-width: 768px){
+        font-size: 3rem;
+    }
+    font-size: 2rem;
+}
+.yf-lead {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+twitter-widget{
+    margin: 0 auto;
+}
+.introduction{
+    position: relative;
+    color: white;
+    text-align: center;
+    background: rgb(0, 101, 252);
+    z-index: 200;
+}
+#overviewHeaderCarousel{
+    z-index: 100;
+    @media (min-width: 768px){
+        top: -60px;
+    }
+    img{
+        min-height: 200px;
+        object-fit: cover;
+    }
+    .carousel-caption{
+        background: rgba(0, 0, 0, 0.8);
+        i{
+            color: white;
+        }
+        a{
+            color: #1e6bb8;
+        }
+    }
+}
