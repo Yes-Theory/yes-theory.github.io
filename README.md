@@ -9,18 +9,6 @@
 
 ### 🏠 [Homepage](https://yes-theory.github.io)
 
-## Authors
-
-### Overall
-👤 **Noel Schenk**
-
-* Github: [@noelelias](https://github.com/noelelias)
-
-### India
-👤 **Bikash Dash**
-
-* Github: [@beeeku](https://github.com/beeeku)
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Yes-Theory/yes-theory.github.io/issues).
