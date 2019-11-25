@@ -1,0 +1,16 @@
+pull_request_rules:
+  - name: automatic merge when 2 reviews and we know the person
+    conditions:
+      - base=master
+      - approved-reviews-by>=1
+    actions:
+      merge:
+        method: merge
+  - name: automatic merge for technology representative of country - india
+    conditions:
+      - base=master
+      - author=beeeku
+      - files=india.md
+    actions:
+      merge:
+        method: merge

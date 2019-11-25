@@ -31,6 +31,8 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 * [Dora Bobanović](https://www.linkedin.com/in/dora-bobanovi%C4%87/) is the Facebook Community Manager for Yes Theory. Please give her access to the group if she sends a request. [FB Account](https://www.facebook.com/dora.bobanovic)  
 
 ## Technical support  
+### Technical representative
+* [Bikash Dash](https://github.com/beeeku)
 ### I get an error when I try to join the group.  
 Facebook seems to have a problem and on some devices it's not possible to join.  
 There is a possible solution for Smartphones:  
@@ -44,4 +46,6 @@ You will need Chrome or Firefox Focus
 * Sometimes it helps to close the site and to try again  
 
 Also try to join on another device it will sync across devices.  
+
+
 {% include backend.md %}
