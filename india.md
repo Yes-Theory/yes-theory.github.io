@@ -33,6 +33,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 ## Technical support  
 ### Technical representative
 * [Bikash Dash](https://github.com/beeeku)
+* [Ajay Tantry](https://www.facebook.com/ajay.tantry)
 ### I get an error when I try to join the group.  
 Facebook seems to have a problem and on some devices it's not possible to join.  
 There is a possible solution for Smartphones:  
