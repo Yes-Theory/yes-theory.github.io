@@ -12,6 +12,7 @@ The United Kingdom is represented by **Lookin for a representative**
 * [Yes Theory UK Fam](https://www.facebook.com/groups/1933087986913570/) (representative: [Brett Smith](https://www.facebook.com/brett.smith.5621149), [Sebastian Fortineau](https://www.facebook.com/sebastianfortineau))
 * [Yes Theory Fam London](https://www.facebook.com/groups/254940108543393/) (representative: [Kris Jadach](https://www.facebook.com/krzysiek.jadach))
 * [Yes Theory London Group](https://www.facebook.com/groups/YesTheoryLondon/) (representative: [Robert Allan Fraser](https://www.facebook.com/robert.a.fraser.9),[Stephen Weeks](https://www.facebook.com/stephen.weeks.14),[Fabio Ribeiro Brady](https://www.facebook.com/profile.php?id=100020378737439),[Rikesh Mistry](https://www.facebook.com/RikeshMistry))
+* [Yes Theory Manchester](https://www.facebook.com/groups/472916436914114/)
 
 ## Groupchats  
 **Lookin for group chat representatives please send me a DM: [Noel Schenk](https://www.facebook.com/noel.elias.schenk)**  
