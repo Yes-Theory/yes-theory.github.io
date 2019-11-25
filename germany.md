@@ -25,9 +25,10 @@ What are you looking for?
 Groups will get full at 250 members.  
 💚 = group reacheble and has space | 💛 = group reachable but has no space  
 WA = WhatsApp | ME = Messenger (Facebook group)  
-* ME 💛 [Germany](https://m.me/join/AbaRRQh27naWDWhR) 📝 create another group chat
+* ME 💛 [Germany](https://m.me/join/AbaRRQh27naWDWhR)
 * ME 💚 [Bavaria](https://m.me/join/AbYKenjoOoL_w-Qh)
-* ME 💛 [Berlin](https://m.me/join/AbY9rwHh-9qMfyCg) (representative: [Masin Shadfan](https://www.facebook.com/masin.shadfan)) 📝 create another group chat
+* ME 💛 [Berlin](https://m.me/join/AbY9rwHh-9qMfyCg) (representative: [Masin Shadfan](https://www.facebook.com/masin.shadfan))
+* ** 💚 [Berlin] (Locals meldet euch bei Masin)
 * ME 💚 [Cologne](https://m.me/join/AbaE0x_QSQ8jl7v-)
 * WA 💚 [Cologne](https://chat.whatsapp.com/KEQsvCMMNWjBojXurteIsE)
 * ME 💚 [Dusseldof/Duisburg](https://www.messenger.com/mme_redirect/join/?group_hash=Abbv1Cc6jfW41z41) (representative: [Sameh Fares](https://www.facebook.com/MegaDeath.Sameh))
