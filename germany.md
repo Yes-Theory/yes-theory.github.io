@@ -13,6 +13,8 @@ What are you looking for?
 * [Backend](#backend)
 * [Event planing](#event-planing)
 
+Germany is represented by [Laurenz Bennet](https://www.facebook.com/laurenz.bennet)
+
 ## Groups  
 * [Germany](https://www.facebook.com/groups/YesTheoryFamGermany/) (representative: [Artjom Gasarov](https://www.facebook.com/Artjomgasarov), [Laurenz Bennet](https://www.facebook.com/laurenz.bennet), [Sally Ibeling](https://www.facebook.com/SallyMarleneIbeling))
 * [Cologne](https://www.facebook.com/groups/447757289016396/) (representative: [Oliver Butom](https://www.facebook.com/oliver.butom))
@@ -60,23 +62,9 @@ WA = WhatsApp | ME = Messenger (Facebook group)
 ## Announcements  
 * [Yes Theory Fam Germany](https://www.facebook.com/groups/YesTheoryFamGermany/announcements/)  
 
-## Information  
-* [Dora Bobanović](https://www.linkedin.com/in/dora-bobanovi%C4%87/) is the Facebook Community Manager for Yes Theory. Please give her access to the group if she sends a request. [FB Account](https://www.facebook.com/dora.bobanovic)  
-
 ## Technical support  
-### I get an error when I try to join the group.  
-Facebook seems to have a problem and on some devices it's not possible to join.  
-There is a possible solution for Smartphones:  
-You will need Chrome or Firefox Focus  
-* Click on the link
-* Click on the three dots at the top right
-* Click on "Open with..."
-* Choose Firefox Focus or Chrome
-* Click on the three dots on the top right
-* Click on "Request desktop site" or "Desktop site"
-* Sometimes it helps to close the site and to try again  
-
-Also try to join on another device it will sync across devices.  
+### Technical representative
+**Lookin for a technical representative**  
 
 ## Event planing
 Awesome! Hosting a Yes Theory event is one of the best experiences you will ever make. To simplify your life we would like to support you with your planing.  
@@ -122,5 +110,6 @@ Currently there is no equipment from this side. But if you have a loudspeaker, a
 ## Legal
 If you want to sell tickets you should take a look at this page: [Rechtliche Rahmenbedingungen für Ihre Betriebsfeier](https://www.business-wissen.de/artikel/veranstaltungen-planen-rechtliche-rahmenbedingungen-fuer-ihre-betriebsfeier/)
 Please stay within the law. The trouble is IMHO not worth it.
-This document is not complete and we are also not responsible for your event. If you need more information you might want to take a look at this page: [eventfaq](https://eventfaq.de/checklisten/).
-{% include backend.md %}
+This document is not complete and we are also not responsible for your event. If you need more information you might want to take a look at this page: [eventfaq](https://eventfaq.de/checklisten/).  
+
+{% include main.md %}
