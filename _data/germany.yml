@@ -1,0 +1,167 @@
+pages:
+  contact:
+    country-representative:
+      - name: Laurenz Bennet
+        url: https://www.facebook.com/laurenz.bennet
+        type: fb
+    technical-representative:
+      - name: Noel Schenk
+        url: https://www.facebook.com/noel.elias.schenk
+        type: fb
+  map:
+    country:
+      groups:
+        - name: Germany
+          url: https://www.facebook.com/groups/YesTheoryFamGermany/
+          status: reachable
+          type: fb
+      group-chats:
+        - name: Germany
+          url: https://m.me/join/AbaRRQh27naWDWhR
+          status: full
+          type: me
+      working-groups:
+        - name: Website development
+          url: https://chat.whatsapp.com/HFyjgbB4UguHRksUtLFEBL
+          status: reachable
+          type: wa
+    districts:
+      - name: North Rhine-Westphalia
+        groups:
+          - name: Cologne
+            url: https://www.facebook.com/groups/447757289016396/
+            status: reachable
+            type: fb
+        group-chats:
+          - name: North Rhine-Westphalia
+            url: https://m.me/join/AbYuHzRU8BNzZhrx
+            status: reachable
+            type: me
+          - name: Cologne
+            url: https://m.me/join/AbaE0x_QSQ8jl7v-
+            status: reachable
+            type: me
+          - name: Cologne
+            url: https://chat.whatsapp.com/KEQsvCMMNWjBojXurteIsE
+            status: reachable
+            type: wa
+          - name:  Dusseldof
+            small: and Duisburg
+            url: https://m.me/join/Abbv1Cc6jfW41z41
+            status: reachable
+            type: me
+        event-chats:
+          - name: Bonn
+            small: 1 Deyember 2019
+            url: https://chat.whatsapp.com/JvqPMQT8spK5RJlLvThCha
+            status: reachable
+            type: wa
+      - name: Berlin
+        groups:
+          - name: Berlin
+            url: https://www.facebook.com/groups/818003705296981/
+            status: reachable
+            type: fb
+        group-chats:
+          - name: Berlin
+            small: Locals please contact Masin
+            url: https://www.facebook.com/masin.shadfan
+            status: reachable
+            type: wa
+      - name: Bavaria
+        groups:
+          - name: Munich
+            url: https://www.facebook.com/groups/383077572375468/
+            status: reachable
+            type: fb
+        group-chats:
+          - name: Bavaria
+            url: https://m.me/join/AbYKenjoOoL_w-Qh
+            status: reachable
+            type: me
+          - name: Munich
+            url: https://m.me/join/Aba5KvWx0zHCG1B5
+            status: reachable
+            type: fb
+        event-chats:
+          - name: Nuremberg
+            small: 14 December 2019
+            url: https://chat.whatsapp.com/EgeQaBqHR4DAOLy24G9Pw6
+            status: reachable
+            type: wa
+      - name: Hesse
+        groups:
+          - name: Frankfurt
+            url: https://www.facebook.com/groups/205710210227743/
+            status: reachable
+            type: fb
+        group-chats:
+          - name: Frankfurt
+            small: and Hassen
+            url: https://m.me/join/AbYaGGrQmGkWHDsj
+            status: reachable
+            type: me
+        - name: Lower Saxony
+          group-chats:
+            - name: Hanover
+              url: https://m.me/join/AbZEedsqHQWRzS3Z
+              status: reachable
+              type: me
+        - name: Baden-Württemberg
+          group-chats:
+            - name: Stuttgart
+              url: https://m.me/join/AbYpZd14XdqPFVb4
+              status: reachable
+              type: me
+        - name: Thuringia
+          group-chats:
+            - name: Thuringia
+              url: https://m.me/join/AbYhZarwRwOI8ecS
+              status: reachable
+              type: me
+            - name: Thuringia
+              url: https://chat.whatsapp.com/BSjp6i1OHs3LNMudbjbfUH
+              status: reachable
+              type: wa
+        - name: Rhineland-Palatinate
+          group-chats:
+            - name: Koblenz
+              url: https://chat.whatsapp.com/E47FkfH5CC05nS0U90fvWI
+              status: reachable
+              type: wa
+        - name: Saxony
+          group-chats:
+            - name: Saxony
+              url: https://chat.whatsapp.com/GUckJn1Vrh58TuMXbL0oEo
+              status: reachable
+              type: wa
+        - name: Baden-Württemberg
+          group-chats:
+            - name: Mannheim
+              url: https://chat.whatsapp.com/If95u6ZZqZ26RStxvRyGyg
+              status: reachable
+              type: wa
+        - name: Saarland
+          group-chats:
+            - name: Saarland
+              url: https://chat.whatsapp.com/BvMwlVpSfuVLVlt3kdoesv
+              status: reachable
+              type: wa
+  meetups:
+    - name: meetups
+      page: meetups.md
+  working-groups:
+    - name: working groups
+      page: working-groups.md
+  announcements:
+    - name: announcements
+      page: announcements.md
+  news:
+    - name: news
+      page: news.md
+  event-planing:
+    - name: event planing
+      page: event-planing.md
+  information:
+    - name: information
+      page: information.md
