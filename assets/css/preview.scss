@@ -8,6 +8,7 @@
 
 $remnant: 'Remnant','Open Sans', sans-serif;
 $mainColor: #0039ff;
+$secondColor: #f3997b;
 
 header{
     height: 170px;
@@ -16,16 +17,24 @@ header{
     .logo{
         display: block;
         position: relative;
-        top: 26px;
-        left: 40px;
+        top: 0;
+        left: 0;
         width: 100%;
         height: 100%;
+        padding: 26px 0 0 40px;
         img{
             width: 180px;
             height: auto;
         }
         span{
             font-family: $remnant;
+            font-size: 29px;
+            color: white;
+            position: relative;
+            display: table;
+            left: 22px;
+            bottom: 0;
+            letter-spacing: 7px;
         }
     }
 }
