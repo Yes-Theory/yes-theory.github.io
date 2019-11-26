@@ -3,11 +3,11 @@ layout: default
 ---
 # Yes Theory Fam India  
 What are you looking for?
-* [Groupchats](#groupchats)
+* [Group chats](#group-chats)
 
 India is represented by [Ajay Tantry](https://www.facebook.com/ajay.tantry)
 
-## Groupchats  
+## Group chats  
 **Lookin for group chat representatives please send me a DM: [Noel Schenk](https://www.facebook.com/noel.elias.schenk)**  
 Groups will get full at 250 members.  
 💚 = group reacheble and has space | 💛 = group reachable but has no space  

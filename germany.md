@@ -4,14 +4,14 @@ layout: default
 # Yes Theory Fam Germany  
 What are you looking for?
 * [Groups](#groups)
-* [Group chats](#groupchats)
+* [Group chats](#group-chats)
 * [Event chats](#eventchats)
 * [Working groups](#working-groups)
 * [Announcements](#announcements)
 * [Information](#information)
 * [Technical support](#technical-support)
 * [Backend](#backend)
-* [Event planning](#event-planing)
+* [Event planning](#event-planning)
 
 Germany is represented by [Laurenz Bennet](https://www.facebook.com/laurenz.bennet)
 
@@ -44,14 +44,14 @@ WA = WhatsApp | ME = Messenger (Facebook group)
 * WA 💚 [Saxony](https://chat.whatsapp.com/GUckJn1Vrh58TuMXbL0oEo) (representative: [Cuong VM](https://www.facebook.com/cuong.vumanh2))
 * WA 💚 [Mannheim](https://chat.whatsapp.com/If95u6ZZqZ26RStxvRyGyg) (representative: [Johanna Faust](https://www.facebook.com/johanna.faust.35))
 * WA 💚 [Saarland](https://chat.whatsapp.com/BvMwlVpSfuVLVlt3kdoesv) (representative: [Shubham Jain](https://www.facebook.com/shubhij123))
-* WA 💚 [Thuringia](https://chat.whatsapp.com/BSjp6i1OHs3LNMudbjbfUH)
+* WA 💚 [Thuringia](https://chat.whatsapp.com/BSjp6i1OHs3LNMudbjbfUH)  
 
 ## Event chats  
 Groups will get full at 250 members.  
 💚 = group reachable and has space | 💛 = group reachable but has no space  
 WA = WhatsApp | ME = Messenger (Facebook group)  
 * WA 💚 [Yesfam Nürnberg Meetup](https://chat.whatsapp.com/EgeQaBqHR4DAOLy24G9Pw6)  
-* WA 💚 [YES FAM Bonn Meet-up](https://chat.whatsapp.com/JvqPMQT8spK5RJlLvThCha)
+* WA 💚 [YES FAM Bonn Meet-up](https://chat.whatsapp.com/JvqPMQT8spK5RJlLvThCha)  
 
 ## Working groups
 Groups will get full at 250 members.  
@@ -72,7 +72,7 @@ WA = WhatsApp | ME = Messenger (Facebook group)
 Awesome! Hosting a Yes Fam event is one of the best decisions and experiences you will ever make. To simplify your life we would like to help with your planning.
 ### Where should I start?
 Maybe you already know people who would be interested in attending. If so you could start with finding a date. You can use [Doodle](https://doodle.com/de/) (use the free version) to find a date which suits most attendees. Also don't forget the exact time. Waiting more than 2 hours in the cold may not be the **"Seek Discomfort"** you are looking for.  
-If you don't know many people or want to get even more people to participate in your event you might want to join a [group](#groups) or a [group chat](#groupchats).
+If you don't know many people or want to get even more people to participate in your event you might want to join a [group](#groups) or a [group chat](#group-chats).
 ### Find a meeting location
 Now that you have found a date and the Yes Fam you have to decide on a location where you will meet. I recommend a HBF (central station) or a big square. For example in Cologne the big square between the Dom and the HBF is perfect for the first meet.
 ### Activities
@@ -91,7 +91,8 @@ There is so much stuff you can do. Here are some examples:
 * Concert
 * Bicycle tour
 * Theater
-* Games night
+* Games night  
+
 ### Spread the message
 You almost made it. Now it would be awesome to see other people joining your event. Start by creating a Messenger or WhatsApp group. Once the group is created copy the join link and add it to the group description. By doing that you allow other people to share the event.
 ### Yes Theory Fam Germany
@@ -101,7 +102,7 @@ To reach the most amount of people you should put your event on the Yes Theory F
 * Add the event details and don't forget to add the link to your eventchat  
 
 ### Groups and Group chats
-It might be some work but it's definetly worth it. Take a look at the [groups](#groups) and [group chats](#groupchats) and find the ones that are close to your event location. Send to the group chats a nice explanation of your event with the key 
+It might be some work but it's definetly worth it. Take a look at the [groups](#groups) and [group chats](#group-chats) and find the ones that are close to your event location. Send to the group chats a nice explanation of your event with the key 
 
 also stay around for questions that might pop up and add them as a FAQ to your Eventchat description. For other Groups you can do the same as you did for the "Yes Theory Fam Germany" group.  
 ### This page

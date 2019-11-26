@@ -4,7 +4,7 @@ layout: default
 # Yes Theory Fam United Kingdom  
 What are you looking for?
 * [Groups](#groups)
-* [Groupchats](#groupchats)
+* [Group chats](#group-chats)
 
 The United Kingdom is represented by **Lookin for a representative**
 
@@ -14,7 +14,7 @@ The United Kingdom is represented by **Lookin for a representative**
 * [Yes Theory London Group](https://www.facebook.com/groups/YesTheoryLondon/) (representative: [Robert Allan Fraser](https://www.facebook.com/robert.a.fraser.9),[Stephen Weeks](https://www.facebook.com/stephen.weeks.14),[Fabio Ribeiro Brady](https://www.facebook.com/profile.php?id=100020378737439),[Rikesh Mistry](https://www.facebook.com/RikeshMistry))
 * [Yes Theory Manchester](https://www.facebook.com/groups/472916436914114/)
 
-## Groupchats  
+## Group chats  
 **Lookin for group chat representatives please send me a DM: [Noel Schenk](https://www.facebook.com/noel.elias.schenk)**  
 Groups will get full at 250 members.  
 💚 = group reacheble and has space | 💛 = group reachable but has no space  
