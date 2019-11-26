@@ -1,16 +1,31 @@
 ---
 ---
 
+@font-face {
+    font-family: "Remnant";
+    src: url("../font/Remnant-Regular.woff2") format("woff2");
+}
+
+$remnant: 'Remnant','Open Sans', sans-serif;
+$mainColor: #0039ff;
+
 header{
     height: 170px;
-    background-color: #0039ff;
+    background-color:$mainColor;
     position: relative;
     .logo{
         display: block;
-        position: absolute;
-        top: 0;
-        bottom: 0;
+        position: relative;
+        top: 26px;
         left: 40px;
-        margin: auto 0;
+        width: 100%;
+        height: 100%;
+        img{
+            width: 180px;
+            height: auto;
+        }
+        span{
+            font-family: $remnant;
+        }
     }
 }
