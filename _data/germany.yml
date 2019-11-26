@@ -101,52 +101,52 @@ pages:
             url: https://m.me/join/AbYaGGrQmGkWHDsj
             status: reachable
             type: me
-        - name: Lower Saxony
-          group-chats:
-            - name: Hanover
-              url: https://m.me/join/AbZEedsqHQWRzS3Z
-              status: reachable
-              type: me
-        - name: Baden-Württemberg
-          group-chats:
-            - name: Stuttgart
-              url: https://m.me/join/AbYpZd14XdqPFVb4
-              status: reachable
-              type: me
-        - name: Thuringia
-          group-chats:
-            - name: Thuringia
-              url: https://m.me/join/AbYhZarwRwOI8ecS
-              status: reachable
-              type: me
-            - name: Thuringia
-              url: https://chat.whatsapp.com/BSjp6i1OHs3LNMudbjbfUH
-              status: reachable
-              type: wa
-        - name: Rhineland-Palatinate
-          group-chats:
-            - name: Koblenz
-              url: https://chat.whatsapp.com/E47FkfH5CC05nS0U90fvWI
-              status: reachable
-              type: wa
-        - name: Saxony
-          group-chats:
-            - name: Saxony
-              url: https://chat.whatsapp.com/GUckJn1Vrh58TuMXbL0oEo
-              status: reachable
-              type: wa
-        - name: Baden-Württemberg
-          group-chats:
-            - name: Mannheim
-              url: https://chat.whatsapp.com/If95u6ZZqZ26RStxvRyGyg
-              status: reachable
-              type: wa
-        - name: Saarland
-          group-chats:
-            - name: Saarland
-              url: https://chat.whatsapp.com/BvMwlVpSfuVLVlt3kdoesv
-              status: reachable
-              type: wa
+      - name: Lower Saxony
+        group-chats:
+          - name: Hanover
+            url: https://m.me/join/AbZEedsqHQWRzS3Z
+            status: reachable
+            type: me
+      - name: Baden-Württemberg
+        group-chats:
+          - name: Stuttgart
+            url: https://m.me/join/AbYpZd14XdqPFVb4
+            status: reachable
+            type: me
+      - name: Thuringia
+        group-chats:
+          - name: Thuringia
+            url: https://m.me/join/AbYhZarwRwOI8ecS
+            status: reachable
+            type: me
+          - name: Thuringia
+            url: https://chat.whatsapp.com/BSjp6i1OHs3LNMudbjbfUH
+            status: reachable
+            type: wa
+      - name: Rhineland-Palatinate
+        group-chats:
+          - name: Koblenz
+            url: https://chat.whatsapp.com/E47FkfH5CC05nS0U90fvWI
+            status: reachable
+            type: wa
+      - name: Saxony
+        group-chats:
+          - name: Saxony
+            url: https://chat.whatsapp.com/GUckJn1Vrh58TuMXbL0oEo
+            status: reachable
+            type: wa
+      - name: Baden-Württemberg
+        group-chats:
+          - name: Mannheim
+            url: https://chat.whatsapp.com/If95u6ZZqZ26RStxvRyGyg
+            status: reachable
+            type: wa
+      - name: Saarland
+        group-chats:
+          - name: Saarland
+            url: https://chat.whatsapp.com/BvMwlVpSfuVLVlt3kdoesv
+            status: reachable
+            type: wa
   meetups:
     - name: meetups
       page: meetups.md
