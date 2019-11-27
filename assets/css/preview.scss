@@ -128,7 +128,7 @@ main{
                         }
                     }
                     &.open{
-                        &:after{
+                        > span{
                             background: url(../image/open.webp);
                         }
                     }
