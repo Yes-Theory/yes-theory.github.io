@@ -12,7 +12,7 @@ $secondaryColor: #f3997b;
 
 header{
     height: 170px;
-    background-color:$mainColor;
+    background-color: $mainColor;
     position: relative;
     .logo{
         display: block;
@@ -57,9 +57,14 @@ main{
                 font-family: $remnant;
                 display: inline;
                 color: white;
+                margin: 0 8px 0 0;
             }
             &.active{
                 font-size: 50px;
+            }
+            &:hover{
+                text-decoration: none;
+                color: $mainColor;
             }
             font-family: $remnant;
             font-size: 33px;
