@@ -51,6 +51,9 @@ main{
     background: $secondaryColor;
     nav{
         padding: 60px 0 0 40px;
+        .nav{
+            display: block;
+        }
         a{
             &:before{
                 content: '>';
