@@ -49,4 +49,17 @@ header{
 }
 main{
     background: $secondaryColor;
+    nav{
+        a{
+            &:before{
+                content: '>';
+                font-family: $remnant;
+                display: inline;
+                color: white;
+            }
+            font-family: $remnant;
+            font-size: 33px;
+            color: white;
+        }
+    }
 }
