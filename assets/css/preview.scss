@@ -109,8 +109,14 @@ main{
                 color: $secondaryColor;
             }
             ul{
+                margin: 0;
+                padding: 0;
                 li{
                     font-family: $remnant;
+                    font-size: 33px;
+                    list-style-type: none;
+                    margin: 0;
+                    padding: 0;
                     &.fb{
                         &:before{
                             content: '\f39e';
