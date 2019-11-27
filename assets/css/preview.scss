@@ -49,8 +49,15 @@ header{
 }
 main{
     background: $secondaryColor;
+    display: flex;
+    height: calc( 100vh - 170px );
     nav{
         padding: 60px 0 0 40px;
+        display: table;
+        float: left;
+        width: 370px;
+        height: 100%;
+        flex-grow: 0;
         .nav{
             display: block;
         }
@@ -74,9 +81,12 @@ main{
             color: white;
             display: block;
             padding: 0 0 30px 0;
+            transition: font-size 0.3s ease-in-out;
         }
     }
     .pages{
+        display: table;
+        flex-grow: 1;
         *{
             display: none;
         }
