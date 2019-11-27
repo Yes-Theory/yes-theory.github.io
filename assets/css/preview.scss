@@ -73,6 +73,10 @@ main{
             &.active{
                 font-size: 50px;
                 width: auto;
+                color: $secondaryColor;
+                &:before{
+                    color: $secondaryColor;
+                }
             }
             &:hover{
                 text-decoration: none;
