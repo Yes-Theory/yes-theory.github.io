@@ -91,10 +91,10 @@ main{
         display: table;
         flex-grow: 1;
         padding: 50px 0 0 0;
-        *{
+        > div{
             display: none;
         }
-        *.active{
+        > div.active{
             display: block;
         }
         .box{
@@ -102,6 +102,22 @@ main{
             width: 727px;
             height: 796px;
             display: block;
+            padding: 90px 0 0 170px;
+            h2{
+                font-family: $remnant;
+                font-size: 42px;
+                color: $secondaryColor;
+            }
+            ul{
+                li{
+                    &.fb{
+                        &:before{
+                            content: '\f39e';
+                            font-family: "Font Awesome 5 Brands";
+                        }
+                    }
+                }
+            }
         }
     }
 }
