@@ -56,7 +56,7 @@
 					<h2>Groups</h2>
 					<ul>
 					{% for group in site.data.germany.pages.map.country.groups %}
-						<li class='{{ group.type }} {{ group.status }}'>{{ group.name }}</li>
+						<li class='{{ group.type }} {{ group.status }}'>{{ group.name }}<span></span></li>
 					{% endfor %}
 					</ul>
 					{% endif %}
