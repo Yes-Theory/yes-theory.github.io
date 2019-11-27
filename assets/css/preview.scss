@@ -117,10 +117,12 @@ main{
                     list-style-type: none;
                     margin: 0;
                     padding: 0;
+                    color: $secondaryColor;
                     &.fb{
                         &:before{
                             content: '\f39e';
                             font-family: "Font Awesome 5 Brands";
+                            color: $secondaryColor;
                         }
                     }
                 }
