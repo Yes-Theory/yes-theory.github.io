@@ -73,9 +73,9 @@ main{
             &.active{
                 font-size: 50px;
                 width: auto;
-                color: $secondaryColor;
+                color: $mainColor;
                 &:before{
-                    color: $secondaryColor;
+                    color: $mainColor;
                 }
             }
             &:hover{
