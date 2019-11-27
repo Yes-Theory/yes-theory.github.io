@@ -73,4 +73,12 @@ main{
             padding: 0 0 30px 0;
         }
     }
+    .pages{
+        *{
+            display: none;
+        }
+        *.active{
+            display: block;
+        }
+    }
 }
