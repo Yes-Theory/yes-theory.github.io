@@ -138,6 +138,12 @@ main{
                             color: #25d366;
                         }
                     }
+                    &.me{
+                        &:before{
+                            content: '\f39f';
+                            color: #0078FF;
+                        }
+                    }
                     &.open{
                         > span{
                             background-image: url(../image/open.webp);
