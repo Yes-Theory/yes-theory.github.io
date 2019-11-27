@@ -72,6 +72,7 @@ main{
             }
             &.active{
                 font-size: 50px;
+                width: auto;
             }
             &:hover{
                 text-decoration: none;
@@ -83,6 +84,7 @@ main{
             display: block;
             padding: 0 0 30px 0;
             transition: font-size 0.3s ease-in-out;
+            width: 200px;
         }
     }
     .pages{
