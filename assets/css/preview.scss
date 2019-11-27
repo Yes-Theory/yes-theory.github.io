@@ -132,6 +132,12 @@ main{
                             color: #3b5998;
                         }
                     }
+                    &.wa{
+                        &:before{
+                            content: '\f232';
+                            color: #25d366;
+                        }
+                    }
                     &.open{
                         > span{
                             background-image: url(../image/open.webp);
