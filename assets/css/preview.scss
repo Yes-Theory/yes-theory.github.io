@@ -90,6 +90,7 @@ main{
     .pages{
         display: table;
         flex-grow: 1;
+        padding: 50px 0 0 0;
         *{
             display: none;
         }
@@ -98,6 +99,9 @@ main{
         }
         .box{
             background: url('../image/box.webp');
+            width: 727px;
+            height: 796px;
+            display: block;
         }
     }
 }
