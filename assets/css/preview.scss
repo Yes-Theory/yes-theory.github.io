@@ -110,6 +110,7 @@ main{
             }
             ul{
                 li{
+                    font-family: $remnant;
                     &.fb{
                         &:before{
                             content: '\f39e';
