@@ -119,6 +119,8 @@ main{
                     margin: 0;
                     padding: 0;
                     color: $secondaryColor;
+                    position: relative;
+                    display: table;
                     &.fb{
                         &:before{
                             content: '\f39e';
@@ -143,6 +145,11 @@ main{
                     &:after{
                         content: '';
                         display: block;
+                        width: 98px;
+                        height: 54px;
+                        top: 6px;
+                        right: -110px;
+                        position: absolute;
                     }
                 }
             }
