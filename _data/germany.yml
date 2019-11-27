@@ -21,7 +21,7 @@ pages:
           status: full
           type: me
       working-groups:
-        - name: Website development
+        - name: Website dev
           url: https://chat.whatsapp.com/HFyjgbB4UguHRksUtLFEBL
           status: open
           type: wa
