@@ -103,9 +103,9 @@ main{
         }
         .box{
             background-image: url('../image/box.webp');
-            width: 727px;
+            min-width: 727px;
             height: 796px;
-            display: block;
+            display: table;
             padding: 40px 0 0 170px;
             h2{
                 font-family: $remnant;
