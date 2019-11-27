@@ -121,11 +121,13 @@ main{
                     &.fb{
                         &:before{
                             content: '\f39e';
-                            font-family: "Font Awesome 5 Brands";
                             color: #3b5998;
-                            font-size: 46px;
-                            padding: 0 18px 0 0;
                         }
+                    }
+                    &:before{
+                        font-family: "Font Awesome 5 Brands";
+                        font-size: 46px;
+                        padding: 0 18px 0 0;
                     }
                 }
             }
