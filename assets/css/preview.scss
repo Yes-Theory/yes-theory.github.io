@@ -125,10 +125,24 @@ main{
                             color: #3b5998;
                         }
                     }
+                    &.open{
+                        &:after{
+                            background: url(../image/open.webp);
+                        }
+                    }
+                    &.full{
+                        &:after{
+                            background: url(../image/full.webp);
+                        }
+                    }
                     &:before{
                         font-family: "Font Awesome 5 Brands";
                         font-size: 46px;
                         padding: 0 18px 0 0;
+                    }
+                    &:after{
+                        content: '';
+                        display: block;
                     }
                 }
             }
