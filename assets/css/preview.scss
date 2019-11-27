@@ -50,6 +50,7 @@ header{
 main{
     background: $secondaryColor;
     nav{
+        padding: 60px 0 0 40px;
         a{
             &:before{
                 content: '>';
@@ -57,9 +58,14 @@ main{
                 display: inline;
                 color: white;
             }
+            &.active{
+                font-size: 50px;
+            }
             font-family: $remnant;
             font-size: 33px;
             color: white;
+            display: block;
+            padding: 0 0 30px 0;
         }
     }
 }
