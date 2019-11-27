@@ -1,60 +1,74 @@
 <!DOCTYPE html>
 <html lang='{{ site.lang | default: 'en-US' }}'>
-  <head>
-    {% if site.google_analytics %}
-      <script async src='https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}'></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
-    <meta charset='UTF-8'>
 
-    {% seo %}
+<head>
+	{% if site.google_analytics %}
+	<script async src='https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}'></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
 
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <meta name='theme-color' content='#157878'>
-    <meta name='apple-mobile-web-app-status-bar-style' content='black-translucent'>
-    <link rel='stylesheet' href='../assets/css/bootstrap.min.css'>
-    <link rel='stylesheet' href='{{ '/assets/css/preview.css?v=' | append: site.github.build_revision | relative_url }}'>
-    <script src='../assets/js/jquery-3.3.1.slim.min.js'></script>
-    <script src='../assets/js/popper.min.js'></script>
-    <script src='../assets/js/bootstrap.min.js'></script>
-  </head>
-  <body>
-    <header>
-        <div class='logo'>
-            <img src='./assets/image/logo.webp' alt='YES from the yes theory logo' title='join Yes Theory'>
-            <span>theory</span>
-        </div>
-        <h1>
-            FAM Germany
-        </h1>
-    </header>
-    <main>
-        <nav>
-            <div class='nav' role='tablist' aria-orientation='vertical'>
-                <a role='tab' data-toggle='tab' href='#tab-map' class='active'>Map</a>
-                <a role='tab' data-toggle='tab' href='#tab-news'>News</a>
-                <a role='tab' data-toggle='tab' href='#tab-meetups'>Meetups</a>
-                <a role='tab' data-toggle='tab' href='#tab-working-groups'>Working groups</a>
-                <a role='tab' data-toggle='tab' href='#tab-event-planing'>Event planing</a>
-            </div>
-        </nav>
-        <div class='pages'>
-            <div id='tab-map' role='tabpanel' class='active'>
-                <div class='box'>
-                </div>
-                <div class='map'>
-                </div>
-            </div>
-            <div id='tab-news' role='tabpanel'>tab 2</div>
-            <div id='tab-meetups' role='tabpanel'>tab 3</div>
-            <div id='tab-working-groups' role='tabpanel'>tab 4</div>
-            <div id='tab-event-planing' role='tabpanel'>tab 5</div>
-        </div>
-    </main>
-  </body>
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+		gtag('config', '{{ site.google_analytics }}');
+	</script>
+	{% endif %}
+	<meta charset='UTF-8'>
+
+	{% seo %}
+
+	<meta name='viewport' content='width=device-width, initial-scale=1'>
+	<meta name='theme-color' content='#157878'>
+	<meta name='apple-mobile-web-app-status-bar-style' content='black-translucent'>
+	<link rel='stylesheet' href='../assets/css/bootstrap.min.css'>
+	<link rel='stylesheet' href='{{ '/assets/css/preview.css?v=' | append: site.github.build_revision | relative_url }}'>
+	<script src='../assets/js/jquery-3.3.1.slim.min.js'></script>
+	<script src='../assets/js/popper.min.js'></script>
+	<script src='../assets/js/bootstrap.min.js'></script>
+</head>
+
+<body>
+	<header>
+		<div class='logo'>
+			<img src='./assets/image/logo.webp' alt='YES from the yes theory logo' title='join Yes Theory'>
+			<span>theory</span>
+		</div>
+		<h1>
+			FAM Germany
+		</h1>
+	</header>
+	<main>
+		<nav>
+			<div class='nav' role='tablist' aria-orientation='vertical'>
+				<a role='tab' data-toggle='tab' href='#tab-map' class='active'>Map</a>
+				<a role='tab' data-toggle='tab' href='#tab-news'>News</a>
+				<a role='tab' data-toggle='tab' href='#tab-meetups'>Meetups</a>
+				<a role='tab' data-toggle='tab' href='#tab-working-groups'>Working groups</a>
+				<a role='tab' data-toggle='tab' href='#tab-event-planing'>Event planing</a>
+			</div>
+		</nav>
+		<div class='pages'>
+			<div id='tab-map' role='tabpanel' class='active'>
+				<div class='box'>
+					{{ if site.data.germany.pages.map.country.groups.size }}
+					{% if site.data.germany.pages.map.country.groups.size > 0 %}
+					<h2>Groups</h2>
+					<ul>
+					{% for group in site.data.germany.pages.map.country.groups %}
+						<li class='{{ group.type }} {{ group.status }}'>{{ group.name }}</li>
+					{% enfor %}
+					</ul>
+					{% endif %}
+				</div>
+				<div class='map'>
+				</div>
+			</div>
+			<div id='tab-news' role='tabpanel'>tab 2</div>
+			<div id='tab-meetups' role='tabpanel'>tab 3</div>
+			<div id='tab-working-groups' role='tabpanel'>tab 4</div>
+			<div id='tab-event-planing' role='tabpanel'>tab 5</div>
+		</div>
+	</main>
+</body>
 </html>
