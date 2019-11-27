@@ -60,6 +60,21 @@
 					{% endfor %}
 					</ul>
 					{% endif %}
+					{% if site.data.germany.pages.map.country.group-chats.size > 0 %}
+					<h2>Group chats</h2>
+					<ul>
+					{% for groupChat in site.data.germany.pages.map.country.group-chats %}
+						<li class='{{ groupChat.type }} {{ groupChat.status }}'>{{ groupChat.name }}<span></span></li>
+					{% endfor %}
+					</ul>
+					{% endif %}
+					<h2>Working groups</h2>
+					<ul>
+					{% for workingGroup in site.data.germany.pages.map.country.working-group %}
+						<li class='{{ workingGroup.type }} {{ workingGroup.status }}'>{{ workingGroup.name }}<span></span></li>
+					{% endfor %}
+					</ul>
+					{% endif %}
 				</div>
 				<div class='map'>
 				</div>
