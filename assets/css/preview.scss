@@ -106,7 +106,8 @@ main{
             min-width: 727px;
             height: 796px;
             display: table;
-            padding: 40px 0 0 170px;
+            padding: 20px 80px 0 170px;
+            background-size: cover;
             h2{
                 font-family: $remnant;
                 font-size: 42px;
@@ -163,9 +164,8 @@ main{
                         display: block;
                         width: 98px;
                         height: 54px;
-                        top: 6px;
-                        right: -110px;
-                        position: absolute;
+                        float: right;
+                        margin: 0 0 0 20px;
                     }
                 }
             }
