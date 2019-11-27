@@ -98,7 +98,7 @@ main{
             display: block;
         }
         .box{
-            background: url('../image/box.webp');
+            background-image: url('../image/box.webp');
             width: 727px;
             height: 796px;
             display: block;
@@ -129,12 +129,12 @@ main{
                     }
                     &.open{
                         > span{
-                            background: url(../image/open.webp);
+                            background-image: url(../image/open.webp);
                         }
                     }
                     &.full{
                         > span{
-                            background: url(../image/full.webp);
+                            background-image: url(../image/full.webp);
                         }
                     }
                     &:before{
@@ -151,9 +151,9 @@ main{
                         width: calc( 100% - 40px );
                         height: 20px;
                         background-size: contain;
-                        background-position: center;
+                        background-position: top center;
                         background-repeat: no-repeat;
-                        background: url(../image/underline.webp);
+                        background-image: url(../image/underline.webp);
                     }
                     > span{
                         display: block;
