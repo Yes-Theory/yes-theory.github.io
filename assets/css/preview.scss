@@ -11,61 +11,101 @@ $mainColor: #0039ff;
 $secondaryColor: #f3997b;
 
 header{
-    height: 170px;
+    height: 82px;
     background-color: $mainColor;
     position: relative;
+    @media (min-width: 1920px) {
+        height: 170px;
+    }
     .logo{
         display: block;
         position: relative;
-        top: 26px;
-        left: 40px;
+        left: 20px;
+        top: 20px;
         width: calc( 100% - 40px );
+        @media (min-width: 1920px) {
+            top: 26px;
+            left: 40px;
+        }
         img{
-            width: 180px;
+            width: 44px;
             height: auto;
+            @media (min-width: 1920px) {
+                width: 180px;
+            }
         }
         span{
             font-family: $remnant;
-            font-size: 29px;
             color: white;
             position: relative;
             display: block;
-            margin: 6px 0 0 22px;
-            letter-spacing: 7px;
+            font-size: 12px;
+            letter-spacing: 2px;
+            margin: 2px 0 0 0;
+            @media (min-width: 1920px) {
+                font-size: 29px;
+                letter-spacing: 7px;
+                margin: 6px 0 0 22px;
+            }
         }
     }
     h1{
         font-family: $remnant;
         color: white;
-        font-size: 83px;
         display: block;
         position: absolute;
         top: 0;
-        left: 306px;
         height: 98px;
-        line-height: 98px;
         bottom: 0;
-        margin: auto 0;
+        font-size: 16px;
+        left: 95px;
+        line-height: 82px;
+        @media (min-width: 1920px) {
+            font-size: 83px;
+            left: 306px;
+            line-height: 98px;
+        }
     }
 }
 main{
     background: $secondaryColor;
-    display: flex;
-    height: calc( 100vh - 170px );
+    display: block;
+    height: auto;
+    @media (min-width: 1920px) {
+        display: flex;
+        height: calc( 100vh - 170px );
+    }
     nav{
-        position: fixed;
-        top: 170px;
-        padding: 60px 0 0 40px;
-        display: table;
         float: left;
-        width: 290px;
         height: 100%;
         flex-grow: 0;
         z-index: 900;
+        position: relative;
+        top: 0;
+        display: block;
+        width: 100%;
+        padding: 20px;
+        @media (min-width: 1920px) {
+            position: fixed;
+            top: 170px;
+            display: table;
+            width: 290px;
+            padding: 60px 0 0 40px;
+        }
         .nav{
             display: block;
         }
         a{
+            font-family: $remnant;
+            color: white;
+            display: block;
+            padding: 0 0 30px 0;
+            transition: font-size 0.3s ease-in-out;
+            width: 200px;
+            font-size: 20px;
+            @media (min-width: 1920px) {
+                font-size: 33px;
+            }
             &:before{
                 content: '>';
                 font-family: $remnant;
@@ -74,9 +114,12 @@ main{
                 margin: 0 8px 0 0;
             }
             &.active{
-                font-size: 50px;
+                font-size: 26px;
                 width: auto;
                 color: $mainColor;
+                @media (min-width: 1920px) {
+                    font-size: 50px;
+                }
                 &:before{
                     color: $mainColor;
                 }
@@ -85,20 +128,16 @@ main{
                 text-decoration: none;
                 color: $mainColor;
             }
-            font-family: $remnant;
-            font-size: 33px;
-            color: white;
-            display: block;
-            padding: 0 0 30px 0;
-            transition: font-size 0.3s ease-in-out;
-            width: 200px;
         }
     }
     .pages{
-        position: relative;
-        display: table;
-        flex-grow: 1;
-        padding: 50px 0 0 270px;
+        padding: 0;
+        display: block;
+        @media (min-width: 1920px) {
+            display: table;
+            flex-grow: 1;
+            padding: 50px 0 0 270px;
+        }
         > div{
             display: none;
         }
@@ -106,30 +145,42 @@ main{
             display: block;
         }
         .box{
-            background-image: url('../image/box.webp');
-            min-width: 727px;
-            height: 796px;
             display: table;
-            padding: 20px 80px 0 170px;
             background-size: cover;
+            width: 100%;
+            padding: 0 20px;
+            background: white;
+            @media (min-width: 1920px) {
+                min-width: 727px;
+                height: 796px;
+                padding: 20px 80px 0 170px;
+                background: initial;
+                background-image: url('../image/box.webp');
+            }
             h2{
                 font-family: $remnant;
-                font-size: 42px;
+                font-size: 24px;
                 color: $secondaryColor;
-                margin: 70px 0 20px 0
+                margin: 70px 0 20px 0;
+                @media (min-width: 1920px) {
+                    font-size: 42px;
+                }
             }
             ul{
                 margin: 0;
                 padding: 0;
                 li{
                     font-family: $remnant;
-                    font-size: 33px;
+                    font-size: 20px;
                     list-style-type: none;
                     margin: 0 0 36px 0;
                     padding: 0;
                     color: $secondaryColor;
                     position: relative;
                     display: table;
+                    @media (min-width: 1920px) {
+                        font-size: 33px;
+                    }
                     &.fb{
                         &:before{
                             content: '\f39e';
@@ -160,8 +211,11 @@ main{
                     }
                     &:before{
                         font-family: "Font Awesome 5 Brands";
-                        font-size: 46px;
+                        font-size: 30px;
                         padding: 0 18px 0 0;
+                        @media (min-width: 1920px) {
+                            font-size: 46px;
+                        }
                     }
                     &:after{
                         content: '';
@@ -169,28 +223,43 @@ main{
                         position: absolute;
                         left: 40px;
                         right: 0;
-                        width: calc( 100% - 146px );
+                        width: calc( 100% - 92px );
                         height: 18px;
                         background-size: cover;
                         background-position: top center;
                         background-repeat: no-repeat;
                         background-image: url(../image/underline.webp);
+                        @media (min-width: 1920px) {
+                            height: 10px;
+                            width: calc( 100% - 146px );
+                        }
                     }
                     > span{
                         display: block;
-                        width: 98px;
-                        height: 54px;
                         float: right;
-                        margin: 10px 0 0 20px;
+                        width: 46px;
+                        background-size: cover;
+                        height: 26px;
+                        margin: 8px 0 0 4px;
+                        @media (min-width: 1920px) {
+                            width: 98px;
+                            height: 54px;
+                            margin: 10px 0 0 20px;
+                        }
                     }
                 }
             }
         }
         .map{
+            width: 100px;
+            right: 0;
+            top: -80px;
             position: absolute;
-            width: 860px;
-            top: -170px;
-            right: 30px;
+            @media (min-width: 1920px) {
+                width: 860px;
+                top: -170px;
+                right: 30px;  
+            } 
             img{
                 width: 100%;
             }
