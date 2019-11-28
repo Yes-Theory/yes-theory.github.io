@@ -136,7 +136,7 @@ main{
         @media (min-width: 1920px) {
             display: table;
             flex-grow: 1;
-            padding: 50px 0 0 270px;
+            padding: 90px 0 0 270px;
         }
         > div{
             display: none;
@@ -165,7 +165,6 @@ main{
                 margin: 30px 0 20px 0;
                 @media (min-width: 1920px) {
                     font-size: 42px;
-                    margin: 70px 0 20px 0;
                 }
             }
             ul{
