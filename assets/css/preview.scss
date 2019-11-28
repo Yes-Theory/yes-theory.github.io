@@ -257,6 +257,10 @@ main{
             right: 0;
             top: 20px;
             position: absolute;
+            z-index: 950;
+            background-color: transparent;
+            height: auto;
+            transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out, top 0.3s ease-in-out, height 0.3s ease-in-out;
             @media (min-width: 1920px) {
                 width: 860px;
                 top: 0;
@@ -264,6 +268,12 @@ main{
             } 
             img{
                 width: 100%;
+            }
+            &.choose{
+                width: 100%;
+                background-color: white;
+                top: 0;
+                height: 100%;
             }
         }
     }
