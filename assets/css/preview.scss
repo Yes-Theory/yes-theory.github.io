@@ -63,7 +63,7 @@ header{
         @media (min-width: 1920px) {
             font-size: 83px;
             left: 306px;
-            line-height: 98px;
+            line-height: 170px;
         }
     }
 }
@@ -156,6 +156,7 @@ main{
                 padding: 20px 80px 0 170px;
                 background: initial;
                 background-image: url('../image/box.webp');
+                background-repeat: no-repeat;
             }
             h2{
                 font-family: $remnant;
@@ -259,7 +260,7 @@ main{
             position: absolute;
             @media (min-width: 1920px) {
                 width: 860px;
-                top: -170px;
+                top: 0;
                 right: 30px;  
             } 
             img{
