@@ -92,6 +92,7 @@ main{
         }
     }
     .pages{
+        position: relative;
         display: table;
         flex-grow: 1;
         padding: 50px 0 0 0;
@@ -181,6 +182,12 @@ main{
                     }
                 }
             }
+        }
+        .map{
+            position: absolute;
+            width: 860px;
+            top: -170px;
+            right: 0;
         }
     }
 }
