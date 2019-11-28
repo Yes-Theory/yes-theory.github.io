@@ -38,11 +38,11 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 * ME 💚 [Mumbai](https://m.me/join/AbYRahr78yleYBdR) (representative: [Uday G Desai](https://www.facebook.com/uday.desai.585))
 * ME 💚 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu)  
 
----
+---  
 
 ## Technical support  
-### Technical representative
-* [Bikash Dash](https://www.facebook.com/beeeku)
-* [Ajay Tantry](https://www.facebook.com/ajay.tantry)  
-
+### Technical representative  
+* [Bikash Dash](https://www.facebook.com/beeeku)  
+* [Ajay Tantry](https://www.facebook.com/ajay.tantry)   
+  
 {% include main.md %}
