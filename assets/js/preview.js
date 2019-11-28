@@ -1,7 +1,7 @@
 $(function() {
-    $.browser.device = (/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()));
+    isMobile = /Mobi/.test(navigator.userAgent);
     $('main .pages .map').click((event)=>{
-        if($.browser == 'device'){
+        if(isMobile){
             $(event.target).toggleClass('choose');
         }
     });
