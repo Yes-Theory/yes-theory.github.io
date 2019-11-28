@@ -15,7 +15,8 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ---  
 
-* TE 💚 [India](https://t.me/joinchat/MU9y4xPqL7rnULJxxx8a0Q)  
+* TE 💚 [India](https://t.me/joinchat/MU9y4xPqL7rnULJxxx8a0Q)
+* TE 💚 [Bengaluru](https://t.me/joinchat/J53IGRcR7KY6VSeK0vQK5w)
 
 ---  
 
