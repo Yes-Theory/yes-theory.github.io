@@ -53,9 +53,12 @@ main{
     display: flex;
     height: calc( 100vh - 170px );
     nav{
-        padding: 60px 40px 0 40px;
+        position: fixed;
+        top: 170px;
+        padding: 60px 0 0 40px;
         display: table;
         float: left;
+        width: 290px;
         height: 100%;
         flex-grow: 0;
         .nav{
@@ -94,7 +97,7 @@ main{
         position: relative;
         display: table;
         flex-grow: 1;
-        padding: 50px 0 0 0;
+        padding: 50px 0 0 270px;
         > div{
             display: none;
         }
