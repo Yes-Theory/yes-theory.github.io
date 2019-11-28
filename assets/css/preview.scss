@@ -73,7 +73,6 @@ main{
     height: auto;
     @media (min-width: 1920px) {
         display: flex;
-        height: calc( 100vh - 170px );
     }
     nav{
         float: left;
@@ -151,6 +150,7 @@ main{
             padding: 0 20px;
             background: white;
             @media (min-width: 1920px) {
+                width: auto;
                 min-width: 727px;
                 height: 796px;
                 padding: 90px 80px 0 170px;
@@ -264,7 +264,9 @@ main{
             @media (min-width: 1920px) {
                 width: 860px;
                 top: 0;
-                right: 30px;  
+                right: 30px;
+                position: relative;
+                top: -200px;
             } 
             img{
                 width: 100%;
