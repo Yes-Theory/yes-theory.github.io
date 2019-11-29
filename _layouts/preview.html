@@ -56,30 +56,20 @@
 					{% when 'map' %}
 				<div class='box' page-title='find like minded friends'>
 					<div class='box-content'>
-						{% if country_page.country.groups.size > 0 %}
-						<h2>Groups</h2>
-						<ul>
-						{% for group in country_page.country.groups %}
-							<li class='{{ group.type }} {{ group.status }}'>{{ group.name }}<span></span></li>
-						{% endfor %}
-						</ul>
-						{% endif %}
-						{% if country_page.country.group-chats.size > 0 %}
-						<h2>Group chats</h2>
-						<ul>
-						{% for groupChat in country_page.country.group-chats %}
-							<li class='{{ groupChat.type }} {{ groupChat.status }}'>{{ groupChat.name }}<span></span></li>
-						{% endfor %}
-						</ul>
-						{% endif %}
-						{% if country_page.country.working-groups.size > 0 %}
-						<h2>Working groups</h2>
-						<ul>
-						{% for workingGroup in country_page.country.working-groups %}
-							<li class='{{ workingGroup.type }} {{ workingGroup.status }}'>{{ workingGroup.name }}<span></span></li>
-						{% endfor %}
-						</ul>
-						{% endif %}
+						<div id="stateGroups" class="carousel slide" data-ride="carousel">
+							<div class="carousel-inner">
+								<div class="carousel-item active">
+									{% include global/render-groups.html item=country_page.country %}
+								</div>
+								{% for district in country_page.districts %}
+								<div class="carousel-item">
+									{% include global/render-groups.html item=district %}
+								</div>
+								{% endfor %}
+							</div>
+							<a class="carousel-control-prev" href="#stateGroups" role="button" data-slide="prev"></a>
+							<a class="carousel-control-next" href="#stateGroups" role="button" data-slide="next"></a>
+						</div>
 					</div>
 				</div>
 				<div class='map'>

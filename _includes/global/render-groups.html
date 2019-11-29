@@ -1,0 +1,25 @@
+{% assign item = include.item %}
+{% if item.groups.size > 0 %}
+<h2>Groups</h2>
+<ul>
+    {% for group in item.groups %}
+    <li class='{{ group.type }} {{ group.status }}'>{{ group.name }}<span></span></li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% if item.group-chats.size > 0 %}
+<h2>Group chats</h2>
+<ul>
+    {% for groupChat in item.group-chats %}
+    <li class='{{ groupChat.type }} {{ groupChat.status }}'>{{ groupChat.name }}<span></span></li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% if item.working-groups.size > 0 %}
+<h2>Working groups</h2>
+<ul>
+    {% for workingGroup in item.working-groups %}
+    <li class='{{ workingGroup.type }} {{ workingGroup.status }}'>{{ workingGroup.name }}<span></span></li>
+    {% endfor %}
+</ul>
+{% endif %}
