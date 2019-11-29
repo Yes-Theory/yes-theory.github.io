@@ -9,7 +9,9 @@
 $remnant: 'Remnant','Open Sans', sans-serif;
 $mainColor: #0039ff;
 $secondaryColor: #f3997b;
-
+body{
+    background: $secondaryColor;
+}
 header{
     height: 82px;
     background-color: $mainColor;
@@ -81,7 +83,6 @@ header{
     }
 }
 main{
-    background: $secondaryColor;
     display: block;
     height: auto;
     @media (min-width: 992px) {
