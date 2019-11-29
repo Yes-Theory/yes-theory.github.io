@@ -84,6 +84,11 @@ main{
     background: $secondaryColor;
     display: block;
     height: auto;
+    @media (min-width: 992px) {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 0 20px 0;
+    }
     nav{
         float: left;
         height: 100%;
@@ -95,8 +100,6 @@ main{
         width: 100%;
         padding: 30px 20px 10px 20px;
         @media (min-width: 992px) {
-            position: fixed;
-            top: 170px;
             display: table;
             width: 290px;
             padding: 30px 0 0 40px;
@@ -153,10 +156,9 @@ main{
         padding: 0;
         display: block;
         @media (min-width: 992px) {
-            display: table;
+            display: block;
             flex-grow: 1;
-            padding: 30px 0 0 270px;
-            width: 100%;
+            padding: 30px 0 0 0;
         }
         @media (min-width: 1920px) {
             padding: 70px 0 0 270px;
