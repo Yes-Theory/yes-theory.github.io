@@ -114,6 +114,7 @@ main{
         display: block;
         width: 100%;
         padding: 30px 20px 10px 20px;
+        flex-shrink: 0;
         @media (min-width: 992px) {
             display: table;
             width: 290px;
@@ -365,6 +366,9 @@ main{
             }
         }
         .md{
+            padding: 0 20px;
+            background: white;
+            margin: 0 20px;
             h1{
                 color: $secondaryColor; //h1 should be replaced by js
                 display: none;
@@ -380,6 +384,38 @@ main{
                 @media (min-width: 1920px) {
                     font-size: 32px;
                 }
+            }
+            h3{
+                font-family: $remnant;
+                font-size: 22px;
+                color: $secondaryColor;
+                margin: 30px 0 20px 0;
+                @media (min-width: 992px) {
+                    font-size: 34px;
+                }
+                @media (min-width: 1920px) {
+                    font-size: 30px;
+                }
+            }
+            h4{
+                font-family: $remnant;
+                font-size: 20px;
+                color: $secondaryColor;
+                margin: 30px 0 20px 0;
+                @media (min-width: 992px) {
+                    font-size: 32px;
+                }
+                @media (min-width: 1920px) {
+                    font-size: 28px;
+                }
+            }
+            p, ul li, a{
+                color: #32373c;
+                font-size: 18px;
+                letter-spacing: 1px;
+            }
+            a{
+                text-decoration: underline;
             }
         }
     }
