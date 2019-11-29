@@ -176,8 +176,8 @@ main{
             @media (min-width: 992px) {
                 width: 410px;
                 height: 450px;
-                overflow: scroll;
-                padding: 30px 40px 0 88px;
+                padding: 30px 40px 50px 88px;
+                display: block;
                 background: initial;
                 background-size: cover;
                 background-image: url('../image/box.webp');
@@ -188,6 +188,9 @@ main{
                 padding: 90px 80px 0 170px;
             }
             .box-content{
+                height: 100%;
+                display: block;
+                overflow: scroll;
                 h2{
                     font-family: $remnant;
                     font-size: 24px;
