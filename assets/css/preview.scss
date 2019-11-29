@@ -103,6 +103,9 @@ main{
             top: 170px;
             display: table;
             width: 290px;
+            padding: 30px 0 0 40px;
+        }
+        @media (min-width: 1920px) {
             padding: 60px 0 0 40px;
         }
         .nav{
@@ -156,6 +159,9 @@ main{
         @media (min-width: 992px) {
             display: table;
             flex-grow: 1;
+            padding: 30px 0 0 270px;
+        }
+        @media (min-width: 1920px) {
             padding: 70px 0 0 270px;
         }
         > div{
