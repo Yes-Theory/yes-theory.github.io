@@ -1,4 +1,4 @@
 ---
 layout: preview
-county: Germany
+country: Germany
 ---

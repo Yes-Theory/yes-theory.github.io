@@ -1,4 +1,4 @@
-{% assign county_name = page.country | downcase%}
+{% assign country_name = page.country | downcase%}
 <!DOCTYPE html>
 <html lang='{{ site.lang | default: 'en-US' }}'>
 
@@ -44,38 +44,38 @@
 	<main>
 		<nav>
 			<div class='nav' role='tablist' aria-orientation='vertical'>
-				{% for page in site.data.germany.pages %}
-				<a role='tab' data-toggle='tab' href='#tab-{{ page.name }}' class='{% if page.name == "map" %}active{% endif %}'>{{ page.name }}</a>
+				{% for country_page in site.data.germany.pages %}
+				<a role='tab' data-toggle='tab' href='#tab-{{ country_page.name }}' class='{% if country_page.name == "map" %}active{% endif %}'>{{ country_page.name }}</a>
 				{% endfor %}
 			</div>
 		</nav>
-		<div class='pages'>
-			{% for page in site.data.germany.pages %}
-			<div id='tab-{{ page.name }}' role='tabpanel' class='fade {% if page.name == "map" %}active show{% endif %}'>
-				{% case page.name %}
+		<div class='page'>
+			{% for country_page in site.data.germany.pages %}
+			<div id='tab-{{ country_page.name }}' role='tabpanel' class='fade {% if country_page.name == "map" %}active show{% endif %}'>
+				{% case country_page.name %}
 					{% when 'map' %}
 				<div class='box'>
 					<div class='box-content'>
-						{% if page.country.groups.size > 0 %}
+						{% if country_page.country.groups.size > 0 %}
 						<h2>Groups</h2>
 						<ul>
-						{% for group in page.country.groups %}
+						{% for group in country_page.country.groups %}
 							<li class='{{ group.type }} {{ group.status }}'>{{ group.name }}<span></span></li>
 						{% endfor %}
 						</ul>
 						{% endif %}
-						{% if page.country.group-chats.size > 0 %}
+						{% if country_page.country.group-chats.size > 0 %}
 						<h2>Group chats</h2>
 						<ul>
-						{% for groupChat in page.country.group-chats %}
+						{% for groupChat in country_page.country.group-chats %}
 							<li class='{{ groupChat.type }} {{ groupChat.status }}'>{{ groupChat.name }}<span></span></li>
 						{% endfor %}
 						</ul>
 						{% endif %}
-						{% if page.country.working-groups.size > 0 %}
+						{% if country_page.country.working-groups.size > 0 %}
 						<h2>Working groups</h2>
 						<ul>
-						{% for workingGroup in page.country.working-groups %}
+						{% for workingGroup in country_page.country.working-groups %}
 							<li class='{{ workingGroup.type }} {{ workingGroup.status }}'>{{ workingGroup.name }}<span></span></li>
 						{% endfor %}
 						</ul>
@@ -83,22 +83,15 @@
 					</div>
 				</div>
 				<div class='map'>
-					<img src='/images/{{ page.country }}/map.webp' alt='interactive map of {{ page.country }}' title='click the state you want to inspect'>
+					<img src='/images/{{country_name }}/map.webp' alt='interactive map of {{ page.country }}' title='click the state you want to inspect'>
 				</div>
 					{% when 'contact' %}
 					{% else %}
-						{% assign tmp_include_name = {{ county_name }}/{{ page.page }} %}
-						{% include tmp_include_name %}
+						{% capture tmp_include_name %}{{ country_name }}/{{ country_page.page }}{% endcapture %}
+						{% include {{ tmp_include_name }} %}
 				{% endcase %}
 			</div>
 			{% endfor %}
-			
-						
-					
-			<div id='tab-news' role='tabpanel' class='fade'>tab 2</div>
-			<div id='tab-meetups' role='tabpanel' class='fade'>tab 3</div>
-			<div id='tab-working-groups' role='tabpanel' class='fade'>tab 4</div>
-			<div id='tab-event-planing' role='tabpanel' class='fade'>tab 5</div>
 		</div>
 	</main>
 </body>
