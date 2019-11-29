@@ -1,5 +1,5 @@
 $(function() {
-    isMobile = /Mobi/.test(navigator.userAgent);
+    isMobile = $(window).width() < 992;
     $('main .pages .map').click((event)=>{
         if(isMobile){
             $(event.currentTarget).toggleClass('choose');
