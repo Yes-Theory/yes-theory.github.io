@@ -88,7 +88,9 @@
 					{% when 'contact' %}
 					{% else %}
 						{% capture tmp_include_name %}{{ country_name }}/{{ country_page.page }}{% endcapture %}
-						{% include {{ tmp_include_name }} %}
+						{% capture tmp_include_content %}{% include {{ tmp_include_name }} %}{% endcapture %}
+						{{ tmp_include_content | markdownify }}
+						
 				{% endcase %}
 			</div>
 			{% endfor %}
