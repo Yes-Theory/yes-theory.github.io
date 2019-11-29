@@ -172,8 +172,10 @@ main{
     }
     .pages{
         padding: 0;
-        display: block;
         opacity: 1;
+        display: table;
+        table-layout: fixed;
+        width: 100%;
         transition: opacity 0.3s ease-in-out;
         @media (min-width: 992px) {
             display: block;
@@ -362,7 +364,6 @@ main{
                 width: 100%;
                 background-color: white;
                 top: 0;
-                height: 100%;
             }
         }
         .md{
