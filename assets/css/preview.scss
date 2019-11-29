@@ -224,9 +224,11 @@ main{
                         display: table;
                         @media (min-width: 992px) {
                             font-size: 24px;
+                            width: 236px;
                         }
                         @media (min-width: 1920px) {
                             font-size: 33px;
+                            width: 380px;
                         }
                         &.fb{
                             &:before{
@@ -298,10 +300,14 @@ main{
                                 width: 52px;
                                 height: 28px;
                                 margin: 10px 0 0 20px;
+                                position: absolute;
+                                top: 0;
+                                right: -46px;
                             }
                             @media (min-width: 1920px) {
                                 width: 98px;
                                 height: 54px;
+                                right: -96px;
                             }
                         }
                     }
