@@ -1,5 +1,6 @@
 pages:
   contact:
+    name: contact
     country-representative:
       - name: Laurenz Bennet
         url: https://www.facebook.com/laurenz.bennet
@@ -9,6 +10,7 @@ pages:
         url: https://www.facebook.com/noel.elias.schenk
         type: fb
   map:
+    name: map
     country:
       groups:
         - name: Germany

@@ -43,15 +43,16 @@
 	<main>
 		<nav>
 			<div class='nav' role='tablist' aria-orientation='vertical'>
-				<a role='tab' data-toggle='tab' href='#tab-map' class='active'>Map</a>
-				<a role='tab' data-toggle='tab' href='#tab-news'>News</a>
-				<a role='tab' data-toggle='tab' href='#tab-meetups'>Meetups</a>
-				<a role='tab' data-toggle='tab' href='#tab-working-groups'>Working groups</a>
-				<a role='tab' data-toggle='tab' href='#tab-event-planing'>Event planing</a>
+				{% for page in site.data.germany.pages %}
+				<a role='tab' data-toggle='tab' href='#tab-{{ page.name }}' class='{% if page.name == "map" %}active{% endif %}'>Map</a>
+				{% endfor %}
 			</div>
 		</nav>
 		<div class='pages'>
-			<div id='tab-map' role='tabpanel' class='active fade show'>
+			{% for page in site.data.germany.pages %}
+			<div id='tab-{{ page.name }}' role='tabpanel' class='active fade {% if page.name == "map" %}show{% endif %}'></div>
+				{% case page.name %}
+					{% when 'map' %}
 				<div class='box'>
 					<div class='box-content'>
 						{% if site.data.germany.pages.map.country.groups.size > 0 %}
@@ -83,7 +84,16 @@
 				<div class='map'>
 					<img src='/images/germany/map.webp' alt='interactive map of germany' title='click the federal state you want to inspect'>
 				</div>
+						{% when 'contact' %}
+							
+						{% else %}
+						Not yet implemented
+				{% endcase %}
 			</div>
+			{% endfor %}
+			
+						
+					
 			<div id='tab-news' role='tabpanel' class='fade'>tab 2</div>
 			<div id='tab-meetups' role='tabpanel' class='fade'>tab 3</div>
 			<div id='tab-working-groups' role='tabpanel' class='fade'>tab 4</div>
