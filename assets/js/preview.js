@@ -5,4 +5,10 @@ $(function() {
             $(event.currentTarget).toggleClass('choose');
         }
     });
+    $( "main nav a" ).click(()=>{
+        $('main .pages').toggleClass('changing-page');
+        setTimeout(()=>{
+            $('main .pages').toggleClass('changing-page');
+        }, 500);
+    });
 });

@@ -156,6 +156,8 @@ main{
     .pages{
         padding: 0;
         display: block;
+        opacity: 1;
+        transition: opacity 0.3s ease-in-out;
         @media (min-width: 992px) {
             display: block;
             flex-grow: 1;
@@ -163,6 +165,9 @@ main{
         }
         @media (min-width: 1920px) {
             padding: 70px 0 0 0;
+        }
+        &.changing-page{
+            opacity: 0;
         }
         > div{
             display: none;
