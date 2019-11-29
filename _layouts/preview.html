@@ -55,26 +55,26 @@
 					{% when 'map' %}
 				<div class='box'>
 					<div class='box-content'>
-						{% if site.data.germany.pages.map.country.groups.size > 0 %}
+						{% if page.country.groups.size > 0 %}
 						<h2>Groups</h2>
 						<ul>
-						{% for group in site.data.germany.pages.map.country.groups %}
+						{% for group in page.country.groups %}
 							<li class='{{ group.type }} {{ group.status }}'>{{ group.name }}<span></span></li>
 						{% endfor %}
 						</ul>
 						{% endif %}
-						{% if site.data.germany.pages.map.country.group-chats.size > 0 %}
+						{% if page.country.group-chats.size > 0 %}
 						<h2>Group chats</h2>
 						<ul>
-						{% for groupChat in site.data.germany.pages.map.country.group-chats %}
+						{% for groupChat in page.country.group-chats %}
 							<li class='{{ groupChat.type }} {{ groupChat.status }}'>{{ groupChat.name }}<span></span></li>
 						{% endfor %}
 						</ul>
 						{% endif %}
-						{% if site.data.germany.pages.map.country.working-groups.size > 0 %}
+						{% if page.country.working-groups.size > 0 %}
 						<h2>Working groups</h2>
 						<ul>
-						{% for workingGroup in site.data.germany.pages.map.country.working-groups %}
+						{% for workingGroup in page.country.working-groups %}
 							<li class='{{ workingGroup.type }} {{ workingGroup.status }}'>{{ workingGroup.name }}<span></span></li>
 						{% endfor %}
 						</ul>
