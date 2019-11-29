@@ -17,7 +17,9 @@ $(function() {
         });
     }
     function page_change(){
-        var current_page_title = $('.pages > div.active > *').attr('page-title')
-        $('header h1 small').html(current_page_title);
+        setTimeout(()=>{ //wait for the new page to load
+            var current_page_title = $('.pages > div.active > *').attr('page-title')
+            $('header h1 small').html(current_page_title);
+        }, 400);
     }
 });
