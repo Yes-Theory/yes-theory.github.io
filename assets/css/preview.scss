@@ -24,6 +24,10 @@ header{
         top: 20px;
         width: calc( 100% - 40px );
         @media (min-width: 992px) {
+            top: 38px;
+            left: 50px;
+        }
+        @media (min-width: 1920px) {
             top: 26px;
             left: 40px;
         }
@@ -31,6 +35,9 @@ header{
             width: 44px;
             height: auto;
             @media (min-width: 992px) {
+                width: 110px;
+            }
+            @media (min-width: 1920px) {
                 width: 180px;
             }
         }
@@ -44,6 +51,10 @@ header{
             margin: 2px 0 0 0;
             @media (min-width: 992px) {
                 font-size: 29px;
+                letter-spacing: 2px;
+                margin: 0;
+            }
+            @media (min-width: 1920px) {
                 letter-spacing: 7px;
                 margin: 6px 0 0 22px;
             }
@@ -61,9 +72,12 @@ header{
         left: 95px;
         line-height: 82px;
         @media (min-width: 992px) {
-            font-size: 83px;
+            font-size: 48px;
             left: 306px;
             line-height: 170px;
+        }
+        @media (min-width: 1920px) {
+            font-size: 83px;
         }
     }
 }
@@ -102,6 +116,10 @@ main{
             font-size: 20px;
             padding: 0 0 20px 0;
             @media (min-width: 992px) {
+                font-size: 26px;
+                padding: 0 0 20px 0;
+            }
+            @media (min-width: 1920px) {
                 font-size: 33px;
                 padding: 0 0 30px 0;
             }
@@ -117,6 +135,9 @@ main{
                 width: auto;
                 color: $mainColor;
                 @media (min-width: 992px) {
+                    font-size: 40px;
+                }
+                @media (min-width: 1920px) {
                     font-size: 50px;
                 }
                 &:before{
@@ -149,18 +170,21 @@ main{
         }
         .box{
             display: table;
-            background-size: cover;
             width: 100%;
             padding: 0 20px;
             background: white;
             @media (min-width: 992px) {
-                width: auto;
-                min-width: 727px;
+                width: 410px;
+                height: 450px;
+                padding: 30px 40px 0 88px;
+                background: initial;
+                background-size: cover;
+                background-image: url('../image/box.webp');
+            }
+            @media (min-width: 1920px) {
+                width: 727px;
                 height: 796px;
                 padding: 90px 80px 0 170px;
-                background: initial;
-                background-image: url('../image/box.webp');
-                background-repeat: no-repeat;
             }
             h2{
                 font-family: $remnant;
@@ -168,6 +192,9 @@ main{
                 color: $secondaryColor;
                 margin: 30px 0 20px 0;
                 @media (min-width: 992px) {
+                    font-size: 36px;
+                }
+                @media (min-width: 1920px) {
                     font-size: 42px;
                 }
             }
@@ -185,6 +212,9 @@ main{
                     position: relative;
                     display: table;
                     @media (min-width: 992px) {
+                        font-size: 24px;
+                    }
+                    @media (min-width: 1920px) {
                         font-size: 33px;
                     }
                     &.fb{
@@ -220,6 +250,9 @@ main{
                         font-size: 30px;
                         padding: 0 18px 0 0;
                         @media (min-width: 992px) {
+                            font-size: 32px;
+                        }
+                        @media (min-width: 1920px) {
                             font-size: 46px;
                         }
                     }
@@ -237,6 +270,9 @@ main{
                         background-image: url(../image/underline.webp);
                         @media (min-width: 992px) {
                             height: 10px;
+                            width: calc( 100% - 112px );
+                        }
+                        @media (min-width: 1920px) {
                             width: calc( 100% - 146px );
                         }
                     }
@@ -248,9 +284,13 @@ main{
                         height: 26px;
                         margin: 8px 0 0 4px;
                         @media (min-width: 992px) {
+                            width: 52px;
+                            height: 28px;
+                            margin: 10px 0 0 20px;
+                        }
+                        @media (min-width: 1920px) {
                             width: 98px;
                             height: 54px;
-                            margin: 10px 0 0 20px;
                         }
                     }
                 }
@@ -266,12 +306,15 @@ main{
             height: auto;
             transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out, top 0.3s ease-in-out, height 0.3s ease-in-out;
             @media (min-width: 992px) {
-                width: 860px;
+                width: 200px;
                 top: 0;
                 right: 30px;
                 position: relative;
                 top: -200px;
-            } 
+            }
+            @media (min-width: 1920px) {
+                width: 860px;
+            }
             img{
                 width: 100%;
             }
