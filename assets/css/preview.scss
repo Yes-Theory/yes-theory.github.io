@@ -191,12 +191,12 @@ main{
                 background: initial;
                 background-size: cover;
                 background-image: url('../image/box.webp');
+                margin: 0 auto;
             }
             @media (min-width: 1920px) {
                 width: 650px;
                 height: 710px;
                 padding: 90px 80px 80px 170px;
-                margin: 0 auto;
             }
             .box-content{
                 height: 100%;
