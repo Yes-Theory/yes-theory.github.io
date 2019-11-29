@@ -1,5 +1,5 @@
 pages:
-  contact:
+  - contact:
     name: contact
     country-representative:
       - name: Laurenz Bennet
@@ -9,7 +9,7 @@ pages:
       - name: Noel Schenk
         url: https://www.facebook.com/noel.elias.schenk
         type: fb
-  map:
+  - map:
     name: map
     country:
       groups:
@@ -149,21 +149,21 @@ pages:
             url: https://chat.whatsapp.com/BvMwlVpSfuVLVlt3kdoesv
             status: open
             type: wa
-  meetups:
+  - meetups:
     - name: meetups
       page: meetups.md
-  working-groups:
+  - working-groups:
     - name: working groups
       page: working-groups.md
-  announcements:
+  - announcements:
     - name: announcements
       page: announcements.md
-  news:
+  - news:
     - name: news
       page: news.md
-  event-planing:
+  - event-planing:
     - name: event planing
       page: event-planing.md
-  information:
+  - information:
     - name: information
       page: information.md

@@ -50,7 +50,7 @@
 		</nav>
 		<div class='pages'>
 			{% for page in site.data.germany.pages %}
-			<div id='tab-{{ page.name }}' role='tabpanel' class='active fade {% if page.name == "map" %}show{% endif %}'></div>
+			<div id='tab-{{ page.name }}' role='tabpanel' class='active fade {% if page.name == "map" %}show{% endif %}'>
 				{% case page.name %}
 					{% when 'map' %}
 				<div class='box'>
