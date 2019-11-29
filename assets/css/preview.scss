@@ -270,7 +270,7 @@ main{
                                 font-size: 32px;
                             }
                             @media (min-width: 1920px) {
-                                font-size: 46px;
+                                font-size: 34px;
                             }
                         }
                         &:after{
@@ -290,7 +290,7 @@ main{
                                 width: calc( 100% - 112px );
                             }
                             @media (min-width: 1920px) {
-                                width: calc( 100% - 146px );
+                                width: calc( 100% - 42px );
                             }
                         }
                         > span{
