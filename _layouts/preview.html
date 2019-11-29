@@ -38,19 +38,19 @@
 			<span>theory</span>
 		</div>
 		<h1>
-			FAM Germany
+			FAM {{ page.country }}
 		</h1>
 	</header>
 	<main>
 		<nav>
 			<div class='nav' role='tablist' aria-orientation='vertical'>
-				{% for country_page in site.data.germany.pages %}
+				{% for country_page in site.data[country_name].pages %}
 				<a role='tab' data-toggle='tab' href='#tab-{{ country_page.name|replace: " ", "-" }}' class='{% if country_page.name == "map" %}active{% endif %}'>{{ country_page.name }}</a>
 				{% endfor %}
 			</div>
 		</nav>
 		<div class='pages'>
-			{% for country_page in site.data.germany.pages %}
+			{% for country_page in site.data[country_name].pages %}
 			<div id='tab-{{ country_page.name|replace: " ", "-" }}' role='tabpanel' class='fade {% if country_page.name == "map" %}active show{% endif %}'>
 				{% case country_page.name %}
 					{% when 'map' %}
