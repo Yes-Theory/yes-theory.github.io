@@ -150,20 +150,20 @@ pages:
             status: open
             type: wa
   - meetups:
-    - name: meetups
-      page: meetups.md
+    name: meetups
+    page: meetups.md
   - working-groups:
-    - name: working groups
-      page: working-groups.md
+    name: working groups
+    page: working-groups.md
   - announcements:
-    - name: announcements
-      page: announcements.md
+    name: announcements
+    page: announcements.md
   - news:
-    - name: news
-      page: news.md
+    name: news
+    page: news.md
   - event-planing:
-    - name: event planing
-      page: event-planing.md
+    name: event planing
+    page: event-planing.md
   - information:
-    - name: information
-      page: information.md
+    name: information
+    page: information.md
