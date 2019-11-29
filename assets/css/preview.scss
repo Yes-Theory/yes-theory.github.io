@@ -121,11 +121,11 @@ main{
             font-size: 20px;
             padding: 0 0 20px 0;
             @media (min-width: 992px) {
-                font-size: 26px;
+                font-size: 20px;
                 padding: 0 0 20px 0;
             }
             @media (min-width: 1920px) {
-                font-size: 33px;
+                font-size: 22px;
                 padding: 0 0 30px 0;
             }
             &:before{
@@ -140,10 +140,10 @@ main{
                 width: auto;
                 color: $mainColor;
                 @media (min-width: 992px) {
-                    font-size: 40px;
+                    font-size: 24px;
                 }
                 @media (min-width: 1920px) {
-                    font-size: 50px;
+                    font-size: 26px;
                 }
                 &:before{
                     color: $mainColor;
