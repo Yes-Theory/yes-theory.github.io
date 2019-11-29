@@ -18,11 +18,10 @@ header{
         height: 170px;
     }
     .logo{
-        display: block;
+        display: table;
         position: relative;
         left: 20px;
         top: 20px;
-        width: calc( 100% - 40px );
         @media (min-width: 992px) {
             top: 38px;
             left: 50px;
@@ -85,9 +84,6 @@ main{
     background: $secondaryColor;
     display: block;
     height: auto;
-    @media (min-width: 992px) {
-        display: flex;
-    }
     nav{
         float: left;
         height: 100%;
@@ -160,6 +156,7 @@ main{
             display: table;
             flex-grow: 1;
             padding: 30px 0 0 270px;
+            width: 100%;
         }
         @media (min-width: 1920px) {
             padding: 70px 0 0 270px;
