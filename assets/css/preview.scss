@@ -176,6 +176,7 @@ main{
             @media (min-width: 992px) {
                 width: 410px;
                 height: 450px;
+                overflow: scroll;
                 padding: 30px 40px 0 88px;
                 background: initial;
                 background-size: cover;
@@ -186,111 +187,113 @@ main{
                 height: 796px;
                 padding: 90px 80px 0 170px;
             }
-            h2{
-                font-family: $remnant;
-                font-size: 24px;
-                color: $secondaryColor;
-                margin: 30px 0 20px 0;
-                @media (min-width: 992px) {
-                    font-size: 36px;
-                }
-                @media (min-width: 1920px) {
-                    font-size: 42px;
-                }
-            }
-            ul{
-                margin: 0;
-                padding: 0;
-                display: table;
-                li{
+            .box-content{
+                h2{
                     font-family: $remnant;
-                    font-size: 20px;
-                    list-style-type: none;
-                    margin: 0 0 36px 0;
-                    padding: 0;
+                    font-size: 24px;
                     color: $secondaryColor;
-                    position: relative;
-                    display: table;
+                    margin: 30px 0 20px 0;
                     @media (min-width: 992px) {
-                        font-size: 24px;
+                        font-size: 36px;
                     }
                     @media (min-width: 1920px) {
-                        font-size: 33px;
+                        font-size: 42px;
                     }
-                    &.fb{
-                        &:before{
-                            content: '\f39e';
-                            color: #3b5998;
+                }
+                ul{
+                    margin: 0;
+                    padding: 0;
+                    display: table;
+                    li{
+                        font-family: $remnant;
+                        font-size: 20px;
+                        list-style-type: none;
+                        margin: 0 0 36px 0;
+                        padding: 0;
+                        color: $secondaryColor;
+                        position: relative;
+                        display: table;
+                        @media (min-width: 992px) {
+                            font-size: 24px;
                         }
-                    }
-                    &.wa{
-                        &:before{
-                            content: '\f232';
-                            color: #25d366;
+                        @media (min-width: 1920px) {
+                            font-size: 33px;
                         }
-                    }
-                    &.me{
-                        &:before{
-                            content: '\f39f';
-                            color: #0078FF;
+                        &.fb{
+                            &:before{
+                                content: '\f39e';
+                                color: #3b5998;
+                            }
                         }
-                    }
-                    &.open{
+                        &.wa{
+                            &:before{
+                                content: '\f232';
+                                color: #25d366;
+                            }
+                        }
+                        &.me{
+                            &:before{
+                                content: '\f39f';
+                                color: #0078FF;
+                            }
+                        }
+                        &.open{
+                            > span{
+                                background-image: url(../image/open.webp);
+                            }
+                        }
+                        &.full{
+                            > span{
+                                background-image: url(../image/full.webp);
+                            }
+                        }
+                        &:before{
+                            font-family: "Font Awesome 5 Brands";
+                            font-size: 30px;
+                            padding: 0 18px 0 0;
+                            @media (min-width: 992px) {
+                                font-size: 32px;
+                            }
+                            @media (min-width: 1920px) {
+                                font-size: 46px;
+                            }
+                        }
+                        &:after{
+                            content: '';
+                            display: block;
+                            position: absolute;
+                            left: 40px;
+                            right: 0;
+                            width: calc( 100% - 92px );
+                            height: 18px;
+                            background-size: cover;
+                            background-position: top center;
+                            background-repeat: no-repeat;
+                            background-image: url(../image/underline.webp);
+                            @media (min-width: 992px) {
+                                height: 10px;
+                                width: calc( 100% - 112px );
+                            }
+                            @media (min-width: 1920px) {
+                                width: calc( 100% - 146px );
+                            }
+                        }
                         > span{
-                            background-image: url(../image/open.webp);
-                        }
-                    }
-                    &.full{
-                        > span{
-                            background-image: url(../image/full.webp);
-                        }
-                    }
-                    &:before{
-                        font-family: "Font Awesome 5 Brands";
-                        font-size: 30px;
-                        padding: 0 18px 0 0;
-                        @media (min-width: 992px) {
-                            font-size: 32px;
-                        }
-                        @media (min-width: 1920px) {
-                            font-size: 46px;
-                        }
-                    }
-                    &:after{
-                        content: '';
-                        display: block;
-                        position: absolute;
-                        left: 40px;
-                        right: 0;
-                        width: calc( 100% - 92px );
-                        height: 18px;
-                        background-size: cover;
-                        background-position: top center;
-                        background-repeat: no-repeat;
-                        background-image: url(../image/underline.webp);
-                        @media (min-width: 992px) {
-                            height: 10px;
-                            width: calc( 100% - 112px );
-                        }
-                        @media (min-width: 1920px) {
-                            width: calc( 100% - 146px );
-                        }
-                    }
-                    > span{
-                        display: block;
-                        float: right;
-                        width: 46px;
-                        background-size: cover;
-                        height: 26px;
-                        margin: 8px 0 0 4px;
-                        @media (min-width: 992px) {
-                            width: 52px;
-                            height: 28px;
-                            margin: 10px 0 0 20px;
-                        }
-                        @media (min-width: 1920px) {
-                            width: 98px;
-                            height: 54px;
+                            display: block;
+                            float: right;
+                            width: 46px;
+                            background-size: cover;
+                            height: 26px;
+                            margin: 8px 0 0 4px;
+                            @media (min-width: 992px) {
+                                width: 52px;
+                                height: 28px;
+                                margin: 10px 0 0 20px;
+                            }
+                            @media (min-width: 1920px) {
+                                width: 98px;
+                                height: 54px;
+                            }
                         }
                     }
                 }

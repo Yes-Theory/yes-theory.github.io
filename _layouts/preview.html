@@ -53,30 +53,32 @@
 		<div class='pages'>
 			<div id='tab-map' role='tabpanel' class='active'>
 				<div class='box'>
-					{% if site.data.germany.pages.map.country.groups.size > 0 %}
-					<h2>Groups</h2>
-					<ul>
-					{% for group in site.data.germany.pages.map.country.groups %}
-						<li class='{{ group.type }} {{ group.status }}'>{{ group.name }}<span></span></li>
-					{% endfor %}
-					</ul>
-					{% endif %}
-					{% if site.data.germany.pages.map.country.group-chats.size > 0 %}
-					<h2>Group chats</h2>
-					<ul>
-					{% for groupChat in site.data.germany.pages.map.country.group-chats %}
-						<li class='{{ groupChat.type }} {{ groupChat.status }}'>{{ groupChat.name }}<span></span></li>
-					{% endfor %}
-					</ul>
-					{% endif %}
-					{% if site.data.germany.pages.map.country.working-groups.size > 0 %}
-					<h2>Working groups</h2>
-					<ul>
-					{% for workingGroup in site.data.germany.pages.map.country.working-groups %}
-						<li class='{{ workingGroup.type }} {{ workingGroup.status }}'>{{ workingGroup.name }}<span></span></li>
-					{% endfor %}
-					</ul>
-					{% endif %}
+					<div class='box-content'>
+						{% if site.data.germany.pages.map.country.groups.size > 0 %}
+						<h2>Groups</h2>
+						<ul>
+						{% for group in site.data.germany.pages.map.country.groups %}
+							<li class='{{ group.type }} {{ group.status }}'>{{ group.name }}<span></span></li>
+						{% endfor %}
+						</ul>
+						{% endif %}
+						{% if site.data.germany.pages.map.country.group-chats.size > 0 %}
+						<h2>Group chats</h2>
+						<ul>
+						{% for groupChat in site.data.germany.pages.map.country.group-chats %}
+							<li class='{{ groupChat.type }} {{ groupChat.status }}'>{{ groupChat.name }}<span></span></li>
+						{% endfor %}
+						</ul>
+						{% endif %}
+						{% if site.data.germany.pages.map.country.working-groups.size > 0 %}
+						<h2>Working groups</h2>
+						<ul>
+						{% for workingGroup in site.data.germany.pages.map.country.working-groups %}
+							<li class='{{ workingGroup.type }} {{ workingGroup.status }}'>{{ workingGroup.name }}<span></span></li>
+						{% endfor %}
+						</ul>
+						{% endif %}
+					</div>
 				</div>
 				<div class='map'>
 					<img src='/images/germany/map.webp' alt='interactive map of germany' title='click the federal state you want to inspect'>
