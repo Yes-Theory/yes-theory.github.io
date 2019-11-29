@@ -28,14 +28,14 @@ pages:
           status: open
           type: wa
     districts:
-      - name: North Rhine-Westphalia
+      - name: NRW
         groups:
           - name: Cologne
             url: https://www.facebook.com/groups/447757289016396/
             status: open
             type: fb
         group-chats:
-          - name: North Rhine-Westphalia
+          - name: NRW
             url: https://m.me/join/AbYuHzRU8BNzZhrx
             status: open
             type: me
