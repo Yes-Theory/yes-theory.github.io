@@ -14,7 +14,7 @@ header{
     height: 82px;
     background-color: $mainColor;
     position: relative;
-    @media (min-width: 1920px) {
+    @media (min-width: 992px) {
         height: 170px;
     }
     .logo{
@@ -23,14 +23,14 @@ header{
         left: 20px;
         top: 20px;
         width: calc( 100% - 40px );
-        @media (min-width: 1920px) {
+        @media (min-width: 992px) {
             top: 26px;
             left: 40px;
         }
         img{
             width: 44px;
             height: auto;
-            @media (min-width: 1920px) {
+            @media (min-width: 992px) {
                 width: 180px;
             }
         }
@@ -42,7 +42,7 @@ header{
             font-size: 12px;
             letter-spacing: 2px;
             margin: 2px 0 0 0;
-            @media (min-width: 1920px) {
+            @media (min-width: 992px) {
                 font-size: 29px;
                 letter-spacing: 7px;
                 margin: 6px 0 0 22px;
@@ -60,7 +60,7 @@ header{
         font-size: 16px;
         left: 95px;
         line-height: 82px;
-        @media (min-width: 1920px) {
+        @media (min-width: 992px) {
             font-size: 83px;
             left: 306px;
             line-height: 170px;
@@ -71,7 +71,7 @@ main{
     background: $secondaryColor;
     display: block;
     height: auto;
-    @media (min-width: 1920px) {
+    @media (min-width: 992px) {
         display: flex;
     }
     nav{
@@ -84,7 +84,7 @@ main{
         display: block;
         width: 100%;
         padding: 30px 20px 10px 20px;
-        @media (min-width: 1920px) {
+        @media (min-width: 992px) {
             position: fixed;
             top: 170px;
             display: table;
@@ -101,7 +101,7 @@ main{
             transition: font-size 0.3s ease-in-out;
             font-size: 20px;
             padding: 0 0 20px 0;
-            @media (min-width: 1920px) {
+            @media (min-width: 992px) {
                 font-size: 33px;
                 padding: 0 0 30px 0;
             }
@@ -116,7 +116,7 @@ main{
                 font-size: 26px;
                 width: auto;
                 color: $mainColor;
-                @media (min-width: 1920px) {
+                @media (min-width: 992px) {
                     font-size: 50px;
                 }
                 &:before{
@@ -132,7 +132,7 @@ main{
     .pages{
         padding: 0;
         display: block;
-        @media (min-width: 1920px) {
+        @media (min-width: 992px) {
             display: table;
             flex-grow: 1;
             padding: 70px 0 0 270px;
@@ -142,7 +142,7 @@ main{
         }
         > div.active{
             display: block;
-            @media (min-width: 1920px) {
+            @media (min-width: 992px) {
                 display: flex;
                 justify-content: space-between;
             }
@@ -153,7 +153,7 @@ main{
             width: 100%;
             padding: 0 20px;
             background: white;
-            @media (min-width: 1920px) {
+            @media (min-width: 992px) {
                 width: auto;
                 min-width: 727px;
                 height: 796px;
@@ -167,7 +167,7 @@ main{
                 font-size: 24px;
                 color: $secondaryColor;
                 margin: 30px 0 20px 0;
-                @media (min-width: 1920px) {
+                @media (min-width: 992px) {
                     font-size: 42px;
                 }
             }
@@ -184,7 +184,7 @@ main{
                     color: $secondaryColor;
                     position: relative;
                     display: table;
-                    @media (min-width: 1920px) {
+                    @media (min-width: 992px) {
                         font-size: 33px;
                     }
                     &.fb{
@@ -219,7 +219,7 @@ main{
                         font-family: "Font Awesome 5 Brands";
                         font-size: 30px;
                         padding: 0 18px 0 0;
-                        @media (min-width: 1920px) {
+                        @media (min-width: 992px) {
                             font-size: 46px;
                         }
                     }
@@ -235,7 +235,7 @@ main{
                         background-position: top center;
                         background-repeat: no-repeat;
                         background-image: url(../image/underline.webp);
-                        @media (min-width: 1920px) {
+                        @media (min-width: 992px) {
                             height: 10px;
                             width: calc( 100% - 146px );
                         }
@@ -247,7 +247,7 @@ main{
                         background-size: cover;
                         height: 26px;
                         margin: 8px 0 0 4px;
-                        @media (min-width: 1920px) {
+                        @media (min-width: 992px) {
                             width: 98px;
                             height: 54px;
                             margin: 10px 0 0 20px;
@@ -265,7 +265,7 @@ main{
             background-color: transparent;
             height: auto;
             transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out, top 0.3s ease-in-out, height 0.3s ease-in-out;
-            @media (min-width: 1920px) {
+            @media (min-width: 992px) {
                 width: 860px;
                 top: 0;
                 right: 30px;
