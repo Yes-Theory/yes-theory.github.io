@@ -1,3 +1,4 @@
+{% assign county_name = page.country | downcase%}
 <!DOCTYPE html>
 <html lang='{{ site.lang | default: 'en-US' }}'>
 
@@ -82,12 +83,10 @@
 					</div>
 				</div>
 				<div class='map'>
-					<img src='/images/germany/map.webp' alt='interactive map of germany' title='click the federal state you want to inspect'>
+					<img src='/images/{{ page.country }}/map.webp' alt='interactive map of {{ page.country }}' title='click the state you want to inspect'>
 				</div>
-						{% when 'contact' %}
-							
-						{% else %}
-						Not yet implemented
+					{% else %}
+						{% include { county_name }}/{{ page.name }}.md %}
 				{% endcase %}
 			</div>
 			{% endfor %}
