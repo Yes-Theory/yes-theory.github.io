@@ -1,7 +1,6 @@
 pages:
   - contact:
     name: contact
-    page: contact
     country-representative:
       - name: Laurenz Bennet
         url: https://www.facebook.com/laurenz.bennet
@@ -12,7 +11,6 @@ pages:
         type: fb
   - map:
     name: map
-    page: map
     country:
       groups:
         - name: Germany

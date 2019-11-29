@@ -45,7 +45,7 @@
 		<nav>
 			<div class='nav' role='tablist' aria-orientation='vertical'>
 				{% for country_page in site.data.germany.pages %}
-				<a role='tab' data-toggle='tab' href='#tab-{{ country_page.name }}' class='{% if country_page.name == "map" %}active{% endif %}'>{{ country_page.name|replace: " ", "-" }}</a>
+				<a role='tab' data-toggle='tab' href='#tab-{{ country_page.name|replace: " ", "-" }}' class='{% if country_page.name == "map" %}active{% endif %}'>{{ country_page.name }}</a>
 				{% endfor %}
 			</div>
 		</nav>
