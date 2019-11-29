@@ -49,7 +49,7 @@
 				{% endfor %}
 			</div>
 		</nav>
-		<div class='page'>
+		<div class='pages'>
 			{% for country_page in site.data.germany.pages %}
 			<div id='tab-{{ country_page.name }}' role='tabpanel' class='fade {% if country_page.name == "map" %}active show{% endif %}'>
 				{% case country_page.name %}
