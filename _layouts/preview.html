@@ -86,7 +86,7 @@
 					<img src='/images/{{ page.country }}/map.webp' alt='interactive map of {{ page.country }}' title='click the state you want to inspect'>
 				</div>
 					{% else %}
-						{% include { county_name }}/{{ page.name }}.md %}
+						{% include {{ county_name }}/{{ page.name }}.md %}
 				{% endcase %}
 			</div>
 			{% endfor %}
