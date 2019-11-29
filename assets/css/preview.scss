@@ -193,9 +193,10 @@ main{
                 background-image: url('../image/box.webp');
             }
             @media (min-width: 1920px) {
-                width: 727px;
-                height: 796px;
+                width: 650px;
+                height: 710px;
                 padding: 90px 80px 80px 170px;
+                margin: 0 auto;
             }
             .box-content{
                 height: 100%;
@@ -337,7 +338,7 @@ main{
                 width: 400px;
             }
             @media (min-width: 1920px) {
-                width: 860px;
+                width: 600px;
                 top: -200px;
             }
             img{
