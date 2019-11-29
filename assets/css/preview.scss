@@ -319,13 +319,13 @@ main{
             transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out, top 0.3s ease-in-out, height 0.3s ease-in-out;
             @media (min-width: 992px) {
                 width: 200px;
-                top: 0;
                 right: 30px;
                 position: relative;
-                top: -200px;
+                top: -150px;
             }
             @media (min-width: 1920px) {
                 width: 860px;
+                top: -200px;
             }
             img{
                 width: 100%;
