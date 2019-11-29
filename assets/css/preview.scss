@@ -142,6 +142,10 @@ main{
         }
         > div.active{
             display: block;
+            @media (min-width: 1920px) {
+                display: flex;
+                justify-content: space-between;
+            }
         }
         .box{
             display: table;
