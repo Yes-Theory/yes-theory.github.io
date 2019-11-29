@@ -152,18 +152,20 @@ pages:
   - meetups:
     name: meetups
     page: meetups.md
+    title: meetups in your region
   - working-groups:
     name: working groups
     page: working-groups.md
+    title: we were looking for you!
   - announcements:
     name: announcements
     page: announcements.md
-  - news:
-    name: news
-    page: news.md
+    title: stay up to date
   - event-planing:
     name: event planing
     page: event-planing.md
+    title: host a meetup? we can help you!
   - information:
     name: information
     page: information.md
+    title: yes fam information

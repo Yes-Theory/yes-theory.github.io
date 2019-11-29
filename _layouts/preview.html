@@ -37,8 +37,8 @@
 			<img src='./assets/image/logo.webp' alt='YES from the yes theory logo' title='join Yes Theory'>
 			<span>theory</span>
 		</div>
-		<h1>
-			FAM {{ page.country }}
+		<h1>FAM {{ page.country }}
+			<small>{{ page.title }}</small>
 		</h1>
 	</header>
 	<main>
@@ -54,7 +54,7 @@
 			<div id='tab-{{ country_page.name|replace: " ", "-" }}' role='tabpanel' class='fade {% if country_page.name == "map" %}active show{% endif %}'>
 				{% case country_page.name %}
 					{% when 'map' %}
-				<div class='box'>
+				<div class='box' page-title='find like minded friends'>
 					<div class='box-content'>
 						{% if country_page.country.groups.size > 0 %}
 						<h2>Groups</h2>
@@ -87,10 +87,11 @@
 				</div>
 					{% when 'contact' %}
 					{% else %}
-						{% capture tmp_include_name %}{{ country_name }}/{{ country_page.page }}{% endcapture %}
-						{% capture tmp_include_content %}{% include {{ tmp_include_name }} %}{% endcapture %}
-						{{ tmp_include_content | markdownify }}
-						
+				<div class='md' page-title='{{ country_page.title }}'>
+					{% capture tmp_include_name %}{{ country_name }}/{{ country_page.page }}{% endcapture %}
+					{% capture tmp_include_content %}{% include {{ tmp_include_name }} %}{% endcapture %}
+					{{ tmp_include_content | markdownify }}
+				</div>
 				{% endcase %}
 			</div>
 			{% endfor %}
