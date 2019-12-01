@@ -28,9 +28,9 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 * WA 💚 [Tamil Nadu](https://chat.whatsapp.com/GtixqBpBNQ6GewVxFlhCHI)
 * WA 💚 [Hyderabad](https://chat.whatsapp.com/LeTVbbfXiC8ENaQjslpgiu)
 * WA 💚 [Pune](https://chat.whatsapp.com/HXhRe6kqZLvKlkt1gHmLax)
-* WA 💚 [Vizag](https://chat.whatsapp.com/B6emIpTFApXCpjIxxvG3Jn)(representative: [Surya Varanasi](https://www.facebook.com/surya.sauri.14100))
+* WA 💚 [Vizag](https://chat.whatsapp.com/B6emIpTFApXCpjIxxvG3Jn) (representative: [Surya Varanasi](https://www.facebook.com/surya.sauri.14100))
 * WA 💚 [Chandigarh](https://chat.whatsapp.com/LJvIe1qUhGnD7g7Sq35spu)
-* WA 💚 [MadyaPradesh](https://chat.whatsapp.com/ERdjNkZzK0t6CaCAh7Z3ac)(representative: [Mohit Manwani](https://www.facebook.com/mohit7m))  
+* WA 💚 [MadyaPradesh](https://chat.whatsapp.com/ERdjNkZzK0t6CaCAh7Z3ac) (representative: [Mohit Manwani](https://www.facebook.com/mohit7m))  
 
 ---  
 
