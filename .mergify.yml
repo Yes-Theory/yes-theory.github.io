@@ -14,11 +14,11 @@ pull_request_rules:
     actions:
       merge:
         method: merge
-  - name: automatic merge for technology representative of country - india 2
+  - name: automatic merge for technology representative of country - test
     conditions:
       - base=master
-      - author=ajaytantry
-      - files=india.md
+      - author=test-noelelias
+      - files=test.md
     actions:
       merge:
         method: merge
