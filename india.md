@@ -43,7 +43,6 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - ME 💚 [India](https://m.me/join/AbYQ3LU2_niAZPpC) (representative: [Ajay Tantry](https://www.facebook.com/ajay.tantry))
 - ME 💚 [Bangalore](https://m.me/join/AbYadmRTvjsqlHId) (representative: [Adithya S Rao](https://www.facebook.com/profile.php?id=100004124409756))
 - ME 💚 [Mumbai](https://m.me/join/AbYRahr78yleYBdR) (representative: [Uday G Desai](https://www.facebook.com/uday.desai.585))
-- ME 💚 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu)
 
 ---
 
