@@ -36,6 +36,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Chandigarh](https://chat.whatsapp.com/LJvIe1qUhGnD7g7Sq35spu)
 - WA 💚 [Madhya Pradesh](https://chat.whatsapp.com/ERdjNkZzK0t6CaCAh7Z3ac) (representative: [Mohit Manwani](https://www.facebook.com/mohit7m))
 - WA 💚 [Lucknow](https://chat.whatsapp.com/DBSrhAVZLzpG6IiP0T8b8C)
+- WA 💚 [Goa](https://chat.whatsapp.com/FcGu4Iw3xBLAzWq0liIbnJ) (representative: [Raghuraman Rajendran](https://www.facebook.com/rraghuram5))
 
 ---
 
