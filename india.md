@@ -8,11 +8,11 @@ What are you looking for?
 
 - [Groupchats](#groupchats)
 
-India is represented by [Ajay Tantry](https://www.facebook.com/ajay.tantry)
+India is represented by [Priyansh Kapoor](https://www.facebook.com/kapoor.priyansh)
 
 ## Groupchats
 
-**Lookin for group chat representatives please send me a DM: [Noel Schenk](https://www.facebook.com/noel.elias.schenk)**  
+**Lookin for group chat representatives please send me a DM: [Ajay Tantry](https://www.facebook.com/ajay.tantry)**  
 Groups will get full at 250 members.  
 💚 = group reacheble and has space | 💛 = group reachable but has no space  
 WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
@@ -37,13 +37,15 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Madhya Pradesh](https://chat.whatsapp.com/ERdjNkZzK0t6CaCAh7Z3ac) (representative: [Mohit Manwani](https://www.facebook.com/mohit7m))
 - WA 💚 [Lucknow](https://chat.whatsapp.com/DBSrhAVZLzpG6IiP0T8b8C)
 - WA 💚 [Goa](https://chat.whatsapp.com/FcGu4Iw3xBLAzWq0liIbnJ) (representative: [Raghuraman Rajendran](https://www.facebook.com/rraghuram5))
-
+- WA 💚 [Gujarat](https://chat.whatsapp.com/KnIHzAJy2GRK9uR83cAcQk) (representative: [
+Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
+- WA 💚 [Agra](https://chat.whatsapp.com/K3tCDd5rcbVCYlghcip6t5) (representative: [Abhimaan Mohit](https://www.facebook.com/abhimaan.mohit))
+ 
 ---
 
 - ME 💚 [India](https://m.me/join/AbYQ3LU2_niAZPpC) (representative: [Ajay Tantry](https://www.facebook.com/ajay.tantry))
 - ME 💚 [Bangalore](https://m.me/join/AbYadmRTvjsqlHId) (representative: [Adithya S Rao](https://www.facebook.com/profile.php?id=100004124409756))
 - ME 💚 [Mumbai](https://m.me/join/AbYRahr78yleYBdR) (representative: [Uday G Desai](https://www.facebook.com/uday.desai.585))
-- ME 💚 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu)
 
 ---
 
