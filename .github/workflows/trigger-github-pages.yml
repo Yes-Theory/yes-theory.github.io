@@ -9,6 +9,7 @@ jobs:
     - name: Run a multi-line script
       if: github.actor == 'mergify'
       run: |
+        echo 'started push'
         git clone https://github.com/Yes-Theory:<${{ secrets.personalAccessToken }}>@github.com/Yes-Theory/yes-theory.github.io
         git config user.name "noelelias"
         git config user.email "schenknoel@gmail.com"
