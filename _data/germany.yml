@@ -139,6 +139,12 @@ pages:
             url: https://chat.whatsapp.com/BvMwlVpSfuVLVlt3kdoesv
             status: open
             type: wa
+      - name: Bremen
+        group-chats:
+          - name: Bremen
+            url: https://chat.whatsapp.com/IOKDbnPYxEKIqrnG53Q3ew
+            status: open
+            type: wa
   - events:
     name: events
     page: events.md
