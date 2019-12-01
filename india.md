@@ -19,17 +19,18 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ---
 
-- TE 💚 [India](https://t.me/joinchat/MU9y4xPqL7rnULJxxx8a0Q)
+- TE 💚 [India](https://t.me/joinchat/MU9y4xPqL7rnULJxxx8a0Q) (representative: [Sri Krishna](https://instagram.com/sri.cho?igshid=14tdzkji93kkl))
 - TE 💚 [Bengaluru](https://t.me/joinchat/J53IGRcR7KY6VSeK0vQK5w)
 
 ---
 
-- WA 💛 [India](https://chat.whatsapp.com/BnL7nUL71mh9NmsAyMumaH)
-- WA 💚 [Bangalore/Mysore](https://chat.whatsapp.com/K35RTnq9cxTCluSETqiEzZ) (representative: [Adithya S Rao](https://www.facebook.com/profile.php?id=100004124409756))
-- WA 💚 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu)
-- WA 💚 [Mumbai](https://chat.whatsapp.com/IUGk6sLEBtTFgOk5g8jEKi?fbclid=IwAR05ZlYeIcRod-lL4zN3_6XnhhfnAkokcpBNGuxLNRJpwbEuG0VB6KLkA04)
+- WA 💛 [India](https://chat.whatsapp.com/BnL7nUL71mh9NmsAyMumaH) (representative: [Sri Krishna](https://instagram.com/sri.cho?igshid=14tdzkji93kkl))
+- WA 💛 [Bangalore/Mysore](https://chat.whatsapp.com/K35RTnq9cxTCluSETqiEzZ) (representative: [Adithya S Rao](https://www.facebook.com/profile.php?id=100004124409756))
+- WA 💛 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu) (representative: [Shweta Murali](https://www.facebook.com/shweta.murali.1))
+- WA 💚 [Delhi2](https://chat.whatsapp.com/GiQLVqUJotNIE4JTbgJl2b) (representative: [Shweta Murali](https://www.facebook.com/shweta.murali.1))
+- WA 💚 [Mumbai](https://chat.whatsapp.com/GiQLVqUJotNIE4JTbgJl2b)
 - WA 💚 [Kolkata](https://chat.whatsapp.com/KnIHcCBy92PAgIBKYJyrnt)
-- WA 💚 [Tamil Nadu](https://chat.whatsapp.com/GtixqBpBNQ6GewVxFlhCHI)
+- WA 💚 [Tamil Nadu](https://chat.whatsapp.com/GtixqBpBNQ6GewVxFlhCHI) (representative: [Niveditha M](https://www.instagram.com/creativenive/))
 - WA 💚 [Hyderabad](https://chat.whatsapp.com/LeTVbbfXiC8ENaQjslpgiu)
 - WA 💚 [Pune](https://chat.whatsapp.com/HXhRe6kqZLvKlkt1gHmLax)
 - WA 💚 [Vizag](https://chat.whatsapp.com/B6emIpTFApXCpjIxxvG3Jn) (representative: [Surya Varanasi](https://www.facebook.com/surya.sauri.14100))
@@ -40,6 +41,9 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Gujarat](https://chat.whatsapp.com/KnIHzAJy2GRK9uR83cAcQk) (representative: [
 Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 - WA 💚 [Agra](https://chat.whatsapp.com/K3tCDd5rcbVCYlghcip6t5) (representative: [Abhimaan Mohit](https://www.facebook.com/abhimaan.mohit))
+- WA 💚 [Bhubaneshwar](https://chat.whatsapp.com/IRcdscxE5Fz9cN35bkfedy)
+- WA 💚 [Kerala](https://chat.whatsapp.com/HwoA70lQ2KiBBqeziAD2ZP)
+- WA 💚 [North East India](https://chat.whatsapp.com/JTFzZpHRA48Ix1DiPPuRcP)
  
 ---
 
