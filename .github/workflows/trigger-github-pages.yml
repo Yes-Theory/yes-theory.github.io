@@ -14,6 +14,7 @@ jobs:
         run: |
           echo 'started push'
           git clone https://${{ secrets.personalAccessToken }}@github.com/Yes-Theory/yes-theory.github.io
+          cd yes-theory.github.io
           git config user.name "noelelias"
           git config user.email "schenknoel@gmail.com"
           git commit -m 'trigger github pages' --allow-empty
