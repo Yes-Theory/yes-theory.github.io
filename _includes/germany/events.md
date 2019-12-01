@@ -45,4 +45,4 @@ Currently there is no equipment from this side. But if you have a loudspeaker, a
 ### Legal
 If you want to sell tickets you should take a look at this page: [Rechtliche Rahmenbedingungen für Ihre Betriebsfeier](https://www.business-wissen.de/artikel/veranstaltungen-planen-rechtliche-rahmenbedingungen-fuer-ihre-betriebsfeier/)
 Please stay within the law. The trouble is IMHO not worth it.
-This document is not complete and we are also not responsible for your event. If you need more information you might want to take a look at this page: [eventfaq](https://eventfaq.de/checklisten/).  
+This document is not complete and we are also not responsible for your event. If you need more information you might want to take a look at this page: [eventfaq](https://eventfaq.de/checklisten/).
