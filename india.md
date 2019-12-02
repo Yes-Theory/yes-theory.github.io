@@ -7,6 +7,7 @@ layout: default
 What are you looking for?
 
 - [Groupchats](#groupchats)
+- [Announcements](#announcements)
 
 India is represented by [Priyansh Kapoor](https://www.instagram.com/kapoor.priyansh/)
 
@@ -52,6 +53,32 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 - ME 💚 [Mumbai](https://m.me/join/AbYRahr78yleYBdR) (representative: [Uday G Desai](https://www.facebook.com/uday.desai.585))
 
 ---
+
+## Announcements
+
+###### **Do follow us on our official Instagram for the latest updates** 
+
+**[Yes Theory India](https://www.instagram.com/yestheory.india/)**
+
+###### **For events and meetups, please follow your local Yes Fam Instagram page**
+
+- [Agra](https://www.instagram.com/yestheory.india/)
+- [Bengaluru/Mysuru](https://www.instagram.com/yestheorybengaluru/)
+- [Chandigarh](https://www.instagram.com/yestheorychandigarh/)
+- [Coimbatore](https://www.instagram.com/yestheorycoimbatore/)
+- [Delhi](https://www.instagram.com/yestheorydelhi/)
+- [Goa](https://www.instagram.com/yestheorygoa/)
+- [Gujarat](https://www.instagram.com/yestheorygujarat/)
+- [Hyderabad](https://www.instagram.com/yestheory.hyd/)
+- [Kerala](https://www.instagram.com/yestheory.kerala/)
+- [Kolkata](https://www.instagram.com/yestheory_kolkata/)
+- [Lucknow](https://www.instagram.com/yestheory_lucknow/)
+- [Madhya Pradesh](https://www.instagram.com/yestheorymp/)
+- [Mumbai](https://www.instagram.com/mumbaiyesfam/)
+- [North East India](https://www.instagram.com/yestheorynortheastindia/)
+- [Pune](https://www.instagram.com/yestheory.pune/)
+- [Tamil Nadu](https://www.instagram.com/yestheorytamilnadu/)
+
 
 ## Technical support
 
