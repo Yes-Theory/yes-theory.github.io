@@ -56,11 +56,11 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 
 ## Announcements
 
-###### **Do follow us on our official Instagram for the latest updates** 
+**Do follow us on our official Instagram for the latest updates** 
 
-**[Yes Theory India](https://www.instagram.com/yestheory.india/)**
+[Yes Theory India](https://www.instagram.com/yestheory.india/) 🇮🇳
 
-###### **For events and meetups, please follow your local Yes Fam Instagram page**
+**For events and meetups, please follow your local Yes Fam Instagram page**
 
 - [Agra](https://www.instagram.com/yestheory.india/)
 - [Bengaluru/Mysuru](https://www.instagram.com/yestheorybengaluru/)
