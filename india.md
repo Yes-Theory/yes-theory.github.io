@@ -8,7 +8,7 @@ What are you looking for?
 
 - [Groupchats](#groupchats)
 
-India is represented by [Priyansh Kapoor](https://www.facebook.com/kapoor.priyansh)
+India is represented by [Priyansh Kapoor](https://www.instagram.com/kapoor.priyansh/)
 
 ## Groupchats
 
@@ -28,7 +28,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💛 [Bangalore/Mysore](https://chat.whatsapp.com/K35RTnq9cxTCluSETqiEzZ) (representative: [Adithya S Rao](https://www.facebook.com/profile.php?id=100004124409756))
 - WA 💛 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu) (representative: [Shweta Murali](https://www.facebook.com/shweta.murali.1))
 - WA 💚 [Delhi2](https://chat.whatsapp.com/GiQLVqUJotNIE4JTbgJl2b) (representative: [Shweta Murali](https://www.facebook.com/shweta.murali.1))
-- WA 💚 [Mumbai](https://chat.whatsapp.com/GiQLVqUJotNIE4JTbgJl2b)
+- WA 💚 [Mumbai](https://chat.whatsapp.com/GiQLVqUJotNIE4JTbgJl2b) (representative: [Sania](https://www.instagram.com/the_diary_of_a_bookworm/))
 - WA 💚 [Kolkata](https://chat.whatsapp.com/KnIHcCBy92PAgIBKYJyrnt)
 - WA 💚 [Tamil Nadu](https://chat.whatsapp.com/GtixqBpBNQ6GewVxFlhCHI) (representative: [Niveditha M](https://www.instagram.com/creativenive/))
 - WA 💚 [Hyderabad](https://chat.whatsapp.com/LeTVbbfXiC8ENaQjslpgiu)
@@ -40,7 +40,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Goa](https://chat.whatsapp.com/FcGu4Iw3xBLAzWq0liIbnJ) (representative: [Raghuraman Rajendran](https://www.facebook.com/rraghuram5))
 - WA 💚 [Gujarat](https://chat.whatsapp.com/KnIHzAJy2GRK9uR83cAcQk) (representative: [
 Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
-- WA 💚 [Agra](https://chat.whatsapp.com/K3tCDd5rcbVCYlghcip6t5) (representative: [Abhimaan Mohit](https://www.facebook.com/abhimaan.mohit))
+- WA 💚 [Agra](https://chat.whatsapp.com/K3tCDd5rcbVCYlghcip6t5) (representative: [Abhimaan Mohit](https://www.instagram.com/____abzi____))
 - WA 💚 [Bhubaneshwar](https://chat.whatsapp.com/IRcdscxE5Fz9cN35bkfedy)
 - WA 💚 [Kerala](https://chat.whatsapp.com/HwoA70lQ2KiBBqeziAD2ZP)
 - WA 💚 [North East India](https://chat.whatsapp.com/JTFzZpHRA48Ix1DiPPuRcP)
