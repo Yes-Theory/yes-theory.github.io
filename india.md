@@ -35,9 +35,9 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Hyderabad](https://chat.whatsapp.com/LeTVbbfXiC8ENaQjslpgiu)
 - WA 💚 [Pune](https://chat.whatsapp.com/HXhRe6kqZLvKlkt1gHmLax)
 - WA 💚 [Vizag](https://chat.whatsapp.com/B6emIpTFApXCpjIxxvG3Jn) (representative: [Surya Varanasi](https://www.facebook.com/surya.sauri.14100))
-- WA 💚 [Chandigarh](https://chat.whatsapp.com/LJvIe1qUhGnD7g7Sq35spu)
+- WA 💚 [Chandigarh](https://chat.whatsapp.com/LJvIe1qUhGnD7g7Sq35spu) (representative: [Dhruvaraj Huparikar](https://www.instagram.com/dhrupotter/))
 - WA 💚 [Madhya Pradesh](https://chat.whatsapp.com/ERdjNkZzK0t6CaCAh7Z3ac) (representative: [Mohit Manwani](https://www.facebook.com/mohit7m))
-- WA 💚 [Lucknow](https://chat.whatsapp.com/DBSrhAVZLzpG6IiP0T8b8C)
+- WA 💚 [Lucknow](https://chat.whatsapp.com/DBSrhAVZLzpG6IiP0T8b8C) (representative: [Udit Sharma](https://www.instagram.com/udit_2310/))
 - WA 💚 [Goa](https://chat.whatsapp.com/FcGu4Iw3xBLAzWq0liIbnJ) (representative: [Raghuraman Rajendran](https://www.facebook.com/rraghuram5))
 - WA 💚 [Gujarat](https://chat.whatsapp.com/KnIHzAJy2GRK9uR83cAcQk) (representative: [
 Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
