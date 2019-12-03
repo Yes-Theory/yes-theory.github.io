@@ -42,7 +42,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Gujarat](https://chat.whatsapp.com/KnIHzAJy2GRK9uR83cAcQk) (representative: [
 Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 - WA 💚 [Agra](https://chat.whatsapp.com/K3tCDd5rcbVCYlghcip6t5) (representative: [Abhimaan Mohit](https://www.instagram.com/____abzi____))
-- WA 💚 [Bhubaneshwar](https://chat.whatsapp.com/IRcdscxE5Fz9cN35bkfedy)
+- WA 💚 [Bhubaneshwar](https://chat.whatsapp.com/IRcdscxE5Fz9cN35bkfedy) (representative: [Bibhuti Chhatria](https://www.facebook.com/bibhuti.chhatria))
 - WA 💚 [Kerala](https://chat.whatsapp.com/HwoA70lQ2KiBBqeziAD2ZP)
 - WA 💚 [North East India](https://chat.whatsapp.com/JTFzZpHRA48Ix1DiPPuRcP)
  
@@ -54,7 +54,7 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 
 ---
 
-## Announcements
+## Announcements(representative: [Abhimaan Mohit](https://www.instagram.com/____abzi____))
 
 **Do follow us on our official Instagram for the latest updates** 
 
