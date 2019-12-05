@@ -383,6 +383,7 @@ main{
                 background-color: transparent;
                 z-index: -1;
                 transition: background-color 0.3s ease-in-out;
+                pointer-events: none;
                 @media (min-width: 992px) {
                     display: none;
                 }
