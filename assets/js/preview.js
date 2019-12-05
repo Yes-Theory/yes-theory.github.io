@@ -1,5 +1,5 @@
 $(function() {
-    isMobile = $(window).width() < 992;
+    isMobile = $(window).width() < 1440;
 
     init();
     function init(){
@@ -14,6 +14,14 @@ $(function() {
         });
         $('main nav a').click(()=>{
             page_change();
+        });
+        $('main .pages .map map svg path').click((event)=>{
+            if(isMobile && !$('main .pages .map').hasClass('choose')){
+                return;
+            }
+            $this = $(event.currentTarget);
+            $('main .pages .map map svg path').removeClass('active');
+            $this.addClass('active');
         });
     }
     function page_change(){
