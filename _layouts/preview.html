@@ -1,4 +1,5 @@
 {% assign country_name = page.country | downcase%}
+{% assign country_id = page.country | downcase | replace: ' ', '-'%}
 <!DOCTYPE html>
 <html lang='{{ site.lang | default: 'en-US' }}'>
 
@@ -58,11 +59,12 @@
 					<div class='box-content'>
 						<div id="stateGroups" class="carousel slide" data-ride="carousel">
 							<div class="carousel-inner">
-								<div class="carousel-item active">
+								<div class="carousel-item active {{ country_id }}" data-pos='0'>
 									{% include global/render-groups.html item=country_page.country %}
 								</div>
 								{% for district in country_page.districts %}
-								<div class="carousel-item">
+									{% assign district_id = district.name | downcase | replace: ' ', '-'%}
+								<div class="carousel-item {{ district_id }}" data-pos='{{ forloop.index }}'>
 									{% include global/render-groups.html item=district %}
 								</div>
 								{% endfor %}

@@ -20,8 +20,10 @@ $(function() {
                 return;
             }
             $this = $(event.currentTarget);
+            $('main .pages .map map svg path').addClass('interact');
             $('main .pages .map map svg path').removeClass('active');
             $this.addClass('active');
+            $('#stateGroups').carousel($('#stateGroups').find('.' + $this.attr('id')).data('pos'));
         });
     }
     function page_change(){
