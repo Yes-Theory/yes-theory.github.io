@@ -89,10 +89,14 @@ pages:
             type: fb
         group-chats:
           - name: Frankfurt
-            small: and Hassen
+            small: and Hessen
             url: https://m.me/join/AbYaGGrQmGkWHDsj
             status: open
             type: me
+          - name: Darmstadt
+            url: https://chat.whatsapp.com/EEzSLCZmDPlDXNsWvo2huw
+            status: open
+            type: wa
       - name: Lower Saxony
         group-chats:
           - name: Hanover
