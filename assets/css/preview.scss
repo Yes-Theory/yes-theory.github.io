@@ -101,6 +101,10 @@ body{
     @media (min-width: 992px) {
         display: inline-block;       
     }
+    &:hover{
+        color: white;
+        text-decoration: underline;
+    }
 }
 header{
     height: 82px;
