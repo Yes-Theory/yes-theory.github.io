@@ -309,6 +309,7 @@ main{
             width: 100%;
             padding: 0 20px;
             background: white;
+            z-index: -1;
             @media (min-width: 992px) {
                 width: 410px;
                 height: 450px;
