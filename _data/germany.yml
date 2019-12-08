@@ -56,8 +56,8 @@ pages:
             type: fb
         group-chats:
           - name: Berlin
-            small: Locals please contact Masin
-            url: https://www.facebook.com/masin.shadfan
+            small: Locals please contact Maxi
+            url: https://www.facebook.com/Maximilian.0711
             status: open
             type: wa
       - name: Bavaria
