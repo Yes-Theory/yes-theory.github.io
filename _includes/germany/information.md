@@ -1,2 +1,1 @@
-## Information  
 {% include main.md %}

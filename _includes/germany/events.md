@@ -1,5 +1,5 @@
 ## Meetups
--- Karte --
+<iframe src="https://calendar.google.com/calendar/embed?src=5q39jegrgtpio1l43lkhf6vnfk%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ## Event planning
 ### Host a meetup? We can help you!
 Awesome! Hosting a Yes Theory event is one of the best experiences you will ever make. To simplify your life we would like to support you with your planing.  
@@ -45,4 +45,6 @@ Currently there is no equipment from this side. But if you have a loudspeaker, a
 ### Legal
 If you want to sell tickets you should take a look at this page: [Rechtliche Rahmenbedingungen für Ihre Betriebsfeier](https://www.business-wissen.de/artikel/veranstaltungen-planen-rechtliche-rahmenbedingungen-fuer-ihre-betriebsfeier/)
 Please stay within the law. The trouble is IMHO not worth it.
-This document is not complete and we are also not responsible for your event. If you need more information you might want to take a look at this page: [eventfaq](https://eventfaq.de/checklisten/).
+This document is not complete and we are also not responsible for your event. If you need more information you might want to take a look at this page: [eventfaq](https://eventfaq.de/checklisten/).  
+
+{% include contribute.md %}

@@ -32,6 +32,8 @@
 $remnant: 'Remnant','Open Sans', sans-serif;
 $mainColor: #0039ff;
 $secondaryColor: #f3997b;
+$headerHeight: 170px;
+$navWidth: 330px;
 body{
     background: $secondaryColor;
 }
@@ -40,7 +42,9 @@ header{
     background-color: $mainColor;
     position: relative;
     @media (min-width: 992px) {
-        height: 170px;
+        height: $headerHeight;
+        position: fixed;
+        width: 100%;
     }
     .logo{
         display: table;
@@ -113,9 +117,9 @@ header{
             line-height: 54px;
         }
         @media (min-width: 1920px) {
-            font-size: 83px;
-            padding: 36px 0 0 0;
-            line-height: 70px;
+            font-size: 50px;
+            padding: 48px 0 0 0;
+            line-height: 50px;
         }
     }
 }
@@ -140,13 +144,16 @@ main{
         flex-shrink: 0;
         @media (min-width: 992px) {
             display: table;
-            width: 290px;
-            padding: 30px 0 0 40px;
+            width: $navWidth;
+            padding: 30px 40px 0 40px;
             word-break: break-word;
             table-layout: fixed;
+            position: fixed;
+            top: $headerHeight;
+            background: $secondaryColor;
         }
         @media (min-width: 1920px) {
-            padding: 60px 0 0 40px;
+            padding: 60px 40px 0 40px;
         }
         .nav{
             display: block;
@@ -203,13 +210,21 @@ main{
         @media (min-width: 992px) {
             display: block;
             flex-grow: 1;
-            padding: 30px 0 0 0;
+            padding: $headerHeight 0 0 $navWidth;
         }
         @media (min-width: 1920px) {
-            padding: 70px 0 0 0;
+            padding: $headerHeight 0 0 $navWidth;
         }
         > div{
             display: none;
+        }
+        > div#tab-map{
+            @media (min-width: 992px) {
+                padding: 30px 0 0 0;
+            }
+            @media (min-width: 1920px) {
+                padding: 70px 0 0 0;
+            }
         }
         > div.active{
             display: block;
@@ -231,7 +246,7 @@ main{
                 background: initial;
                 background-size: cover;
                 background-image: url('../image/box.webp');
-                margin: 0 auto;
+                margin: 0;
             }
             @media (min-width: 1920px) {
                 width: 650px;
@@ -414,7 +429,7 @@ main{
                 @media (min-width: 992px) {
                     right: 0;
                     left: auto;
-                    width: calc( 100% - 290px);
+                    width: calc( 100% - $navWidth);
                     top: 0;
                     background-color: $secondaryColor;
                 }
@@ -451,9 +466,12 @@ main{
             }
         }
         .md{
-            padding: 0 20px;
+            padding: 30px 20px;
             background: white;
-            margin: 0 20px;
+            width: 100%;
+            @media (min-width: 992px) {
+                padding: 60px;
+            }
             h1{
                 color: $secondaryColor; //h1 should be replaced by js
                 display: none;
@@ -463,6 +481,9 @@ main{
                 font-size: 24px;
                 color: $secondaryColor;
                 margin: 30px 0 20px 0;
+                &:first-child{
+                    margin: 0 0 20px 0;
+                }
                 @media (min-width: 992px) {
                     font-size: 36px;
                 }
@@ -501,6 +522,10 @@ main{
             }
             a{
                 text-decoration: underline;
+            }
+            iframe{
+                border: 0;
+                width: 100%;
             }
         }
     }
