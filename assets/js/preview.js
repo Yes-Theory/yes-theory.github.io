@@ -72,7 +72,26 @@ $(function() {
         var isSafari = window.safari !== undefined;
         if(isSafari){
             $('body').addClass('safari');
-            $('body').append("<div class='safari-support'>Safari is currently not supported please use Firefox or Chrome.</div>");
+            $('body').append(`
+            <div class="modal safari-support" tabindex="-1" role="dialog">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Safari support</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Safari is currently not supported please use Firefox or Chrome.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            `);
             $('.safari-support').modal();
         }
     }
