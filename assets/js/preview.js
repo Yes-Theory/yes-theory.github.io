@@ -8,6 +8,7 @@ $(function() {
         events();
         !isTouch ? $('#stateGroups').carousel() : false;
         calendar();
+        safariFix();
     }
     function events(){
         $('main .pages .map').click((event)=>{
@@ -64,5 +65,9 @@ $(function() {
                 return eventHtml;
             }
         });
+    }
+    function safariFix(){
+        var webpMachine = new webpHero.WebpMachine()
+	    webpMachine.polyfillDocument()
     }
 });
