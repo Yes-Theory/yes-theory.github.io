@@ -25,9 +25,10 @@
 	<meta name='apple-mobile-web-app-status-bar-style' content='black-translucent'>
 	<link rel='stylesheet' href='../assets/css/bootstrap.min.css'>
 	<link rel='stylesheet' href='{{ '/assets/css/preview.css?v=' | append: site.github.build_revision | relative_url }}'>
-	<script src='../assets/js/jquery-3.3.1.slim.min.js'></script>
+	<script src='../assets/js/jquery-3.4.1.min.js'></script>
 	<script src='../assets/js/popper.min.js'></script>
 	<script src='../assets/js/bootstrap.min.js'></script>
+	<script src='../assets/js/jquery.googlecalreader-1.1.min.js'></script>
 	<script src='../assets/js/preview.js'></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous" />
 </head>
@@ -57,7 +58,7 @@
 					{% when 'map' %}
 				<div class='box' page-title='find like minded friends'>
 					<div class='box-content'>
-						<div id="stateGroups" class="carousel slide" data-ride="carousel">
+						<div id="stateGroups" class="carousel slide">
 							<div class="carousel-inner">
 								<div class="carousel-item active {{ country_id }}" data-pos='0'>
 									{% include global/render-groups.html item=country_page.country %}
@@ -69,8 +70,8 @@
 								</div>
 								{% endfor %}
 							</div>
-							<a class="carousel-control-prev" href="#stateGroups" role="button" data-slide="prev"></a>
-							<a class="carousel-control-next" href="#stateGroups" role="button" data-slide="next"></a>
+							<a class="carousel-control carousel-control-prev" href="#stateGroups" role="button" data-slide="prev"></a>
+							<a class="carousel-control carousel-control-next" href="#stateGroups" role="button" data-slide="next"></a>
 						</div>
 					</div>
 				</div>
@@ -80,17 +81,26 @@
 					</map>
 					<img src='/images/{{country_name }}/map.webp' alt='interactive map of {{ page.country }}' title='click the state you want to inspect'>
 				</div>
-					{% when 'contact' %}
 					{% else %}
+						{% capture tmp_include_name %}{{ country_name }}/{{ country_page.page }}{% endcapture %}
+						{% capture tmp_include_content %}{% include {{ tmp_include_name }} %}{% endcapture %}
+						{% if country_page.page contains '.md' %}
 				<div class='md' page-title='{{ country_page.title }}'>
-					{% capture tmp_include_name %}{{ country_name }}/{{ country_page.page }}{% endcapture %}
-					{% capture tmp_include_content %}{% include {{ tmp_include_name }} %}{% endcapture %}
-					{{ tmp_include_content | markdownify }}
+						{{ tmp_include_content | markdownify }}
 				</div>
+					{% elsif country_page.page contains '.html' %}
+				<div class='html' page-title='{{ country_page.title }}'>
+						{{ tmp_include_content }}
+				</div>
+					{% endif %}
 				{% endcase %}
 			</div>
 			{% endfor %}
 		</div>
 	</main>
+	<footer>
+		<h2>Support us and</h2>
+		{% include contribute.md %}
+	</footer>
 </body>
 </html>

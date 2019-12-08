@@ -151,7 +151,7 @@ pages:
     title: meetups in your region
   - working-groups:
     name: working groups
-    page: working-groups.md
+    page: working-groups.html
     title: we were looking for you!
   - news:
     name: news
@@ -163,11 +163,13 @@ pages:
     title: yes fam information
   - contact:
     name: contact
+    page: contact.html
+    title: Find contacts from your country
     country-representative:
-      - name: Laurenz Bennet
-        url: https://www.facebook.com/laurenz.bennet
-        type: fb
+      name: Laurenz Bennet
+      url: https://www.facebook.com/laurenz.bennet
+      type: fb
     technical-representative:
-      - name: Noel Schenk
-        url: https://www.facebook.com/noel.elias.schenk
-        type: fb
+      name: Noel Schenk
+      url: https://www.facebook.com/noel.elias.schenk
+      type: fb

@@ -1,10 +1,27 @@
 ---
 ---
 
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
 @font-face {
     font-family: "Remnant";
     src: url("../font/Remnant-Regular.woff2") format("woff2");
 }
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("../font/Open-Sans.woff2") format("woff2");
+}
+
+$remnant: 'Remnant','Open Sans', sans-serif;
+$mainColor: #0039ff;
+$secondaryColor: #f3997b;
+$redColor: #ed3c04;
+$greenColor: #30d228;
+$headerHeight: 170px;
+$navWidth: 330px;
 
 @mixin box-underline {
     content: '';
@@ -29,13 +46,57 @@
     }
 }
 
-$remnant: 'Remnant','Open Sans', sans-serif;
-$mainColor: #0039ff;
-$secondaryColor: #f3997b;
-$headerHeight: 170px;
-$navWidth: 330px;
+@mixin scroll-bar {
+    ::-webkit-scrollbar {
+        width: 10px;
+    }
+    ::-webkit-scrollbar-track {
+        border: 1px solid $secondaryColor;
+        box-shadow: 0px 0px 0px 1px white;
+    }
+    ::-webkit-scrollbar-thumb {
+        background-color: $secondaryColor; 
+        transition: background-color 0.3s ease-in-out;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+        background-color: $mainColor; 
+    }
+}
+
+@mixin social-icons{
+    &.fb{
+        &:before{
+            content: '\f39e';
+            color: #3b5998;
+        }
+    }
+    &.wa{
+        &:before{
+            content: '\f232';
+            color: #25d366;
+        }
+    }
+    &.me{
+        &:before{
+            content: '\f39f';
+            color: #0078FF;
+        }
+    }
+}
+
+@include scroll-bar;
 body{
     background: $secondaryColor;
+}
+.button1{
+    background-color: $mainColor;
+    padding: 10px 20px;
+    color: white;
+    margin: 0 40px 10px 0;
+    display: block;
+    @media (min-width: 992px) {
+        display: inline-block;       
+    }
 }
 header{
     height: 82px;
@@ -105,6 +166,7 @@ header{
             display: block;
             position: relative;
             top: -50px;
+            font-family: $remnant;
             @media (min-width: 992px){
                 font-size: 16px;
                 top: 0;
@@ -129,7 +191,6 @@ main{
     @media (min-width: 992px) {
         display: flex;
         justify-content: space-between;
-        padding: 0 0 20px 0;
     }
     nav{
         float: left;
@@ -206,6 +267,7 @@ main{
         display: table;
         table-layout: fixed;
         width: 100%;
+        min-height: 700px;
         transition: opacity 0.3s ease-in-out;
         @media (min-width: 992px) {
             display: block;
@@ -234,6 +296,7 @@ main{
             }
         }
         .box{
+            position: relative;
             display: table;
             width: 100%;
             padding: 0 20px;
@@ -241,7 +304,7 @@ main{
             @media (min-width: 992px) {
                 width: 410px;
                 height: 450px;
-                padding: 30px 40px 50px 88px;
+                padding: 30px 40px 80px 88px;
                 display: block;
                 background: initial;
                 background-size: cover;
@@ -251,19 +314,132 @@ main{
             @media (min-width: 1920px) {
                 width: 650px;
                 height: 710px;
-                padding: 90px 80px 80px 170px;
+                padding: 90px 80px 100px 170px;
+            }
+            &:before{
+                content: 'Scroll down to  see  more!';
+                display: none;
+                position: absolute;
+                bottom: 0px;
+                right: -224px;
+                width: 190px;
+                color: white;
+                font-size: 22px;
+                line-height: 34px;
+                font-family: $remnant;
+                @media (min-width: 992px) {
+                    display: block;
+                }
+            }
+            &:after{
+                content: '';
+                display: none;
+                background-image: url(../image/arrow-up.webp);
+                position: absolute;
+                width: 34px;
+                height: 100px;
+                background-size: cover;
+                right: -80px;
+                bottom: 94px;
+                transform: rotate(-26deg);
+                @media (min-width: 992px) {
+                    display: block;
+                }
             }
             .box-content{
                 height: 100%;
                 display: block;
-                overflow: scroll;
+                overflow-y: auto;
+                overflow-x: hidden;
+                > #stateGroups{
+                    position: static;
+                    &:before{
+                        content: 'click to scroll!';
+                        font-family: $remnant;
+                        display: none;
+                        position: absolute;
+                        bottom: 40px;
+                        left: 20px;
+                        right: 0;
+                        width: 100%;
+                        margin: 0 auto;
+                        text-align: center;
+                        color: $secondaryColor;
+                        font-size: 16px;
+                        @media (min-width: 992px) {
+                            display: block;
+                        }
+                        @media (min-width: 1920px) {
+                            font-size: 26px;
+                            bottom: 60px;
+                        }
+                    }
+                    > a.carousel-control{
+                        display: none;
+                        @media (min-width: 992px) {
+                            display: block;
+                            position: absolute;
+                            top: auto;
+                            bottom: 36px;
+                            width: 32px;
+                            height: 30px;
+                            background-size: cover;
+                            background-image: url(../image/left-arrow.webp);
+                        }
+                        @media (min-width: 1920px) {
+                            width: 54px;
+                            height: 46px;
+                            bottom: 56px;
+                        }
+                        &.carousel-control-prev{
+                            @media (min-width: 992px) {
+                                left: 86px;
+                            }
+                            @media (min-width: 1920px) {
+                                left: 120px;
+                            }
+                        }
+                        &.carousel-control-next{
+                            @media (min-width: 992px) {
+                                right: 54px;
+                                transform: rotate(180deg);
+                            }
+                            @media (min-width: 1920px) {
+                                right: 72px;
+                            }
+                        }
+                    }
+                    .carousel-inner{
+                        .carousel-item{
+                            @media (max-width: 991px) {
+                                display: block;
+                                float: none;
+                                border-bottom: 1px solid $secondaryColor;
+                                margin: 0 0 60px 0;
+                                padding: 0 0 20px 0;                            
+                            }
+                        }
+                    }
+                }
                 h2{
+                    font-family: $remnant;
+                    font-size: 28px;
+                    color: $secondaryColor;
+                    margin: 30px 0 20px 0;
+                    @media (min-width: 992px) {
+                        font-size: 18px;
+                    }
+                    @media (min-width: 1920px) {
+                        font-size: 22px;
+                    }
+                }
+                h3{
                     font-family: $remnant;
                     font-size: 24px;
                     color: $secondaryColor;
                     margin: 30px 0 20px 0;
                     @media (min-width: 992px) {
-                        font-size: 36px;
+                        font-size: 30px;
                     }
                     @media (min-width: 1920px) {
                         font-size: 32px;
@@ -284,24 +460,7 @@ main{
                         @media (min-width: 1920px) {
                             max-width: 380px;
                         }
-                        &.fb{
-                            &:before{
-                                content: '\f39e';
-                                color: #3b5998;
-                            }
-                        }
-                        &.wa{
-                            &:before{
-                                content: '\f232';
-                                color: #25d366;
-                            }
-                        }
-                        &.me{
-                            &:before{
-                                content: '\f39f';
-                                color: #0078FF;
-                            }
-                        }
+                        @include social-icons;
                         &.open{
                             > span{
                                 background-image: url(../image/open.webp);
@@ -465,7 +624,7 @@ main{
                 }
             }
         }
-        .md{
+        .md,.html{
             padding: 30px 20px;
             background: white;
             width: 100%;
@@ -527,6 +686,124 @@ main{
                 border: 0;
                 width: 100%;
             }
+            .event-calendar{
+                .meetup{
+                    h3{
+                        background: $secondaryColor;
+                        color: white;
+                        padding: 14px 20px;
+                        margin: 0;
+                    }
+                    span{
+                        position: relative;
+                        font-size: 14px;
+                        display: block;
+                        float: left;
+                        background: $mainColor;
+                        color: white;
+                        height: 34px;
+                        line-height: 34px;
+                        padding: 0 12px;
+                        margin: 10px 0 0 34px;
+                        @media (min-width: 1920px) {
+                            margin: 0 0 0 34px;
+                        }
+                        &:not(.location){
+                            @media (min-width: 1920px) {
+                                margin: 0 0 0 60px;
+                            }
+                        }
+                        &:before{
+                            font-family: 'Font Awesome 5 Free';
+                            font-weight: 900;
+                            color: $mainColor;
+                            top: 0;
+                            left: -34px;
+                            position: absolute;
+                            font-size: 20px;
+                            border: 1px solid $mainColor;
+                            display: block;
+                            width: 34px;
+                            height: 34px;
+                            line-height: 34px;
+                            text-align: center;
+                        }
+                        &.location{
+                            &:before{
+                                content: '\f276';
+                            }
+                        }
+                        &.date{
+                            &:before{
+                                content: '\f073';
+                            }
+                        }
+                    }
+                    p{
+                        display: block;
+                        clear: both;
+                        padding: 20px 10px;
+                        word-break: break-word;
+                    }
+                }
+            }
+            .working-groups{
+                display: flex;
+                justify-content: space-around;
+                flex-wrap: wrap;
+                .group{
+                    width: 300px;
+                    max-width: 100%;
+                    padding: 20px 0;
+                    display: inline-block;
+                    &:only-child{
+                        margin: 0 auto 0 0;
+                    }
+                    h3{
+                        margin: 0;
+                        font-size: 24px;
+                        line-height: 34px;
+                        background-color: $secondaryColor;
+                        padding: 20px;
+                        color: white;
+                    }
+                    p{
+                        padding: 20px 0;
+                        span{
+                            color: white;
+                            text-transform: uppercase;
+                            display: inline-block;
+                            padding: 4px 6px;
+                            margin: 4px 0;
+                            &.open{
+                                background-color: $greenColor;
+                            }
+                            &.full{
+                                background-color: $redColor;
+                            }
+                        }
+                        a{
+                            &:before{
+                                font-family: "Font Awesome 5 Brands";
+                                padding: 0 10px 0 0;
+                            }
+                            @include social-icons;
+                        }
+                    }
+                }
+            }
         }
+    }
+}
+footer{
+    background-color: white;
+    padding: 30px 20px;
+    z-index: 900;
+    position: relative;
+    h2{
+        color: $mainColor;
+        font-family: $remnant;
+        font-size: 28px;
+        margin: 0 0 40px 0;
     }
 }

@@ -1,5 +1,3 @@
-{% include contribute.md %}
-
 ## Information  
 * [Dora Bobanović](https://www.linkedin.com/in/dora-bobanovi%C4%87/) is the Facebook Community Manager for Yes Theory. Please give her access to the group if she sends a request. [FB Account](https://www.facebook.com/dora.bobanovic)  
 

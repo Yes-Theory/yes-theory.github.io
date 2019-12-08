@@ -1,7 +1,7 @@
 {% assign group_item = include.item %}
 
 {% if group_item.size > 0 %}
-<h2>{{ include.name }}</h2>
+<h3>{{ include.name }}</h3>
 <ul>
     {% for it in group_item %}
     <li class='{{ it.type }} {{ it.status }}'>

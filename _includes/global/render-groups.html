@@ -1,4 +1,5 @@
 {% assign item = include.item %}
+<h2>{{ item.name }}</h2>
 {% include global/render-group.html item=item.groups name='Groups' %}
 {% include global/render-group.html item=item.group-chats name='Group chats' %}
 {% include global/render-group.html item=item.working-groups name='Working groups' %}

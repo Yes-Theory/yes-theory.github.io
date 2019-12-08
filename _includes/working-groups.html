@@ -1,0 +1,17 @@
+<h2>Working groups</h2>
+<div class='working-groups'>
+{% for country_page in site.data[country_name].pages %}
+    {% if country_page.name == 'map' %}
+        {% for working-group in country_page.country.working-groups %}
+    {% include global/render-working-group.html %}
+        {% endfor %}
+        {% for district in country_page.districts %}
+            {% if district.working-groups.size > 0 %}
+                {% for working-group in district.working-groups %}
+    {% include global/render-working-group.html %}
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+</div>
