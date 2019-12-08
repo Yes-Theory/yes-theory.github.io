@@ -120,6 +120,9 @@ header{
         position: relative;
         left: 20px;
         top: 20px;
+        &:hover{
+            text-decoration: none;
+        }
         @media (min-width: 992px) {
             top: 38px;
             left: 50px;
