@@ -67,7 +67,13 @@ $(function() {
         });
     }
     function safariFix(){
-        var webpMachine = new webpHero.WebpMachine()
-	    webpMachine.polyfillDocument()
+        var webpMachine = new webpHero.WebpMachine();
+        webpMachine.polyfillDocument();
+        var isSafari = window.safari !== undefined;
+        if(isSafari){
+            $('body').addClass('safari');
+            $('body').append("<div class='safari-support'>Safari is currently not supported please use Firefox or Chrome.</div>");
+            $('.safari-support').modal();
+        }
     }
 });

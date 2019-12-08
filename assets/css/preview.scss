@@ -84,6 +84,10 @@ $navWidth: 330px;
     }
 }
 
+.safari main .pages .box{
+    background-color: white;
+}
+
 @include scroll-bar;
 body{
     background: $secondaryColor;
