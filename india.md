@@ -29,7 +29,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💛 [Bangalore/Mysore](https://chat.whatsapp.com/K35RTnq9cxTCluSETqiEzZ) (representative: [Adithya S Rao](https://www.facebook.com/profile.php?id=100004124409756))
 - WA 💛 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu) (representative: [Shweta Murali](https://www.facebook.com/shweta.murali.1))
 - WA 💚 [Delhi2](https://chat.whatsapp.com/GiQLVqUJotNIE4JTbgJl2b) (representative: [Shweta Murali](https://www.facebook.com/shweta.murali.1))
-- WA 💚 [Mumbai](https://chat.whatsapp.com/GiQLVqUJotNIE4JTbgJl2b) (representative: [Sania](https://www.instagram.com/the_diary_of_a_bookworm/))
+- WA 💚 [Mumbai](https://chat.whatsapp.com/IUGk6sLEBtTFgOk5g8jEKi) (representative: [Sania](https://www.instagram.com/the_diary_of_a_bookworm/))
 - WA 💚 [Kolkata](https://chat.whatsapp.com/KnIHcCBy92PAgIBKYJyrnt) (representative: [Abir Bandyopadhyay](https://www.instagram.com/abir_bandyopadhyay/))
 - WA 💚 [Tamil Nadu](https://chat.whatsapp.com/GtixqBpBNQ6GewVxFlhCHI) (representative: [Niveditha M](https://www.instagram.com/creativenive/))
 - WA 💚 [Hyderabad](https://chat.whatsapp.com/LeTVbbfXiC8ENaQjslpgiu) (representative: [Sai Subrahmanya Sarma ](https://www.instagram.com/sarmasai/))
@@ -64,7 +64,7 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 
 **For events and meetups, please follow your local Yes Fam Instagram page**
 
-- [Agra](https://www.instagram.com/yestheory.india/)
+- [Agra](https://instagram.com/yesfam.agra?igshid=v1mszpylv7ri)
 - [Bengaluru/Mysuru](https://www.instagram.com/yestheorybengaluru/)
 - [Chandigarh](https://www.instagram.com/yestheorychandigarh/)
 - [Coimbatore](https://www.instagram.com/yestheorycoimbatore/)
