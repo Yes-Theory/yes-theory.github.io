@@ -26,6 +26,7 @@ $(function() {
             console.log(event.currentTarget);
             $this = $('main .pages .map map svg path#' + $(event.currentTarget).attr('id'));
             $('main .pages .map map svg path').addClass('interact');
+            $('main .pages .box .box-content .carousel-item').addClass('interact');
             $('main .pages .map map svg path').removeClass('active');
             $this.addClass('active');
             var stateGroupElement = $('#stateGroups').find('.' + $this.attr('id'));
@@ -35,6 +36,12 @@ $(function() {
                     $(window).scrollTop(stateGroupElement.offset().top - 60);
                 }
             }
+        });
+        $('main .pages .box .box-content h2').click((event)=>{
+            $('main .pages .map map svg path').removeClass('active');
+            $('main .pages .box .box-content .carousel-item').addClass('interact');
+            $('main .pages .box .box-content .carousel-item').removeClass('active');
+            $(event.currentTarget).parent().addClass('active');
         });
     }
     function page_change(){
