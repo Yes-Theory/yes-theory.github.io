@@ -431,15 +431,18 @@ main{
                                 margin: 0 0 60px 0;
                                 padding: 0 0 20px 0;
                                 
-                                height: 76px;
-                                overflow: hidden;
                                 margin: 0 0 0 0;
                                 &.interact{
                                     opacity: 0.5;
                                 }
                                 &.active{
-                                    height: auto;
                                     opacity: 1;
+                                }
+                                &:not(.active) *:not(h2){
+                                    display: none;
+                                }
+                                h2{
+                                    margin: 30px 0 0 0;
                                 }
                             }
                         }
