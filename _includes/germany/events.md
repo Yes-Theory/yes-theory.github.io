@@ -37,7 +37,7 @@ To reach the most amount of people you should put your event on the Yes Theory F
 #### Groups and Groupchats
 It might be some work but it's definetly worth it. Take a look at the [Groups](#groups) and [Groupchats](#groupchats) and find the ones that are close to your event location. Send to the groupchats a nice explanation of your event with the key information also stay around for questions that might pop up and add them as a FAQ to your Eventchat description. For other Groups you can do the same as you did for the "Yes Theory Fam Germany" group.  
 #### This page
-Under [Eventchats](#eventchats) please add your event. It helps organizing future events and keeps track of past events. Also if you ever get stuck at some point. Take a look at this section maybe someone who already did an event might be able to help you.  
+Super easy! Just send us a message [here](https://docs.google.com/forms/d/e/1FAIpQLSdse4jB8cF8aKvbs3iWfSc-TmnSuSQCoK40r03zeRRDHnDmfw/viewform?embedded=true). It helps organizing future events and keeps track of past events. Also if you ever get stuck at some point. Take a look at this section maybe someone who already did an event might be able to help you.  
 ### Equipment
 Currently there is no equipment from this side. But if you have a loudspeaker, a seek discomfort flag or anything else you would like to share, you can add it to this list by editing this page or sending me a DM at [Noel Schenk](https://www.facebook.com/noel.elias.schenk).
 * ex. seek discomfort flag in [Berlin](#) provided by [AwesomePerson](#)  

@@ -23,7 +23,8 @@ $(function() {
             if(isMobile && !$('main .pages .map').hasClass('choose')){
                 return;
             }
-            $this = $(event.currentTarget);
+            console.log(event.currentTarget);
+            $this = $('main .pages .map map svg path#' + $(event.currentTarget).attr('id'));
             $('main .pages .map map svg path').addClass('interact');
             $('main .pages .map map svg path').removeClass('active');
             $this.addClass('active');
