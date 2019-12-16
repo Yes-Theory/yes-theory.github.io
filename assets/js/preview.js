@@ -4,23 +4,47 @@ $(function() {
 
     init();
     function init(){
-        page_change();
-        events();
-        !isTouch ? $('#stateGroups').carousel() : false;
-        calendar();
+        pages();
         safariFix();
+    }
+    function pages(){
+        countryPage();
+        overviewPage();
+    }
+    function countryPage(){
+        if($('body').hasClass('page-country')){
+            pageChange();
+            events();
+            !isTouch ? $('#stateGroups').carousel() : false;
+            calendar();
+        }
+    }
+    function overviewPage(){
+        if($('body').hasClass('page-overview')){
+            var selectCountry = $('#select-country').selectize();
+            selectCountry.on('change',(event)=>{
+                switch($(event.currentTarget).find('option').attr('value')){
+                    case 'IN': window.location.href = "/india";
+                    break;
+                    case 'GB': window.location.href = "/uk";
+                    break;
+                    case 'DE': window.location.href = "/germany";
+                    break;
+                }
+            });
+        }
     }
     function events(){
         $('main .pages .map').click((event)=>{
-            if(isMobile){
+            if(isTouch){
                 $(event.currentTarget).toggleClass('choose');
             }
         });
         $('main nav a').click(()=>{
-            page_change();
+            pageChange();
         });
         $('main .pages .map map svg path').click((event)=>{
-            if(isMobile && !$('main .pages .map').hasClass('choose')){
+            if(isTouch && !$('main .pages .map').hasClass('choose')){
                 return;
             }
             console.log(event.currentTarget);
@@ -43,8 +67,16 @@ $(function() {
             $('main .pages .box .box-content .carousel-item').removeClass('active');
             $(event.currentTarget).parent().addClass('active');
         });
+        $('main .pages .map map svg path').on('mouseover',(event)=>{
+            $this = $('main .pages .map map svg path#' + $(event.currentTarget).attr('id'));
+            $this.addClass('hover');
+        });
+        $('main .pages .map map svg path').on('mouseout',(event)=>{
+            $this = $('main .pages .map map svg path#' + $(event.currentTarget).attr('id'));
+            $this.removeClass('hover');
+        });
     }
-    function page_change(){
+    function pageChange(){
         setTimeout(()=>{ //wait for the new page to load
             var current_page_title = $('.pages > div.active > *').attr('page-title')
             $('header h1 small').html(current_page_title);
@@ -103,4 +135,5 @@ $(function() {
             $('.safari-support').modal();
         }
     }
+
 });

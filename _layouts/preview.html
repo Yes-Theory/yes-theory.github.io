@@ -3,39 +3,9 @@
 <!DOCTYPE html>
 <html lang='{{ site.lang | default: 'en-US' }}'>
 
-<head>
-	{% if site.google_analytics %}
-	<script async src='https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}'></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
+	{% include head.html %}
 
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('js', new Date());
-		gtag('config', '{{ site.google_analytics }}');
-	</script>
-	{% endif %}
-	<meta charset='UTF-8'>
-
-	{% seo %}
-
-	<meta name='viewport' content='width=device-width, initial-scale=1'>
-	<meta name='theme-color' content='#157878'>
-	<meta name='apple-mobile-web-app-status-bar-style' content='black-translucent'>
-	<link rel='stylesheet' href='../assets/css/bootstrap.min.css'>
-	<link rel='stylesheet' href='{{ '/assets/css/preview.css?v=' | append: site.github.build_revision | relative_url }}'>
-	<script src='../assets/js/jquery-3.4.1.min.js'></script>
-	<script src='../assets/js/popper.min.js'></script>
-	<script src='../assets/js/bootstrap.min.js'></script>
-	<script src='../assets/js/jquery.googlecalreader-1.1.min.js'></script>
-	<script src='../assets/js/polyfills.js'></script>
-	<script src='../assets/js/webp-hero.bundle.js'></script>
-	<script src='../assets/js/preview.js'></script>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous" />
-</head>
-
-<body>
+<body class='page-country'>
 	<header>
 		<a href='/' class='logo'>
 			<img src='./assets/image/logo.webp' alt='YES from the yes theory logo' title='join Yes Theory'>
@@ -100,9 +70,6 @@
 			{% endfor %}
 		</div>
 	</main>
-	<footer>
-		<h2>Support us and</h2>
-		{% include contribute.md %}
-	</footer>
+	{% include germany/footer.html %}
 </body>
 </html>
