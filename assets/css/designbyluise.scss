@@ -867,6 +867,7 @@ body.page-overview{
             top: -20px;
             display: block;
             margin: 0 auto;
+            object-fit: contain;
             @media (min-width: 992px) {
                 margin: 0;
                 top: 30px;
