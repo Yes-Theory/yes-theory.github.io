@@ -29,6 +29,10 @@ pages:
             url: https://m.me/join/AbYuHzRU8BNzZhrx
             status: open
             type: me
+          - name: Ruhrgebiet
+            url: https://chat.whatsapp.com/DloaKCjKm9aL161p7MtlcZ
+            status: open
+            type: wa
           - name: Cologne
             url: https://m.me/join/AbaE0x_QSQ8jl7v-
             status: open
@@ -42,6 +46,11 @@ pages:
             url: https://m.me/join/Abbv1Cc6jfW41z41
             status: open
             type: me
+          - name: Münster
+            url: https://chat.whatsapp.com/Bc2hEWztgXq8DhRkw4EbTM
+            status: open
+            type: wa
+            
         event-chats:
           - name: Bonn
             small: 1 Deyember 2019
