@@ -870,7 +870,7 @@ body.page-overview{
             object-fit: contain;
             @media (min-width: 992px) {
                 margin: 0;
-                top: 30px;
+                top: 56px;
                 width: 360px;
             }
         }
@@ -992,6 +992,11 @@ body.page-overview{
             display: flex;
             justify-content: space-between;
             padding: 200px 20px 20px 20px;
+            @media (min-height: 840px) {
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+            }
         }
         > p{
             color: white;
