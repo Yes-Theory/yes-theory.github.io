@@ -157,10 +157,6 @@ pages:
     name: working groups
     page: working-groups.html
     title: we were looking for you!
-  - news:
-    name: news
-    page: news.md
-    title: stay up to date
   - information:
     name: information
     page: information.md
