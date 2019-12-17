@@ -42,6 +42,14 @@ pages:
             url: https://m.me/join/Abbv1Cc6jfW41z41
             status: open
             type: me
+          - name: Münster
+            url: https://chat.whatsapp.com/Bc2hEWztgXq8DhRkw4EbTM
+            status: open
+            type: wa
+          - name: Ruhrgebiet
+            url: https://chat.whatsapp.com/DloaKCjKm9aL161p7MtlcZ
+            type: wa
+            status: open
         event-chats:
           - name: Bonn
             small: 1 Deyember 2019
@@ -103,12 +111,6 @@ pages:
             url: https://m.me/join/AbZEedsqHQWRzS3Z
             status: open
             type: me
-      - name: Baden-Württemberg
-        group-chats:
-          - name: Stuttgart
-            url: https://m.me/join/AbYpZd14XdqPFVb4
-            status: open
-            type: me
       - name: Thuringia
         group-chats:
           - name: Thuringia
@@ -135,6 +137,18 @@ pages:
         group-chats:
           - name: Mannheim
             url: https://chat.whatsapp.com/If95u6ZZqZ26RStxvRyGyg
+            status: open
+            type: wa
+          - name: Stuttgart
+            url: https://m.me/join/AbYpZd14XdqPFVb4
+            status: open
+            type: me
+          - name: Stuttgart
+            url: https://chat.whatsapp.com/0LKOvOZjdKY4mCi88QWaVC
+            status: open
+            type: wa
+          - name: Karlsruhe
+            url: https://chat.whatsapp.com/CLzCanBlciQDIyPqZe8IjZ
             status: open
             type: wa
       - name: Saarland
