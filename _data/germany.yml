@@ -163,6 +163,12 @@ pages:
             url: https://chat.whatsapp.com/IOKDbnPYxEKIqrnG53Q3ew
             status: open
             type: wa
+      - name: Hamburg
+        group-chats:
+          - name: Hamburg
+            url: https://chat.whatsapp.com/FSLn0dCBmbw0uvRDtF8IuU
+            status: open
+            type: wa
   - events:
     name: events
     page: events.md
