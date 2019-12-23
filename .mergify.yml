@@ -22,3 +22,11 @@ pull_request_rules:
     actions:
       merge:
         method: merge
+  - name: automatic merge for technology representative of country - australia
+    conditions:
+      - base=master
+      - author=Tutorialshubs
+      - files=australia.md
+    actions:
+      merge:
+        method: merge
