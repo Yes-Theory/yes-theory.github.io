@@ -30,6 +30,8 @@ $(function() {
                     break;
                     case 'DE': window.location.href = "/germany";
                     break;
+                    case 'AU': window.location.href = "/australia";
+                    break;
                 }
             });
         }
