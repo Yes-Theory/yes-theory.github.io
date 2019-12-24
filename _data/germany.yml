@@ -111,6 +111,10 @@ pages:
             url: https://m.me/join/AbZEedsqHQWRzS3Z
             status: open
             type: me
+          - name: Leipzig
+            url: https://chat.whatsapp.com/HjkvThM36MdLH22KoCbRtR
+            status: open
+            type: wa
       - name: Thuringia
         group-chats:
           - name: Thuringia
