@@ -20,10 +20,10 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ---
 
-- ME 💚 [Australia - Melbourne](https://www.facebook.com/groups/202173247277895/)
+- ME 💚 [Australia - Melbourne](https://www.facebook.com/groups/202173247277895/) (representative: [Rick Rogowski](https://www.facebook.com/RickoRogowski))
 - WA 💚 [Australia - Melbourne](https://tinyurl.com/woerczn)
 
-- ME 💚 [Australia - Sydney](m.me/join/AbYWdvi1s1FN9Vv7)
+- ME 💚 [Australia - Sydney](m.me/join/AbYWdvi1s1FN9Vv7) (representative: [Molly Rose Taylor](https://www.facebook.com/profile.php?id=100013275912737))
 - WA 💚 [Australia - Sydney]()
 
 - ME 💚 [Australia - Adelaide](https://m.me/join/AbZjKlqsxO77lHRK)
