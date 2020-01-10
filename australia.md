@@ -14,20 +14,20 @@ Groups will get full at 250 members.
 WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ---
+
 - ME 💚 [Australia - Melbourne](https://www.facebook.com/groups/202173247277895/) (representative: [Rick Rogowski](https://www.facebook.com/RickoRogowski))
 - WA 💚 [Australia - Melbourne](https://tinyurl.com/woerczn)
 
 - ME 💚 [Australia - Sydney](m.me/join/AbYWdvi1s1FN9Vv7) (representative: [Molly Rose Taylor](https://www.facebook.com/profile.php?id=100013275912737))
-- WA 💚 [Australia - Sydney]()
 
 - ME 💚 [Australia - Adelaide](https://m.me/join/AbZjKlqsxO77lHRK)
-- WA 💚 [Australia - Adelaide]()
 
 - ME 💚 [Australia - Brisbane](https://m.me/join/AbY1O0YL_-rESsQl)
-- WA 💚 [Australia - Brisbane]()
+
+- ME 💚 [Australia - Gold Coast](https://m.me/join/AbbTfkyNpFrae6eP) (representative: [Andrew Carlton](https://www.facebook.com/andrewcarlton0))
 
 - ME 💚 [Australia - Perth](https://m.me/join/AbbNdV-ydfx57ju1)
-- WA 💚 [Australia - Perth]()
+
 ---
 
 **Do follow us on our official Instagram for the latest updates** 
