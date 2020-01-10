@@ -14,6 +14,7 @@ Groups will get full at 250 members.
 WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ---
+
 - ME 💚 [Australia - Melbourne](https://www.facebook.com/groups/202173247277895/) (representative: [Rick Rogowski](https://www.facebook.com/RickoRogowski))
 - WA 💚 [Australia - Melbourne](https://tinyurl.com/woerczn)
 
@@ -26,6 +27,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - ME 💚 [Australia - Gold Coast](https://m.me/join/AbbTfkyNpFrae6eP) (representative: [Andrew Carlton](https://www.facebook.com/andrewcarlton0))
 
 - ME 💚 [Australia - Perth](https://m.me/join/AbbNdV-ydfx57ju1)
+
 ---
 
 **Do follow us on our official Instagram for the latest updates** 
