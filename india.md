@@ -7,7 +7,7 @@ layout: default
 What are you looking for?
 
 - [Groupchats](#groupchats)
-- [Announcements](#announcements)
+- [Instagram Pages](#instagram-pages)
 
 India is represented by [Priyansh Kapoor](https://www.instagram.com/kapoor.priyansh/)
 
@@ -56,11 +56,11 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 
 ---
 
-## Announcements(representative: [Abhimaan Mohit](https://www.instagram.com/____abzi____))
+## Instagram Pages
 
 **Do follow us on our official Instagram for the latest updates** 
 
-[Yes Theory India](https://www.instagram.com/yestheory.india/) 🇮🇳
+###### [Yes Theory India](https://www.instagram.com/yestheory.india/) 🇮🇳
 
 **For events and meetups, please follow your local Yes Fam Instagram page**
 
