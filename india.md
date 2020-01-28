@@ -72,6 +72,7 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 - [Goa](https://www.instagram.com/yestheorygoa/)
 - [Gujarat](https://www.instagram.com/yestheorygujarat/)
 - [Hyderabad](https://www.instagram.com/yestheory.hyd/)
+- [Jaipur](https://instagram.com/yestheoryjaipur)
 - [Kerala](https://www.instagram.com/yestheory.kerala/)
 - [Kolkata](https://www.instagram.com/yestheory_kolkata/)
 - [Lucknow](https://www.instagram.com/yestheory_lucknow/)
@@ -79,7 +80,9 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 - [Mumbai](https://www.instagram.com/mumbaiyesfam/)
 - [North East India](https://www.instagram.com/yestheorynortheastindia/)
 - [Pune](https://www.instagram.com/yestheory.pune/)
+- [Punjab](https://www.instagram.com/yestheorypunjab/)
 - [Tamil Nadu](https://www.instagram.com/yestheorytamilnadu/)
+- [Visakhapatnam](https://www.instagram.com/yestheory.visakhapatnam/)
 
 
 ## Technical support
