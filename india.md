@@ -7,7 +7,7 @@ layout: default
 What are you looking for?
 
 - [Groupchats](#groupchats)
-- [Announcements](#announcements)
+- [Instagram Pages](#instagram-pages)
 
 India is represented by [Priyansh Kapoor](https://www.instagram.com/kapoor.priyansh/)
 
@@ -34,7 +34,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Tamil Nadu](https://chat.whatsapp.com/GtixqBpBNQ6GewVxFlhCHI) (representative: [Niveditha M](https://www.instagram.com/creativenive/))
 - WA 💚 [Hyderabad](https://chat.whatsapp.com/LeTVbbfXiC8ENaQjslpgiu) (representative: [Sai Subrahmanya Sarma ](https://www.instagram.com/sarmasai/))
 - WA 💚 [Pune](https://chat.whatsapp.com/HXhRe6kqZLvKlkt1gHmLax) (representative: [Tushar Vaishnav](https://www.instagram.com/oiknave/))
-- WA 💚 [Vizag](https://chat.whatsapp.com/B6emIpTFApXCpjIxxvG3Jn) (representative: [Surya Varanasi](https://www.facebook.com/surya.sauri.14100))
+- WA 💚 [Vizag](https://chat.whatsapp.com/HzVlReZ1cRPGzTyLaA4Ecg) (representative: [Surya Varanasi](https://www.facebook.com/surya.sauri.14100))
 - WA 💚 [Chandigarh](https://chat.whatsapp.com/LJvIe1qUhGnD7g7Sq35spu) (representative: [Dhruvaraj Huparikar](https://www.instagram.com/dhrupotter/))
 - WA 💚 [Madhya Pradesh](https://chat.whatsapp.com/ERdjNkZzK0t6CaCAh7Z3ac) (representative: [Mohit Manwani](https://www.facebook.com/mohit7m))
 - WA 💚 [Lucknow](https://chat.whatsapp.com/DBSrhAVZLzpG6IiP0T8b8C) (representative: [Udit Sharma](https://www.instagram.com/udit_2310/))
@@ -56,11 +56,11 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 
 ---
 
-## Announcements(representative: [Abhimaan Mohit](https://www.instagram.com/____abzi____))
+## Instagram Pages
 
 **Do follow us on our official Instagram for the latest updates** 
 
-[Yes Theory India](https://www.instagram.com/yestheory.india/) 🇮🇳
+###### [Yes Theory India](https://www.instagram.com/yestheory.india/) 🇮🇳
 
 **For events and meetups, please follow your local Yes Fam Instagram page**
 
@@ -72,6 +72,7 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 - [Goa](https://www.instagram.com/yestheorygoa/)
 - [Gujarat](https://www.instagram.com/yestheorygujarat/)
 - [Hyderabad](https://www.instagram.com/yestheory.hyd/)
+- [Jaipur](https://instagram.com/yestheoryjaipur)
 - [Kerala](https://www.instagram.com/yestheory.kerala/)
 - [Kolkata](https://www.instagram.com/yestheory_kolkata/)
 - [Lucknow](https://www.instagram.com/yestheory_lucknow/)
@@ -79,7 +80,9 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 - [Mumbai](https://www.instagram.com/mumbaiyesfam/)
 - [North East India](https://www.instagram.com/yestheorynortheastindia/)
 - [Pune](https://www.instagram.com/yestheory.pune/)
+- [Punjab](https://www.instagram.com/yestheorypunjab/)
 - [Tamil Nadu](https://www.instagram.com/yestheorytamilnadu/)
+- [Visakhapatnam](https://www.instagram.com/yestheory.visakhapatnam/)
 
 
 ## Technical support
