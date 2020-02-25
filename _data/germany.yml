@@ -87,10 +87,6 @@ pages:
             url: https://chat.whatsapp.com/ChrdxWUOY7w7SVlxy0lOtu
             status: open
             type: wa
-          - name: Freiburg
-            url: https://chat.whatsapp.com/BtA9rjqfOsN07V9FulDPIe
-            status: open
-            type: wa
         event-chats:
           - name: Nuremberg
             small: 14 December 2019
@@ -161,6 +157,10 @@ pages:
             type: wa
           - name: Karlsruhe
             url: https://chat.whatsapp.com/CLzCanBlciQDIyPqZe8IjZ
+            status: open
+            type: wa
+          - name: Freiburg
+            url: https://chat.whatsapp.com/BtA9rjqfOsN07V9FulDPIe
             status: open
             type: wa
       - name: Saarland
