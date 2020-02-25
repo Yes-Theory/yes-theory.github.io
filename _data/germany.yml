@@ -37,7 +37,7 @@ pages:
             url: https://chat.whatsapp.com/KEQsvCMMNWjBojXurteIsE
             status: open
             type: wa
-          - name:  Dusseldof
+          - name: Dusseldof
             small: and Duisburg
             url: https://m.me/join/Abbv1Cc6jfW41z41
             status: open
@@ -83,6 +83,10 @@ pages:
             url: https://m.me/join/Aba5KvWx0zHCG1B5
             status: open
             type: fb
+          - name: Wuerzburg
+            url: https://chat.whatsapp.com/ChrdxWUOY7w7SVlxy0lOtu
+            status: open
+            type: wa
         event-chats:
           - name: Nuremberg
             small: 14 December 2019
@@ -153,6 +157,10 @@ pages:
             type: wa
           - name: Karlsruhe
             url: https://chat.whatsapp.com/CLzCanBlciQDIyPqZe8IjZ
+            status: open
+            type: wa
+          - name: Freiburg
+            url: https://chat.whatsapp.com/BtA9rjqfOsN07V9FulDPIe
             status: open
             type: wa
       - name: Saarland
