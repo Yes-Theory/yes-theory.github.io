@@ -48,6 +48,7 @@ Nisha Singh Tomar](https://www.facebook.com/nishaaahaahaa))
 - WA 💚 [Jaipur](https://chat.whatsapp.com/D7SaWYNh5BM1sfvI8wlOYn) (representative: [Dhruv Varma](https://www.instagram.com/that_awkward_shutterbug/))
 - WA 💚 [Mysuru](https://chat.whatsapp.com/IHeEJew6WX586PeYCLTeI6) (representative: [Adarsh Gachinamath](https://www.facebook.com/adarsh.g20))
 - WA 💚 [Punjab](https://chat.whatsapp.com/FD0APbFqokLLPYmfuzpFLy) (representative: [Krithi](https://www.instagram.com/ka_illustration/))
+
 ---
 
 - ME 💚 [India](https://m.me/join/AbYQ3LU2_niAZPpC) (representative: [Ajay Tantry](https://www.facebook.com/ajay.tantry))
