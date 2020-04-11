@@ -32,11 +32,11 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Mumbai](https://chat.whatsapp.com/IUGk6sLEBtTFgOk5g8jEKi) 
 - WA 💚 [Kolkata](https://chat.whatsapp.com/KnIHcCBy92PAgIBKYJyrnt) (representative: [Abir Bandyopadhyay](https://www.instagram.com/abir_bandyopadhyay/))
 - WA 💚 [Tamil Nadu](https://chat.whatsapp.com/GtixqBpBNQ6GewVxFlhCHI) (representative: [Niveditha M](https://www.instagram.com/creativenive/))
-- WA 💚 [Hyderabad](https://chat.whatsapp.com/LeTVbbfXiC8ENaQjslpgiu) (representative: [Sai Subrahmanya Sarma ](https://www.instagram.com/sarmasai/))
+- WA 💚 [Hyderabad](https://chat.whatsapp.com/LeTVbbfXiC8ENaQjslpgiu) (representative: [Suhaanth Kumaar](https://www.instagram.com/suhaanth_kumaar/))
 - WA 💚 [Pune](https://chat.whatsapp.com/HXhRe6kqZLvKlkt1gHmLax) (representative: [Tushar Vaishnav](https://www.instagram.com/oiknave/))
 - WA 💚 [Vizag](https://chat.whatsapp.com/HzVlReZ1cRPGzTyLaA4Ecg) (representative: [Surya Varanasi](https://www.facebook.com/surya.sauri.14100))
 - WA 💚 [Chandigarh](https://chat.whatsapp.com/LJvIe1qUhGnD7g7Sq35spu) (representative: [Dhruvaraj Huparikar](https://www.instagram.com/dhrupotter/))
-- WA 💚 [Madhya Pradesh](https://chat.whatsapp.com/ERdjNkZzK0t6CaCAh7Z3ac) (representative: [Mohit Manwani](https://www.facebook.com/mohit7m))
+- WA 💚 [Madhya Pradesh](https://chat.whatsapp.com/JPzn5TY7OWC1ZV9Tc0yaTJ) (representative: [Mohit Manwani](https://www.facebook.com/mohit7m))
 - WA 💚 [Lucknow](https://chat.whatsapp.com/DBSrhAVZLzpG6IiP0T8b8C) (representative: [Udit Sharma](https://www.instagram.com/udit_2310/))
 - WA 💚 [Goa](https://chat.whatsapp.com/FcGu4Iw3xBLAzWq0liIbnJ) (representative: [Raghuraman Rajendran](https://www.facebook.com/rraghuram5))
 - WA 💚 [Gujarat](https://chat.whatsapp.com/KnIHzAJy2GRK9uR83cAcQk) (representative: [
