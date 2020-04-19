@@ -20,7 +20,7 @@ India is represented by [Priyansh Kapoor](https://www.instagram.com/kapoor.priya
    - Date            : 22/04/2020
    - Time            : 7:00 P.M - 10:00 P.M {IST}
    - Place           : Zoom Video Conference App
-   - Link to Register: https://www.facebook.com/events/265119344521108/
+   - Link to Register: [Click Here](https://www.facebook.com/events/265119344521108/)
   
 *Note : Link will be shared in the above link 10 minutes before the event*
 
