@@ -16,13 +16,6 @@ India is represented by [Priyansh Kapoor](https://www.instagram.com/kapoor.priya
 
 **Here you'll find all the upcoming events by Yes Fam India**
 
-1. **Virtual Mid-week Party**
-   - Date            : 22/04/2020
-   - Time            : 7:00 P.M - 10:00 P.M {IST}
-   - Place           : Zoom Video Conference App
-   - Link to Register: [Click Here](https://www.facebook.com/events/265119344521108/)
-  
-*Note : Link will be shared in the above link 10 minutes before the event*
 
 ---
 
