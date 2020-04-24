@@ -16,6 +16,9 @@ India is represented by [Priyansh Kapoor](https://www.instagram.com/kapoor.priya
 
 **Here you'll find all the upcoming events by Yes Fam India**
 
+```
+No upcoming events at the moment
+```
 
 ---
 
