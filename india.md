@@ -41,7 +41,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💛 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu) (representative: [Shweta Murali](https://www.facebook.com/shweta.murali.1))
 - WA 💚 [Delhi2](https://chat.whatsapp.com/GiQLVqUJotNIE4JTbgJl2b) (representative: [Shweta Murali](https://www.facebook.com/shweta.murali.1))
 - WA 💚 [Mumbai](https://chat.whatsapp.com/Dfekg7fhyV43QyQ5iX5C7B) 
-- WA 💚 [Kolkata](https://chat.whatsapp.com/KnIHcCBy92PAgIBKYJyrnt) (representative: [Abir Bandyopadhyay](https://www.instagram.com/abir_bandyopadhyay/))
+- WA 💚 [Kolkata](https://chat.whatsapp.com/HYRkmQiAldp1nqPb0ARCuv) (representative: [Abir Bandyopadhyay](https://www.instagram.com/abir_bandyopadhyay/))
 - WA 💚 [Tamil Nadu](https://chat.whatsapp.com/GtixqBpBNQ6GewVxFlhCHI) (representative: [Niveditha M](https://www.instagram.com/creativenive/))
 - WA 💚 [Hyderabad](https://chat.whatsapp.com/LeTVbbfXiC8ENaQjslpgiu) (representative: [Suhaanth Kumaar](https://www.instagram.com/suhaanth_kumaar/))
 - WA 💚 [Pune](https://chat.whatsapp.com/J3UCGSJ6sIJGyKsJnshWfp) (representative: [Tushar Vaishnav](https://www.instagram.com/oiknave/))
