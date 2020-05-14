@@ -79,11 +79,11 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - [Bengaluru/Mysuru](https://www.instagram.com/yestheorybengaluru/)
 - [Chandigarh](https://www.instagram.com/yestheorychandigarh/)
 - [Coimbatore](https://www.instagram.com/yestheorycoimbatore/)
-- [Delhi](https://www.instagram.com/yestheorydelhi/)
+- [Delhi](https://www.instagram.com/yesfamdelhi/)
 - [Goa](https://www.instagram.com/yestheorygoa/)
-- [Gujarat](https://www.instagram.com/yestheorygujarat/)
-- [Hyderabad](https://www.instagram.com/yestheory.hyd/)
-- [Jaipur](https://instagram.com/yestheoryjaipur)
+- [Gujarat](https://www.instagram.com/yesfamgujarat/)
+- [Hyderabad](https://www.instagram.com/yesfamhyderabad/)
+- [Jaipur](https://www.instagram.com/yesfamjaipur/)
 - [Kerala](https://www.instagram.com/yestheory.kerala/)
 - [Kolkata](https://www.instagram.com/yestheory_kolkata/)
 - [Lucknow](https://www.instagram.com/yestheory_lucknow/)
@@ -91,9 +91,9 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - [Mumbai](https://www.instagram.com/mumbaiyesfam/)
 - [North East India](https://www.instagram.com/yestheorynortheastindia/)
 - [Pune](https://www.instagram.com/yestheory.pune/)
-- [Punjab](https://instagram.com/yestheory.punjab)
-- [Tamil Nadu](https://www.instagram.com/yestheorytamilnadu/)
-- [Visakhapatnam](https://www.instagram.com/yestheory.visakhapatnam/)
+- [Punjab](https://www.instagram.com/yesfampunjab/)
+- [Tamil Nadu](https://www.instagram.com/yesfamtamilnadu/)
+- [Visakhapatnam](https://www.instagram.com/yesfamvisakhapatnam/)
 
 
 ## Technical support
