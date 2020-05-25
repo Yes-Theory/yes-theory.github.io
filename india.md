@@ -75,7 +75,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 **For events and meetups, please follow your local Yes Fam Instagram page**
 
-- [Agra](https://instagram.com/yesfam.agra)
+- [Agra](https://instagram.com/yesfam.agra/)
 - [Bengaluru/Mysuru](https://www.instagram.com/yesfambengaluru/)
 - [Chandigarh](https://www.instagram.com/yestheorychandigarh/)
 - [Coimbatore](https://www.instagram.com/yestheorycoimbatore/)
