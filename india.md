@@ -75,8 +75,8 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 **For events and meetups, please follow your local Yes Fam Instagram page**
 
-- [Agra](https://instagram.com/yesfam.agra?igshid=v1mszpylv7ri)
-- [Bengaluru/Mysuru](https://www.instagram.com/yestheorybengaluru/)
+- [Agra](https://instagram.com/yesfam.agra/)
+- [Bengaluru/Mysuru](https://www.instagram.com/yesfambengaluru/)
 - [Chandigarh](https://www.instagram.com/yestheorychandigarh/)
 - [Coimbatore](https://www.instagram.com/yestheorycoimbatore/)
 - [Delhi](https://www.instagram.com/yesfamdelhi/)
@@ -86,11 +86,11 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - [Jaipur](https://www.instagram.com/yesfamjaipur/)
 - [Kerala](https://www.instagram.com/yestheory.kerala/)
 - [Kolkata](https://www.instagram.com/yestheory_kolkata/)
-- [Lucknow](https://www.instagram.com/yestheory_lucknow/)
-- [Madhya Pradesh](https://www.instagram.com/yestheorymp/)
+- [Lucknow](https://www.instagram.com/yesfam_lucknow/)
+- [Madhya Pradesh](https://www.instagram.com/yesfammp/)
 - [Mumbai](https://www.instagram.com/mumbaiyesfam/)
 - [North East India](https://www.instagram.com/yestheorynortheastindia/)
-- [Pune](https://www.instagram.com/yesfampune/)
+- [Pune](https://www.instagram.com/yestheory.pune/)
 - [Punjab](https://www.instagram.com/yesfampunjab/)
 - [Tamil Nadu](https://www.instagram.com/yesfamtamilnadu/)
 - [Visakhapatnam](https://www.instagram.com/yesfamvisakhapatnam/)
