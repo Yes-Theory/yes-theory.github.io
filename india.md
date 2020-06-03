@@ -58,7 +58,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Jaipur](https://chat.whatsapp.com/D7SaWYNh5BM1sfvI8wlOYn) (representative: [Abhijay Mathur](https://www.instagram.com/abj.2001/))
 - WA 💚 [Mysuru](https://chat.whatsapp.com/IHeEJew6WX586PeYCLTeI6) (representative: [Adarsh Gachinamath](https://www.facebook.com/adarsh.g20))
 - WA 💚 [Punjab](https://chat.whatsapp.com/FD0APbFqokLLPYmfuzpFLy) (representative: [Krithi](https://www.instagram.com/ka_illustration/))
-- WA 💚 [Uttarakhand] (https://chat.whatsapp.com/LZWINESlrk51DHQw7qiPLL) (representative: [Surya](https://www.instagram.com/kasana_sp/))
+- WA 💚 [Uttarakhand](https://chat.whatsapp.com/LZWINESlrk51DHQw7qiPLL) (representative: [Surya](https://www.instagram.com/kasana_sp/))
 
 ---
 
