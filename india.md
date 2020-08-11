@@ -31,6 +31,10 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ---
 
+- [Yes Fam India Discord Server](https://discord.gg/rZpR5j3)
+
+---
+
 - TE 💚 [India](https://t.me/joinchat/MU9y4xPqL7rnULJxxx8a0Q) (representative: [Sri Krishna](https://instagram.com/sri.cho?igshid=14tdzkji93kkl))
 - TE 💚 [Bengaluru](https://t.me/joinchat/J53IGRcR7KY6VSeK0vQK5w) (representative: [Adithya S Rao](https://www.facebook.com/profile.php?id=100004124409756))
 
