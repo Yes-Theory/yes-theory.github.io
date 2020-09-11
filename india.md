@@ -55,7 +55,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Bhubaneshwar](https://chat.whatsapp.com/IRcdscxE5Fz9cN35bkfedy) (representative: [Bibhuti Chhatria](https://www.facebook.com/bibhuti.chhatria))
 - WA 💚 [Kerala](https://chat.whatsapp.com/HwoA70lQ2KiBBqeziAD2ZP) (representative: [Abhay K](https://www.facebook.com/Abhayk00))
 - WA 💚 [North East India](https://chat.whatsapp.com/JTFzZpHRA48Ix1DiPPuRcP) (representative: [Aman Mishra](https://www.instagram.com/aammhh_._._/))
-- WA 💚 [Jaipur](https://chat.whatsapp.com/D7SaWYNh5BM1sfvI8wlOYn) (representative: [Abhijay Mathur](https://www.instagram.com/abj.2001/))
+- WA 💚 [Jaipur](https://chat.whatsapp.com/D7SaWYNh5BM1sfvI8wlOYn) (representative: [Divyansh Sharma](https://www.instagram.com/divyansh98sharma/))
 - WA 💚 [Mysuru](https://chat.whatsapp.com/IHeEJew6WX586PeYCLTeI6) (representative: [Adarsh Gachinamath](https://www.facebook.com/adarsh.g20))
 - WA 💚 [Punjab](https://chat.whatsapp.com/FD0APbFqokLLPYmfuzpFLy) (representative: [Krithi](https://www.instagram.com/ka_illustration/))
 - WA 💚 [Uttarakhand](https://chat.whatsapp.com/LZWINESlrk51DHQw7qiPLL) (representative: [Surya](https://www.instagram.com/kasana_sp/))
