@@ -64,7 +64,8 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Mysuru](https://chat.whatsapp.com/IHeEJew6WX586PeYCLTeI6) (representative: [Adarsh Gachinamath](https://www.facebook.com/adarsh.g20))
 - WA 💚 [Uttarakhand](https://chat.whatsapp.com/LZWINESlrk51DHQw7qiPLL) (representative: [Surya](https://www.instagram.com/kasana_sp/))
 
-* For WhatsApp group links of Mumbai and Punjab please dm the respective Instagram pages for the same.
+- For WhatsApp group links of Mumbai and Punjab please dm the respective Instagram pages for the same.
+
 ---
 
 - ME 💚 [India](https://m.me/join/AbYQ3LU2_niAZPpC) (representative: [Ajay Tantry](https://www.facebook.com/ajay.tantry))
