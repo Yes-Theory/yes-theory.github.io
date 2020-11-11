@@ -30,7 +30,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ---
 
-- [Yes Fam India Discord Server](https://discord.gg/rZpR5j3)
+- [Yes Fam India Discord Server](https://discord.gg/wvAJmJ6)
 - [Yes Fam India Official Twitter](https://twitter.com/YesFamIndia?s=09)
 
 ---
