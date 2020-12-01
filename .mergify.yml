@@ -30,7 +30,7 @@ pull_request_rules:
     actions:
       merge:
         method: merge
-      - name: automatic merge for technology representative of country - Germany
+  - name: automatic merge for technology representative of country - Germany
     conditions:
       - base=master
       - author=noelelias
