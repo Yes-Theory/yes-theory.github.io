@@ -32,6 +32,8 @@ $(function() {
                     break;
                     case 'AU': window.location.href = "/australia";
                     break;
+                    case 'BD': window.location.href = "/bangladesh";
+                    break;
                 }
             });
         }
