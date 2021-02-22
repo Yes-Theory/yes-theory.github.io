@@ -38,4 +38,11 @@ pull_request_rules:
     actions:
       merge:
         method: merge
+  - name: automatic merge for technology representative - global
+    conditions:
+      - base=master
+      - author=noelelias
+    actions:
+      merge:
+        method: merge
 
