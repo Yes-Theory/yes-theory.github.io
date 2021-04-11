@@ -54,7 +54,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Pune](https://chat.whatsapp.com/J3UCGSJ6sIJGyKsJnshWfp)
 - WA 💚 [Vizag](https://bit.ly/RegisterYFVSKP)
 - WA 💚 [Chandigarh](https://chat.whatsapp.com/LJvIe1qUhGnD7g7Sq35spu)
-- WA 💚 [Madhya Pradesh](https://docs.google.com/forms/d/e/1FAIpQLSem3e6cWxRkO6CrSfB6u9cBoxnThu1bKD2sRdGHOE6YzirhAg/viewform)
+- WA 💚 [Madhya Pradesh](https://docs.google.com/forms/d/e/1FAIpQLSexOt6qRDeqaT6f_yyb1Qnhm8weQB33LBlL3B5votvr8p0fLQ/viewform)
 - WA 💚 [Lucknow](https://chat.whatsapp.com/DBSrhAVZLzpG6IiP0T8b8C)
 - WA 💚 [Goa](https://chat.whatsapp.com/FcGu4Iw3xBLAzWq0liIbnJ)
 - WA 💚 [Gujarat](https://forms.gle/kME9BguGTRtsDDjk8)
