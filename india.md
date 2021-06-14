@@ -40,10 +40,9 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ---
 
+**_Note : In case of Google forms links, do dm the respective instagram page so that your request to join is processed quickly._**
 
-***Note : In case of Google forms links, do dm the respective instagram page so that your request to join is processed quickly.***
-
-- WA 💛 [India](https://chat.whatsapp.com/BnL7nUL71mh9NmsAyMumaH) 
+- WA 💛 [India](https://chat.whatsapp.com/BnL7nUL71mh9NmsAyMumaH)
 - WA 💛 [Bangalore](https://docs.google.com/forms/d/e/1FAIpQLSe6d-LOdV26_McsZ8ydghS2EFcuoI4ROli6GMpXCg7yKybT7w/viewform)
 - WA 💛 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu)
 - WA 💚 [Delhi2](https://chat.whatsapp.com/GiQLVqUJotNIE4JTbgJl2b)
@@ -63,11 +62,10 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - WA 💚 [Kerala](https://chat.whatsapp.com/HwoA70lQ2KiBBqeziAD2ZP)
 - WA 💚 [North East India](https://chat.whatsapp.com/JTFzZpHRA48Ix1DiPPuRcP)
 - WA 💚 [Jaipur](https://chat.whatsapp.com/D7SaWYNh5BM1sfvI8wlOYn)
-- WA 💚 [Mysuru](https://chat.whatsapp.com/IHeEJew6WX586PeYCLTeI6)
+- WA 💚 [Mysuru](https://chat.whatsapp.com/CY6FiXZWlZ80TEFC4WTYvb)
 - WA 💚 [Uttarakhand](https://chat.whatsapp.com/LZWINESlrk51DHQw7qiPLL)
 
 - For WhatsApp group links of Mumbai and Punjab please dm the respective Instagram pages for the same.
-
 
 ---
 
@@ -79,7 +77,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ## Instagram Pages
 
-**Do follow us on our official Instagram for the latest updates** 
+**Do follow us on our official Instagram for the latest updates**
 
 ###### [Yes Theory India](https://www.instagram.com/yestheory.india/) 🇮🇳
 
@@ -105,7 +103,6 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - [Tamil Nadu](https://www.instagram.com/yesfamtamilnadu/)
 - [Uttarakhand](https://www.instagram.com/yestheory_uttarakhand/)
 - [Visakhapatnam](https://www.instagram.com/yesfamvisakhapatnam/)
-
 
 ## Technical support
 
