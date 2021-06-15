@@ -42,7 +42,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 **_Note : In case of Google forms links, do dm the respective instagram page so that your request to join is processed quickly._**
 
-- WA 💛 [India](https://chat.whatsapp.com/BnL7nUL71mh9NmsAyMumaH)
+- WA 💛 [India](https://chat.whatsapp.com/Dwh7KtivXnD7amHpYchYsJ)
 - WA 💛 [Bangalore](https://docs.google.com/forms/d/e/1FAIpQLSe6d-LOdV26_McsZ8ydghS2EFcuoI4ROli6GMpXCg7yKybT7w/viewform)
 - WA 💛 [Delhi](https://chat.whatsapp.com/LyNCr1GkppR9qJ1X7tknHu)
 - WA 💚 [Delhi2](https://chat.whatsapp.com/GiQLVqUJotNIE4JTbgJl2b)
