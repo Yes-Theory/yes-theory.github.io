@@ -50,7 +50,6 @@ pages:
             url: https://chat.whatsapp.com/DloaKCjKm9aL161p7MtlcZ
             type: wa
             status: open
-        event-chats:
           - name: Bonn
             small: 1 Deyember 2019
             url: https://chat.whatsapp.com/JvqPMQT8spK5RJlLvThCha
@@ -87,7 +86,6 @@ pages:
             url: https://chat.whatsapp.com/ChrdxWUOY7w7SVlxy0lOtu
             status: open
             type: wa
-        event-chats:
           - name: Nuremberg
             small: 14 December 2019
             url: https://chat.whatsapp.com/EgeQaBqHR4DAOLy24G9Pw6
