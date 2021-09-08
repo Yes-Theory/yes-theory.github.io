@@ -79,7 +79,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 **Do follow us on our official Instagram for the latest updates**
 
-###### [India Yes Fam](https://instagram.com/indiayesfam) 🇮🇳
+###### [Yes Theory India](https://instagram.com/indiayesfam) 🇮🇳
 
 **For events and meetups, please follow your local Yes Fam Instagram page**
 
