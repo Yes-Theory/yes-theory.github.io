@@ -36,6 +36,7 @@ $(function() {
                     break;
                     case 'CH': window.location.href = "/switzerland";
                     break;
+                    default: window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSdnmL5-rVlPJ6GWkS_ThF3li3Lue6A66KAWsN9H4sPo-cxrFg/viewform?fbzx=5474454188899877035';
                 }
             });
         }
