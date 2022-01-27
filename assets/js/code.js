@@ -34,6 +34,8 @@ $(function() {
                     break;
                     case 'BD': window.location.href = "/bangladesh";
                     break;
+                    case 'CH': window.location.href = "/switzerland";
+                    break;
                 }
             });
         }
