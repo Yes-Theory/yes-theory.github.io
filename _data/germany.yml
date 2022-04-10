@@ -79,6 +79,10 @@ pages:
             status: open
             type: me
           - name: Munich
+            url: https://signal.group/#CjQKINgkcRnuMttJYnyu5INgZf-OIQZv5O6v0sX_TAc0LxXnEhCAesj6AYk0W1rxbYVsSYDr
+            status: open
+            type: signal
+          - name: Munich
             url: https://m.me/join/Aba5KvWx0zHCG1B5
             status: open
             type: fb
