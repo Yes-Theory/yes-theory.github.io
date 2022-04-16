@@ -1,7 +1,0 @@
-{% for country_page in site.data[country_name].pages %}
-    {% if country_page.name == 'contact' %}
-        <h2>Contact</h2>
-        <div>For questions regarding the content: <a title='contact the representative of {{ page.country }}' href='{{ country_page.country-representative.url }}' target='_blank'>{{ country_page.country-representative.name }}</a></div>
-        <div>For questions regarding technical stuff: <a title='contact the technical representative of {{ page.country }}' href='{{ country_page.technical-representative.url }}' target='_blank'>{{ country_page.technical-representative.name }}</a></div>
-    {% endif %}
-{% endfor %}

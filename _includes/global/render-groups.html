@@ -1,5 +1,0 @@
-{% assign item = include.item %}
-<h2>{% if item.name.size > 0 %}{{ item.name }}{% else %}{{ page.country }}{% endif %}</h2>
-{% include global/render-group.html item=item.groups name='Groups' %}
-{% include global/render-group.html item=item.group-chats name='Group chats' %}
-{% include global/render-group.html item=item.working-groups name='Working groups' %}

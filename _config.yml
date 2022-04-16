@@ -1,7 +1,0 @@
-theme: jekyll-theme-cayman
-title: Yes Fam
-description: Find Yes Theory groups, chats and events. We help you host events and connect you with yes fam members in your region.
-show_downloads: false
-name: Yes Theory Fam
-markdown: kramdown
-destination: ./build
